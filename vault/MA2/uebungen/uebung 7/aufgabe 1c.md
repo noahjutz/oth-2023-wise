@@ -29,6 +29,17 @@ $$
 		\Big(f'\big(f^{-1}(y_0)\big)\Big)^2
 	} \\
 
+	&= -\frac{
+		f''\big(f^{-1}(y_0)\big) \cdot \frac{1}{f'\big(f^{-1}(y_0)\big)}
+	}{
+		\Big(f'\big(f^{-1}(y_0)\big)\Big)^2
+	} \\
+
+	&= \boxed{-\frac{
+		f''\big(f^{-1}(y_0)\big)
+	}{
+		\Big(f'\big(f^{-1}(y_0)\big)\Big)^3
+	}} \\
 \end{align*}
 $$
 
@@ -36,24 +47,28 @@ $$
 
 Gesucht ist $\left(f^{-1}\right)''(2)$.
 
-> [!NOTE] Ableitung von $f$
+> [!NOTE] Ableitung von f
 >$$
 >\begin{gather*}
 >	f'(x) = 3x^2+2 && f''(x) = 6x
 >\end{gather*}
 >$$
 
-
 > [!NOTE] x und y
-> Wir wissen aus [[aufgabe 1b]], dass $y_0 = 2$ und $x_0 = 1$.
-
+> Wir wissen aus [[aufgabe 1b]], dass $f(1) = 2 \iff f^{-1}(2) = 1$.
 
 $$
 \begin{align*}
-	\left(f^{-1}\right)''(2) &= -\frac{f''(1)}{\big(f'(1)\big)^2} \\
+	\left(f^{-1}\right)''(2) &= -\frac{
+		f''\big(f^{-1}(2)\big)
+	}{
+		\Big(f'\big(f^{-1}(2)\big)\Big)^3
+	} \\
 
-	&= -\frac{6 \cdot 1}{(3+2)^2} \\
+	&= -\frac{f''(1)}{\big(f'(1)\big)^3} \\
+ 
+	&= -\frac{6}{(3+2)^3} \\
 
-	&= -\frac{6}{25}
+	&= \boxed{-\frac{6}{125}}
 \end{align*}
 $$

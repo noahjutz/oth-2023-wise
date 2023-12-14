@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 7/aufgabe 1c.md",
+                "file": "MA2/uebungen/uebung 7/aufgaben.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 7/aufgabe 1c.md",
+                "file": "MA2/uebungen/uebung 7/aufgaben.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 7/aufgabe 1c.md"
+                "file": "MA2/uebungen/uebung 7/aufgaben.pdf"
               }
             }
           }
@@ -166,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0823949c65efccb",
+  "active": "a43449da64242943",
   "lastOpenFiles": [
-    "MA2/uebungen/uebung 7/loesungen.pdf",
     "MA2/uebungen/uebung 7/aufgabe 1c.md",
+    "MA2/uebungen/uebung 7/loesungen.pdf",
     "MA2/uebungen/uebung 7/aufgaben.pdf",
     "MA2/uebungen/uebung 7/aufgabe 1b.md",
     "MA2/uebungen/uebung 7/aufgabe 1a.md",
