@@ -11,8 +11,34 @@
             "id": "76bbc3cf87747ff4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MA2/uebungen/uebung 7/aufgabe 1a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac429f0b8b726680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f693a0340bba3df",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/uebungen/uebung 7/aufgaben.pdf"
+              }
             }
           }
         ]
@@ -81,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MA2/uebungen/uebung 7/aufgabe 1a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MA2/uebungen/uebung 7/aufgabe 1a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MA2/uebungen/uebung 7/aufgabe 1a.md"
+              }
             }
           }
         ],
@@ -140,6 +170,12 @@
   },
   "active": "76bbc3cf87747ff4",
   "lastOpenFiles": [
+    "MA2/uebungen/uebung 7/aufgaben.pdf",
+    "MA2/klausurvorbereitung/formelsammlung.md",
+    "MA2/uebungen/uebung 7/aufgabe 1a.md",
+    "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
+    "MA2/uebungen/uebung 7/aufgabe 1a f.png",
+    "MA2/uebungen/uebung 6/aufgabe 2.md",
     "DB/uebungen/uebung 9/aufgaben.pdf",
     "DB/uebungen/uebung 9/aufgabe 1.md",
     "DB/uebungen/uebung 9/aufgabe 2.md",
@@ -147,12 +183,9 @@
     "DB/uebungen/uebung 10/aufgabe 1.md",
     "DB/uebungen/uebung 10/aufgaben.pdf",
     "DB/uebungen/uebung 10/aufgabe_1_bild.png",
-    "MA2/uebungen/uebung 6/aufgabe 2.md",
     "DB/uebungen/uebung 10",
-    "MA2/uebungen/uebung 7/aufgaben.pdf",
     "MA2/uebungen/uebung 6/loesungen.pdf",
     "MA2/uebungen/uebung 6/aufgaben.pdf",
-    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 7/loesungen.pdf",
     "MA2/uebungen/uebung 7",
     "MA2/uebungen/uebung 6/aufgabe 1.md",
@@ -175,8 +208,6 @@
     "DB/uebungen/uebung 6/aufgabe 1.md",
     "DB/uebungen/uebung 7/aufgabe 0.md",
     "DB/uebungen/uebung 7/aufgabe 1.md",
-    "DB/uebungen/uebung 7/aufgabe 2.md",
-    "test.md",
     "Untitled.canvas",
     "KS/uebungen/uebung 2/aufgabe_2_img.png",
     "somecanvas.canvas"
