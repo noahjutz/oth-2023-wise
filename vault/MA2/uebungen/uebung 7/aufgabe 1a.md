@@ -2,34 +2,36 @@ $$
 f(x) = x^3 + 2x - 1
 $$
 
-Ja, man muss $f$ einschränken, um die Umkehrfunktion $f^{-1}$ zu erzeugen.
+![[f.svg|250]]
 
-# Begründung
+Nein, man muss den Definitionsbereich nicht einschränken, um $f$ umzukehren.
 
-![[aufgabe 1a f.png|250]]
+# Warum?
 
-$f$ hat in $x = -1$ eine waagrechte Symmetrieachse.
-$\implies f$ ist nicht injektiv.
-$\implies f$ ist nicht bijektiv.
-$\implies f$ ist nicht in $D = \mathbb{R}$ umkehrbar.
-
-# Einschränken - wie?
-
-Man muss entweder alle Werte $x < -1$ oder $x > -1$ aus der Definitionsmenge $D = \mathbb{R}$ entfernen.
+## Injektiv
 
 $$
 \begin{gather*}
-	D = \left[-1; \infty\right[
-	&\text{oder}&
-	D = \left]-\infty; -1\right]
+	f'(x) = 2x^2+2 \\
+	f'(x) > 0 \ \forall x \in \mathbb{R} \\
 \end{gather*}
 $$
 
-# Umkehrfunktion
+$\implies f$ ist streng monoton steigend
+$\implies f$ ist injektiv
+
+## Surjektiv
 
 $$
-\begin{align*}
-	y &= x^3+2x-1 \\
-\end{align*}
+\begin{gather*}
+	\lim_{x \to -\infty} f(x) = -\infty
+	&
+	\lim_{x \to \infty} f(x) = \infty \\
+\end{gather*}
 $$
-todo: nach x auflösen, dann y und x tauschen
+
+$\implies f$ ist surjektiv
+
+## Bijektiv
+
+$f$ ist injektiv und surjektiv $\implies$ f ist bijektiv $\implies$ f ist umkehrbar.
