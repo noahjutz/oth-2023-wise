@@ -55,7 +55,7 @@ Gesucht ist $\left(f^{-1}\right)''(2)$.
 >$$
 
 > [!NOTE] x und y
-> Wir wissen aus [[aufgabe 1b]], dass $f(1) = 2 \iff f^{-1}(2) = 1$.
+> Wir wissen aus [[MA2/uebungen/uebung 7/aufgabe 1b]], dass $f(1) = 2 \iff f^{-1}(2) = 1$.
 
 $$
 \begin{align*}
