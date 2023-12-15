@@ -8,6 +8,8 @@ $$
 
 Finde das globale Minimum in $f(x) = \sin x + \cos x$  mit $D = \left[0;\frac{\pi}{2}\right]$.
 
+![[aufgabe 2 f.svg|300]]
+
 ## 1 Funktion bestimmen
 
 gegeben.
@@ -45,10 +47,4 @@ $$
 $$
 $\implies f'$  hat keine Nullstellen
 
-## 6 Definitionsbereich prüfen
-
-Nicht relevant
-
-## 7 Bestimmung des globalen Minimums
-
-$n = 0$ und $D_f$ ist geschlossen $\implies$ Extremwert ist einer der Randpunkte.
+> [!fail] Falsch
