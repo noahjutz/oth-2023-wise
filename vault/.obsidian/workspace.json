@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/uebungen/uebung 8/aufgabe 1b.md",
+                "file": "MA2/uebungen/uebung 8/aufgabe 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +38,16 @@
               "type": "pdf",
               "state": {
                 "file": "MA2/uebungen/uebung 8/aufgaben.pdf"
+              }
+            }
+          },
+          {
+            "id": "37ae9afa2732cb13",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/uebungen/uebung 8/loesungen.pdf"
               }
             }
           }
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 8/aufgabe 1b.md",
+                "file": "MA2/uebungen/uebung 8/aufgabe 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 8/aufgabe 1b.md",
+                "file": "MA2/uebungen/uebung 8/aufgabe 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 8/aufgabe 1b.md"
+                "file": "MA2/uebungen/uebung 8/aufgabe 2.md"
               }
             }
           }
@@ -171,10 +181,15 @@
   "active": "055882e6dbf67589",
   "lastOpenFiles": [
     "MA2/klausurvorbereitung/formelsammlung.md",
-    "MA2/uebungen/uebung 8/aufgabe 1b.md",
     "MA2/uebungen/uebung 8/aufgaben.pdf",
-    "MA2/uebungen/uebung 8/aufgabe 1a.md",
+    "MA2/uebungen/uebung 8/aufgabe 2.md",
     "MA2/uebungen/uebung 8/loesungen.pdf",
+    "MA2/uebungen/uebung 8/aufgabe 1f.md",
+    "MA2/uebungen/uebung 8/aufgabe 1a.md",
+    "MA2/uebungen/uebung 8/aufgabe 1b.md",
+    "MA2/uebungen/uebung 8/aufgabe 1c.md",
+    "MA2/uebungen/uebung 8/aufgabe 1d.md",
+    "MA2/uebungen/uebung 8/aufgabe 1e.md",
     "DB/uebungen/uebung 10/aufgabe 1.md",
     "MA2/uebungen/uebung 8",
     "DB/uebungen/uebung 10/aufgaben.pdf",
@@ -204,11 +219,6 @@
     "MA2/fragen.md",
     "MA2/uebungen/uebung 3/aufgabe 3/c.md",
     "MA2/uebungen/uebung 5/aufgabe 2/c.md",
-    "MA2/uebungen/uebung 5/aufgabe 2/b.md",
-    "MA2/uebungen/uebung 5/aufgabe 2/a.md",
-    "DB/uebungen/uebung 5/aufgabe 2.md",
-    "DB/uebungen/uebung 5/aufgabe 1.md",
-    "DB/uebungen/uebung 6/aufgabe 3.md",
     "Untitled.canvas",
     "KS/uebungen/uebung 2/aufgabe_2_img.png",
     "somecanvas.canvas"
