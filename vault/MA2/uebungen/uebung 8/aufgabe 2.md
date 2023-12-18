@@ -8,7 +8,7 @@ $$
 
 Finde das globale Minimum in $f(x) = \sin x + \cos x$  mit $D = \left[0;\frac{\pi}{2}\right]$.
 
-![[aufgabe 2 f.svg|300]]
+![[aufgabe 2 funktion.svg|300]]
 
 ## 1 Funktion bestimmen
 
