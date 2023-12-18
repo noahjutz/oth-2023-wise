@@ -48,3 +48,17 @@ $$
 $\implies f'$  hat keine Nullstellen
 
 > [!fail] Falsch
+
+$$
+\begin{align*}
+	f'(x) &= 0 \\
+	\cos x - \sin x &= 0 \\
+	\cos x &= \sin x \\
+	\frac{\cos x}{\cos x} &=  \frac{\sin x}{\cos x} \\
+	1 &= \tan x \\
+
+	\arctan 1 &= x \\
+
+	\underline{\frac{\pi}{4}} &= x
+\end{align*}
+$$
