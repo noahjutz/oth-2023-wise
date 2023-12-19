@@ -23,9 +23,11 @@
             "id": "01a62db55e330e98",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DB/uebungen/uebung 11/aufgaben.pdf"
+                "file": "DB/uebungen/uebung 11/aufgabe 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/uebungen/uebung 11/aufgaben.pdf",
+                "file": "DB/uebungen/uebung 11/aufgabe 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/uebungen/uebung 11/aufgaben.pdf",
+                "file": "DB/uebungen/uebung 11/aufgabe 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/uebungen/uebung 11/aufgaben.pdf"
+                "file": "DB/uebungen/uebung 11/aufgabe 1.md"
               }
             }
           }
@@ -157,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01a62db55e330e98",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
-    "DB/uebungen/uebung 11/aufgabe 1.md",
-    "DB/uebungen/uebung 11/aufgaben.pdf",
     "DB/uebungen/uebung 11/aufgabe 0.md",
+    "DB/uebungen/uebung 11/aufgaben.pdf",
+    "DB/uebungen/uebung 11/aufgabe 1.md",
     "DB/uebungen/uebung 11/tmp.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "DB/uebungen/uebung 11",
