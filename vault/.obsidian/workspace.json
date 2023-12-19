@@ -30,9 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab7550cd8eaff603",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DB/uebungen/uebung 11/aufgaben.pdf"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "59f09a104ff040c1",
   "lastOpenFiles": [
-    "DB/uebungen/uebung 11/aufgabe 0.md",
     "DB/uebungen/uebung 11/aufgaben.pdf",
     "DB/uebungen/uebung 11/aufgabe 1.md",
+    "DB/uebungen/uebung 11/aufgabe 0.md",
     "DB/uebungen/uebung 11/tmp.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "DB/uebungen/uebung 11",
