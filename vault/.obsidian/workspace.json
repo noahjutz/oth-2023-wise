@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/tutorium/tutorium 10/aufgabe 24a.md",
+                "file": "MA2/uebungen/uebung 8/aufgabe 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/tutorium/tutorium 10/aufgabe 24a.md",
+                "file": "MA2/uebungen/uebung 8/aufgabe 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/tutorium/tutorium 10/aufgabe 24a.md",
+                "file": "MA2/uebungen/uebung 8/aufgabe 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/tutorium/tutorium 10/aufgabe 24a.md"
+                "file": "MA2/uebungen/uebung 8/aufgabe 2.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e55c146d28e185b3",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
-    "MA2/tutorium/tutorium 10",
     "MA2/tutorium/tutorium 10/aufgabe 24a.md",
+    "MA2/tutorium/tutorium 10",
     "MA2/tutorium",
     "MA2/uebungen/uebung 8/aufgaben.pdf",
     "MA2/uebungen/uebung 8/aufgabe 2.md",
@@ -180,7 +180,6 @@
     "MA2/uebungen/uebung 7/aufgabe 1a f.png",
     "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
     "MA2/uebungen/uebung 6/aufgabe 2.md",
-    "DB/uebungen/uebung 9/aufgaben.pdf",
     "DB/uebungen/uebung 9/aufgabe 1.md",
     "DB/uebungen/uebung 9/aufgabe 2.md",
     "DB/klausurvorbereitung/Formelsammlung.md",
