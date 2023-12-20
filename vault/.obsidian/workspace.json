@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a78739248cbf32f",
+        "id": "3f5b7a1d5dd1ce8f",
         "type": "tabs",
         "children": [
           {
-            "id": "e55c146d28e185b3",
+            "id": "15a7cef4157e6534",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MA2/uebungen/uebung 8/aufgabe 2.md",
-                "mode": "source",
-                "source": false
+                "file": "DB/uebungen/uebung 11/aufgaben.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 8/aufgabe 2.md",
+                "file": "DB/uebungen/uebung 11/aufgaben.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 8/aufgabe 2.md",
+                "file": "DB/uebungen/uebung 11/aufgaben.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 8/aufgabe 2.md"
+                "file": "DB/uebungen/uebung 11/aufgaben.pdf"
               }
             }
           }
@@ -148,15 +146,15 @@
   },
   "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "DB/uebungen/uebung 11/aufgabe 1.md",
+    "DB/uebungen/uebung 11/aufgabe 0.md",
+    "MA2/uebungen/uebung 8/aufgabe 2.md",
     "MA2/tutorium/tutorium 10/aufgabe 24a.md",
     "MA2/tutorium/tutorium 10",
     "MA2/tutorium",
     "MA2/uebungen/uebung 8/aufgaben.pdf",
-    "MA2/uebungen/uebung 8/aufgabe 2.md",
     "MA2/uebungen/uebung 8/loesungen.pdf",
-    "DB/uebungen/uebung 11/aufgabe 1.md",
     "DB/uebungen/uebung 11/aufgaben.pdf",
-    "DB/uebungen/uebung 11/aufgabe 0.md",
     "DB/uebungen/uebung 11/tmp.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "DB/uebungen/uebung 11",

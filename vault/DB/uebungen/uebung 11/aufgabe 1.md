@@ -1,8 +1,9 @@
-# Ideen
+# Ideas
 - Workout Tracker
 - TV Show tracker
 - ASCII Paint
 - ASCII Map editor and game
+- ASCII r/place
 
 # ASCII Map editor and game
 
@@ -76,4 +77,38 @@ a[encoded game]--java-->b[ascii]
 - Only print score to keep it simple
 - every tick, increase player's y position
 
+# ASCII Place
 
+```
+############################################################################
+#      .                  *                     *                   
+#            *        .          *        .           *        .       .
+#    .         .            .          .     *            .         *
+# *     ,_          *   .-.-------.               .           .          .
+#     __(_\   .        //^\\       \  *      .         . *           . 
+#   ~( _ )    ___      \\_//_______/                    .--------.-.
+#^^^ // >>^^,/ _ )~ ^^/[_=/]______]^^^^^^^^^^^^^^^^^^^^/        //^\\^^^^^^^
+#          /_/< \\   /_(=/ (o)  (o)                    \________\\=//
+#                           ~    ~             ^^      [________[\__]\
+#    ^^^               ^^          .="=.               (o)    (o)`\=)_\
+#                             /\_ /|6 6|\ _/\           ~      ~
+#          )     ^^           \_//O\_+_/O\\_/
+#        o ,( o                \\\/`"""`\///                      ^^
+#      o =(_,)= o               \   ($)   /     ^^^
+#      o ="  "= o      ^^^     ./---/_\---\.
+#        o oo o               /`"---------"`\          ^^  
+#                            /   /   |   \   \                     ^^^
+#     ^^                     /   /   |   \   \   ^^
+#jgs              ^^^        `._._.-'-._.-'-.'            ^^
+##############################################################################
+```
+
+- Players can replace a character every 10 seconds
+- 100x100 canvas
+- History is stored in db as well
+
+## UX
+
+- up/right/left/down controls, cursor is indicated by (blinking?) #
+- screen is refreshed continuously
+- press character key to insert
