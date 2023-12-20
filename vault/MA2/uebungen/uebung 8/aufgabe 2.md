@@ -1,3 +1,5 @@
+# Zu zeigen
+
 $$
 \forall x \in \left[
 	0; \frac{\pi}{2}
@@ -6,7 +8,7 @@ $$
 
 # Beweis
 
-Finde das globale Minimum in $f(x) = \sin x + \cos x$  mit $D = \left[0;\frac{\pi}{2}\right]$.
+Finde das globale Maximum in $f(x) = \sin x + \cos x$  mit $D = \left[0;\frac{\pi}{2}\right]$.
 
 ![[aufgabe 2 funktion.svg|300]]
 
@@ -77,9 +79,9 @@ $$
 
 es kommen in frage:
 
-- $x = \frac{\pi}{4}$
-- $x = 0$
-- $x = \frac{\pi}{2}$
+- $x_0 = \frac{\pi}{4}$
+- $x_0 = 0$
+- $x_0 = \frac{\pi}{2}$
 
 $$
 f\left(\frac{\pi}{4}\right) = \sin \frac{\pi}{4} + \cos \frac{\pi}{4} = \sqrt 2
@@ -93,4 +95,16 @@ $$
 f(0) = \sin 0 + \cos 0 = 1
 $$
 
-$\implies$ $x = \frac{\pi}{4}$ ist das 
+$\implies$ $x_0 = \frac{\pi}{4}$ ist ein globales strenges Maximum in $D$.
+
+> [!info] 4.21, 4.22 Extrema
+> - **Relativ/Lokal:** $\forall x \in \mathcal{U}_\delta$
+> 	- **Generell:** $f(x_0) \ge f(x)$
+> 	- **Streng/Isoliert:** $f(x_0) > f(x)$
+> - **Global/Isoliert**: $\forall x \in D$
+> 	- **Generell:** $f(x_0) \ge f(x)$
+> 	- **Streng/Isoliert:** Gibt es das?
+
+# 8 Antwortsatz
+
+da $x_0 = \frac{\pi}{2}$ das globale Maximum in $D$ ist, gibt es kein $x \in D$, das größer als $x_0$ ist. Es gilt also für alle $x \in D$, dass $f(x) \le x_0 = \sqrt 2$. $\blacksquare$
