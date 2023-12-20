@@ -62,3 +62,35 @@ $$
 	\underline{\frac{\pi}{4}} &= x
 \end{align*}
 $$
+
+$\implies$ es gibt einen Extrempunkt oder Terassenpunkt in $x = \frac{\pi}{4}$.
+
+> [!check] Richtig
+
+## 6 Liegt im Definitionsbereich?
+
+$$
+\frac{\pi}{4} \in D = \left[0;\frac{\pi}{2}\right] \ \checkmark
+$$
+
+## 7 Bestimmung des globalen Maximums
+
+es kommen in frage:
+
+- $x = \frac{\pi}{4}$
+- $x = 0$
+- $x = \frac{\pi}{2}$
+
+$$
+f\left(\frac{\pi}{4}\right) = \sin \frac{\pi}{4} + \cos \frac{\pi}{4} = \sqrt 2
+$$
+
+$$
+f\left(\frac{\pi}{2}\right) = \sin \frac{\pi}{2} + \cos \frac{\pi}{2} = 1
+$$
+
+$$
+f(0) = \sin 0 + \cos 0 = 1
+$$
+
+$\implies$ $x = \frac{\pi}{4}$ ist das 
