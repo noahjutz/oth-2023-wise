@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3f5b7a1d5dd1ce8f",
+        "id": "4c2cb220c8d2c6f1",
         "type": "tabs",
         "children": [
           {
-            "id": "15a7cef4157e6534",
+            "id": "be8887414c6ddf0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB/uebungen/uebung 11/aufgabe 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/uebungen/uebung 11/aufgabe 1.md",
+                "file": "DB/uebungen/uebung 10/aufgaben.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/uebungen/uebung 11/aufgabe 1.md",
+                "file": "DB/uebungen/uebung 10/aufgaben.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/uebungen/uebung 11/aufgabe 1.md"
+                "file": "DB/uebungen/uebung 10/aufgaben.pdf"
               }
             }
           }
@@ -146,10 +142,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15a7cef4157e6534",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
-    "DB/uebungen/uebung 11/aufgaben.pdf",
+    "DB/uebungen/uebung 10/aufgabe 1.md",
     "DB/uebungen/uebung 11/aufgabe 1.md",
+    "DB/uebungen/uebung 11/aufgaben.pdf",
     "DB/uebungen/uebung 11/aufgabe 1 brainstorming.md",
     "DB/uebungen/uebung 11/aufgabe 0.md",
     "MA2/uebungen/uebung 8/aufgabe 2.md",
@@ -169,7 +166,6 @@
     "MA2/uebungen/uebung 8/aufgabe 1c.md",
     "MA2/uebungen/uebung 8/aufgabe 1d.md",
     "MA2/uebungen/uebung 8/aufgabe 1e.md",
-    "DB/uebungen/uebung 10/aufgabe 1.md",
     "MA2/uebungen/uebung 8",
     "DB/uebungen/uebung 10/aufgaben.pdf",
     "MA2/uebungen/uebung 7/f.svg",
