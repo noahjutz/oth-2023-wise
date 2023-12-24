@@ -11,8 +11,12 @@
             "id": "be8887414c6ddf0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DB/uebungen/uebung 11/aufgabe 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/uebungen/uebung 10/aufgaben.pdf",
+                "file": "DB/uebungen/uebung 11/aufgabe 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/uebungen/uebung 10/aufgaben.pdf",
+                "file": "DB/uebungen/uebung 11/aufgabe 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/uebungen/uebung 10/aufgaben.pdf"
+                "file": "DB/uebungen/uebung 11/aufgabe 1.md"
               }
             }
           }
@@ -144,11 +148,11 @@
   },
   "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "DB/uebungen/uebung 11/aufgabe 0.md",
     "DB/uebungen/uebung 10/aufgabe 1.md",
     "DB/uebungen/uebung 11/aufgabe 1.md",
     "DB/uebungen/uebung 11/aufgaben.pdf",
     "DB/uebungen/uebung 11/aufgabe 1 brainstorming.md",
-    "DB/uebungen/uebung 11/aufgabe 0.md",
     "MA2/uebungen/uebung 8/aufgabe 2.md",
     "MA2/tutorium/tutorium 10/aufgabe 24a.md",
     "MA2/tutorium/tutorium 10",
