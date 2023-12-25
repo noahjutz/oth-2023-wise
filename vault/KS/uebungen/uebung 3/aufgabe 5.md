@@ -20,6 +20,11 @@
 ^^^^^^^^ ^^^^^^^^ ^^^^^
 ```
 
+
+> [!fail] Falsche Umrechnung (erste 8 bits)
+> 137 = `10001001`
+
+
 ## Subnetze
 ### A
 $$
@@ -133,6 +138,8 @@ $$
 \end{gather*}
 $$
 
+> [!check] Richtig
+
 > [!NOTE] Zusammenfassung
 > $$
 > \begin{align*}
@@ -211,33 +218,52 @@ $$
 		\textcolor{grey}{10001111.00010111.00000}
 		\textcolor{red}{0}
 		\textcolor{grey}{00.00000000}
-	} \\
-
-	\\
-
-	\text{Übrig}&&\mathtt{
-		\textcolor{grey}{10001111.00010111.00000}
-		1
-		\textcolor{grey}{XX.\!XXXXXXXX}
-	} \\
-
-	&&\mathtt{
-		\textcolor{grey}{10001111.00010111.00000}
-		011
-		\textcolor{grey}{.\!XXXXXXXX}
-	} \\
-
-	&&\mathtt{
-		\textcolor{grey}{10001111.00010111.00000}
-		010
-		\textcolor{grey}{.}\!
-		1
-		\textcolor{grey}{XXXXXXX}
-	} \\
-
-	&&\mathtt{...}
+	}
 \end{align*}
 $$
+
+
+> [!fail] Überlappende Präfixe
+>
+>$$
+>\begin{align*}
+>	A&&\mathtt{
+>		\textcolor{grey}{10001111.00010111.00000}
+>		\textcolor{red}{111}
+>		\textcolor{grey}{.}\!
+>		\textcolor{red}{1}
+>		\textcolor{grey}{0000000}
+>	} \\
+>
+>	B&&\mathtt{
+>		\textcolor{grey}{10001111.00010111.00000}
+>		\textcolor{red}{111}
+>		\textcolor{grey}{.}\!
+>		\textcolor{red}{00}
+>		\textcolor{grey}{000000}
+>	} \\
+>
+>	C&&\mathtt{
+>		\textcolor{grey}{10001111.00010111.00000}
+>		\textcolor{red}{110}
+>		\textcolor{grey}{.}\!
+>		\textcolor{red}{0}
+>		\textcolor{grey}{0000000}
+>	} \\
+>
+>	D&&\mathtt{
+>		\textcolor{grey}{10001111.00010111.00000}
+>		\textcolor{red}{10}
+>		\textcolor{grey}{0.00000000}
+>	} \\
+>
+>	E&&\mathtt{
+>		\textcolor{grey}{10001111.00010111.00000}
+>		\textcolor{red}{0}
+>		\textcolor{grey}{00.00000000}
+>	}
+>\end{align*}
+>$$
 
 # Antwort
 |Subnetz|Netz-ID|Interface-IDs|Broadcast|
@@ -247,6 +273,8 @@ $$
 |C|137.32.1.0/25|137.32.1.1 - 137.32.1.126|137.32.1.127|
 |D|137.32.2.0/23|137.32.2.1 - 137.32.3.254|137.32.3.255|
 |E|137.32.0.0/22|137.32.0.1 - 137.32.3.254|137.32.3.255|
+
+> [!check] Subnetzmasken richtig
 
 # Netzwerk-Plan
 ```mermaid
@@ -265,3 +293,13 @@ X---|137.32.1.0|C
 X---|137.32.2.0|D
 X---|137.32.0.0|E
 ```
+
+> [!note] Lösung
+> 
+|Abteilung|Netzwerkadresse|Host-Adressen|Router-Adresse|Broadcast- Adresse|
+|-|-|-|-|-|
+|A|137.23.6.128/25|137.23.6.130 - 137.23.6.254|137.23.6.129|137.23.6.255|
+|B|137.23.7.0/26|137.23.7.2 - 137.23.7.62|137.23.7.1|137.23.7.63|
+|C|137.23.6.0/25|137.23.6.2 - 137.23.6.126|137.23.6.1|137.23.6.127|
+|D|137.23.4.0/23|137.23.4.2 - 137.23.5.254|137.23.4.1|137.23.5.255|
+|E|137.23.0.0/22|137.23.0.2 - 137.23.3.254|137.23.0.1|137.23.3.255|
