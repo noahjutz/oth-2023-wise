@@ -6,18 +6,36 @@ $$
 \end{align}
 $$
 
-# Ableitung von $x^x$
+# Die Funktion $f(x) = x^x$
+
+## Ableitung
 
 $$
 \begin{align*}
-	(x^x)' \overset{4.4}{=} 
+	(x^x)'
+\end{align*}
+$$
+
+## Für negative x
+
+$$
+\begin{align*}
+	f(-0.4) &= (-0.4)^{-0.4} \\
+	
+	&= \frac{1}{(-0.4)^{0.4}} \\
+	
+	&= \frac{1}{(-0.4)^{\frac{2}{5}}} \\
+	
+	&= \frac{1}{\sqrt[5]{(-0.4)^2}} \\
+	
+	&> 0
 \end{align*}
 $$
 
 $$
-\begin{gather*}
-	x^x = f(g(x)) \\
- 
-	f(x) = x^x & g(x) = x
-\end{gather*}
+\begin{align*}
+	f(-0.2) &= \frac{1}{(-0.2)^\frac{1}{5}} = \frac{1}{\sqrt[5]{(-0.2)^1}} < 0 \\
+	
+	&= \frac{1}{(-0.2)^\frac{2}{10}} = \frac{1}{\sqrt[10]{(-0.2)^2}} > 0
+\end{align*}
 $$
