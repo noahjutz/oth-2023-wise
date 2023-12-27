@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6a53981dbef2f1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "31d15c006fdad635",
             "type": "leaf",
             "state": {
@@ -158,10 +170,12 @@
   },
   "active": "63a4610224bc7252",
   "lastOpenFiles": [
-    "MA2/uebungen/uebung 9/aufgaben.pdf",
-    "MA2/uebungen/uebung 9/aufgabe 1b.md",
-    "MA2/uebungen/uebung 9/loesungen.pdf",
     "MA2/klausurvorbereitung/formelsammlung.md",
+    "MA2/uebungen/uebung 9/aufgabe 1b.md",
+    "MA2/uebungen/uebung 9/aufgaben.pdf",
+    "MA2/klausurvorbereitung/formelsammlung log.svg",
+    "desmos-graph.svg",
+    "MA2/uebungen/uebung 9/loesungen.pdf",
     "MA2/uebungen/uebung 9/aufgabe 1a.md",
     "Pasted image 20231226153521.png",
     "MA2/uebungen/uebung 8/aufgabe 2.md",
