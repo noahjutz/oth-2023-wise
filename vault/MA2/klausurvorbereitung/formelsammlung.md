@@ -1,22 +1,26 @@
-# Binomische Formeln
+# Formeln/Gesetze
+## Binomische Formeln
 
 $$
-(a+b)^2 = a^2+2ab+b^2
+\begin{gather*}
+	(a+b)^2 = a^2+2ab+b^2 \\
+	(a-b)^2 = a^2 -2ab + b^2 \\
+	(a+b)(a-b) = a^2 - b^2 \\
+\end{gather*}
 $$
 
-$$
-(a-b)^2 = a^2 -2ab + b^2
-$$
-
-$$
-(a+b)(a-b) = a^2 - b^2
-$$
-
-# Mitternachtsformel
+## Mitternachtsformel
 
 $$
 x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
 $$
+
+## Potenz / Wurzel
+
+$$
+x^{-\frac{m}{n}} = \frac{1}{\sqrt[n]{x^m}}
+$$
+
 
 # Injektiv, Surjektiv, Bijektiv
 
@@ -29,11 +33,18 @@ $$
 # Ableitungen
 
 $$
-\begin{align*}
-	(x^x)' &= x^x \cdot (\ln x + 1) \\
+\begin{gather*}
+	x^x
+	\to x^x \cdot (\ln x + 1)
+	\to x^x \cdot \left(\frac{1}{x} + (\ln x + 1)^2\right) \\
 
-	\left(\frac{1}{x}\right)' &= -\frac{1}{x^2}
-\end{align*}
+	x \ln x
+	\to \ln x + 1 
+	\to \frac{1}{x}
+	\to -\frac{1}{x^2}
+	\to \frac{2}{x^3}
+	\to -\frac{6}{x^4}\\
+\end{gather*}
 $$
 
 # Logarithmus
