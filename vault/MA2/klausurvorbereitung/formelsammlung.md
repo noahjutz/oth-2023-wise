@@ -15,12 +15,15 @@ $$
 x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
 $$
 
-## Potenz / Wurzel
+## Potenzgesetze
 
 $$
-x^{-\frac{m}{n}} = \frac{1}{\sqrt[n]{x^m}}
+\begin{gather*}
+	\frac{x^a}{x^b} = x^{a-b} \\
+	x^a \cdot x^b = x^{a+b}\\
+	x^{-\frac{m}{n}} = \frac{1}{\sqrt[n]{x^m}}
+\end{gather*}
 $$
-
 
 # Injektiv, Surjektiv, Bijektiv
 

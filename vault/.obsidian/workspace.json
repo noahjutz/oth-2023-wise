@@ -20,6 +20,28 @@
             }
           },
           {
+            "id": "680049ffce3e8da3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/uebungen/uebung 9/loesungen.pdf"
+              }
+            }
+          },
+          {
+            "id": "2503add7e49cbe63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e950350b51ebc007",
             "type": "leaf",
             "state": {
@@ -158,9 +180,9 @@
   },
   "active": "6a53981dbef2f1e9",
   "lastOpenFiles": [
-    "MA2/klausurvorbereitung/formelsammlung.md",
-    "MA2/uebungen/uebung 9/aufgabe 2a.md",
     "MA2/uebungen/uebung 9/loesungen.pdf",
+    "MA2/uebungen/uebung 9/aufgabe 2a.md",
+    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 9/aufgaben.pdf",
     "MA2/uebungen/uebung 9/aufgabe 1c.md",
     "MA2/uebungen/uebung 9/aufgabe 1b.md",
