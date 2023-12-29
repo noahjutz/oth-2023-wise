@@ -37,20 +37,35 @@ $$
 
 $$
 \begin{gather*}
-	x^x
+	\textcolor{blue}{x^x}
 	\to x^x \cdot (\ln x + 1)
 	\to x^x \cdot \left(\frac{1}{x} + (\ln x + 1)^2\right) \\
 
 	x \ln x
 	\to \ln x + 1 
-	\to \frac{1}{x}
-	\to -\frac{1}{x^2}
-	\to \frac{2}{x^3}
-	\to -\frac{6}{x^4}\\
+	\to \textcolor{blue}{\frac{1}{x}}
+	\to -x^{-2}
+	\to 2 x^{-3}
+	\to -6 x^{-4} \\
+
+	\frac{8}{105} x^\frac{7}{2}
+	\to \frac{4}{15} x^\frac{5}{2}
+	\to \frac{2}{3} x^\frac{3}{2}
+	\to \textcolor{blue}{\sqrt x}
+	\to \frac{1}{2} x^{-\frac{1}{2}}
+	\to -\frac{1}{4} x^{-\frac{3}{2}}
+	\to \frac{3}{8} x^{-\frac{5}{2}}
+	\to \frac{15}{16} x^{-\frac{7}{2}} \\
+
+	
+	\to \frac{1}{2} x^2
+	\to \textcolor{blue}{x}
+	\to 1
+	\to 0 \\
 \end{gather*}
 $$
 
-# Logarithmus
+# Logarithmus und Exponentialfunktionen
 
 ![[formelsammlung log.svg|300]]
 

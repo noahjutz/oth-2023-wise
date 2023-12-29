@@ -65,12 +65,12 @@ $$
 			\frac{1}{2}x^{-\frac{1}{2}} \cdot x^\frac{1}{2} +
 			1 \cdot x^\frac{1}{2} -
 			\frac{1}{2}x^{-\frac{1}{2}} \cdot x -
-			x^2
+			1 \cdot x
 		\right) - \left(
 			x^\frac{1}{2} \cdot \frac{1}{2} x^{-\frac{1}{2}} +
 			x \cdot \frac{1}{2} x^{-\frac{1}{2}} -
-			x^\frac{1}{2} \cdot x -
-			x^2
+			x^\frac{1}{2} \cdot 1 -
+			x \cdot 1
 		\right)
 	}{
 		\left(
@@ -80,9 +80,9 @@ $$
 
 	&= \frac{
 		\left(
-			\frac{1}{2} x^0 + x^\frac{3}{2} - \frac{1}{2} x^\frac{1}{2}  - x^2
+			\frac{1}{2} x^0 + x^\frac{1}{2} - \frac{1}{2} x^\frac{1}{2}  - x
 		\right) - \left(
-			\frac{1}{2} x^0 + \frac{1}{2} x^\frac{1}{2} - x^\frac{3}{2} - x^2
+			\frac{1}{2} x^0 + \frac{1}{2} x^\frac{1}{2} - x^\frac{1}{2} - x
 		\right)
 	}{
 		\left(
@@ -91,8 +91,8 @@ $$
 	} \\
 
 	&= \frac{
-		\frac{1}{2} + x^\frac{3}{2} - \frac{1}{2} x^\frac{1}{2} - x^2 -
-		\frac{1}{2} - \frac{1}{2}x^\frac{1}{2} + x^\frac{3}{2} + x^2
+		\frac{1}{2} + x^\frac{1}{2} - \frac{1}{2} x^\frac{1}{2} - x -
+		\frac{1}{2} - \frac{1}{2}x^\frac{1}{2} + x^\frac{1}{2} + x
 	}{
 		\left(
 			\sqrt x - x
@@ -100,19 +100,15 @@ $$
 	} \\
 
 	&= \frac{
-		2 x^\frac{3}{2} - x^\frac{1}{2}
+		\sqrt x
 	}{
 		\left(
 			\sqrt x - x
 		\right)^2
 	} \\
-
-	&= \frac{
-		2 x \sqrt x - \sqrt x
-	}{
-		\left(
-			\sqrt x - x
-		\right)^2
-	}
 \end{align*}
 $$
+
+> [!NOTE] Beachten
+> - Quotientenregel benutzen
+> - $x' = 1$
