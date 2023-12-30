@@ -35,31 +35,5 @@ $$
 			\right)
 		\right)^2
 	} \\
-
-	&= \frac{
-		\left(
-			\cos \left(
-				\sqrt x
-			\right) \cdot 
-		\right) \cdot \left(
-			1 + \cos \left(
-				\sqrt x
-			\right)
-		\right) - \left(
-			\sin \left(
-				\sqrt x
-			\right)
-		\right) \cdot \left(
-			1 + \cos \left(
-				\sqrt x
-			\right)
-		\right)
-	}{
-		\left(
-			1 + \cos \left(
-				\sqrt x
-			\right)
-		\right)^2
-	}
 \end{align*}
 $$

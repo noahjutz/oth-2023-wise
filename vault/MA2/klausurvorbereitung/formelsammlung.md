@@ -36,33 +36,39 @@ $$
 # Ableitungen
 
 $$
-\begin{gather*}
-	\textcolor{blue}{x^x}
-	\to x^x \cdot (\ln x + 1)
-	\to x^x \cdot \left(\frac{1}{x} + (\ln x + 1)^2\right) \\
+\textcolor{blue}{x^x}
+\to x^x \cdot (\ln x + 1)
+\to x^x \cdot \left(\frac{1}{x} + (\ln x + 1)^2\right)
+$$
 
-	x \ln x
-	\to \ln x + 1 
-	\to \textcolor{blue}{\frac{1}{x}}
-	\to -x^{-2}
-	\to 2 x^{-3}
-	\to -6 x^{-4} \\
+$$
+x \ln x
+\to \ln x + 1 
+\to \textcolor{blue}{\frac{1}{x}}
+\to -x^{-2}
+\to 2 x^{-3}
+\to -6 x^{-4}
+$$
 
-	\frac{8}{105} x^\frac{7}{2}
-	\to \frac{4}{15} x^\frac{5}{2}
-	\to \frac{2}{3} x^\frac{3}{2}
-	\to \textcolor{blue}{\sqrt x}
-	\to \frac{1}{2} x^{-\frac{1}{2}}
-	\to -\frac{1}{4} x^{-\frac{3}{2}}
-	\to \frac{3}{8} x^{-\frac{5}{2}}
-	\to \frac{15}{16} x^{-\frac{7}{2}} \\
+$$
+\frac{8}{105} x^\frac{7}{2}
+\to \frac{4}{15} x^\frac{5}{2}
+\to \frac{2}{3} x^\frac{3}{2}
+\to \textcolor{blue}{\sqrt x}
+\to \frac{1}{2} x^{-\frac{1}{2}}
+\to -\frac{1}{4} x^{-\frac{3}{2}}
+\to \frac{3}{8} x^{-\frac{5}{2}}
+\to \frac{15}{16} x^{-\frac{7}{2}}
+$$
 
-	
-	\to \frac{1}{2} x^2
-	\to \textcolor{blue}{x}
-	\to 1
-	\to 0 \\
-\end{gather*}
+$$
+\frac{1}{120} x^5
+\to \frac{1}{24} x^4
+\to \frac{1}{6} x^3
+\to \frac{1}{2} x^2
+\to \textcolor{blue}{x}
+\to 1
+\to 0
 $$
 
 # Logarithmus und Exponentialfunktionen
