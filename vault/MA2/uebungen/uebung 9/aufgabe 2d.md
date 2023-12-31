@@ -61,31 +61,38 @@ $$
 			\frac{x^3}{\ln x}
 		\right)
 	} \\
-		
+
 	&= \frac{
 		\ln \left(
 			\frac{x^3}{\ln x}
 		\right) \cdot 3x^2 \cdot \ln \left(
 			\frac{x^3}{\ln x}
-		\right)
+		\right) - x^3 \cdot \ln x
 	}{
 		x^3 \cdot \ln^2 \left(
 			\frac{x^3}{\ln x}
-		\right)
-	} - \frac{
-		x^3 \cdot \ln x \cdot \left(
-			3x^2 \cdot \ln x - x^3 \cdot x^{-1}
-		\right)
+		\right) \cdot \colorbox{aqua}{$x^3$}
+	} \cdot \frac{
+		3x^2 \cdot \ln x - x^3 \cdot \frac{1}{x}
 	}{
-		x^6 \cdot \ln^4 \left(
-			\frac{x^3}{\ln x}
-		\right)
+		\ln^2 x
 	} \\
 
-	&= \frac{3}{x} - \frac{
-		
+	&= \frac{
+		\ln \left(
+			\frac{x^3}{\ln x}
+		\right) \cdot 3x^2 \cdot \ln \left(
+			\frac{x^3}{\ln x}
+		\right) - x^3 \cdot \ln x
 	}{
-	
+		x^6 \cdot \ln^2 \left(
+			\frac{x^3}{\ln x}
+		\right)
+	} \cdot \frac{
+		2x^2
+	}{
+		\ln x
 	} \\
+
 \end{align*}
 $$
