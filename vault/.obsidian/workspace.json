@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/uebungen/uebung 9/aufgabe 2c.md",
+                "file": "MA2/uebungen/uebung 9/aufgabe 2d.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a859be8a635eec8c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/uebungen/uebung 9/aufgaben.pdf"
               }
             }
           },
@@ -25,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 9/aufgabe 2c.md",
+                "file": "MA2/uebungen/uebung 9/aufgabe 2d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 9/aufgabe 2c.md",
+                "file": "MA2/uebungen/uebung 9/aufgabe 2d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 9/aufgabe 2c.md"
+                "file": "MA2/uebungen/uebung 9/aufgabe 2d.md"
               }
             }
           }
@@ -160,19 +170,21 @@
   },
   "active": "f10fa469b89980fc",
   "lastOpenFiles": [
-    "MA2/klausurvorbereitung/formelsammlung.md",
-    "MA2/uebungen/uebung 9/aufgabe 2c.md",
-    "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
     "MA2/uebungen/uebung 9/aufgaben.pdf",
+    "MA2/uebungen/uebung 9/aufgabe 2d.md",
     "MA2/uebungen/uebung 9/loesungen.pdf",
+    "MA2/uebungen/uebung 9/aufgabe 2c.md",
+    "Pasted image 20231226153521.png",
+    "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
+    "MA2/klausurvorbereitung/formelsammlung.md",
+    "MA2/klausurvorbereitung/sin cos.svg",
     "MA2/uebungen/uebung 9/aufgabe 2b.md",
     "MA2/uebungen/uebung 9/aufgabe 2a.md",
     "MA2/uebungen/uebung 9/aufgabe 1c.md",
     "MA2/uebungen/uebung 9/aufgabe 1b.md",
     "MA2/uebungen/uebung 9/aufgabe 1a.md",
-    "MA2/klausurvorbereitung/formelsammlung log.svg",
+    "MA2/klausurvorbereitung/log.svg",
     "desmos-graph.svg",
-    "Pasted image 20231226153521.png",
     "MA2/uebungen/uebung 8/aufgabe 2.md",
     "MA2/uebungen/uebung 9",
     "KS/uebungen/uebung 3/loesungen.pdf",
@@ -199,13 +211,11 @@
     "MA2/uebungen/uebung 8/aufgabe 1a.md",
     "MA2/uebungen/uebung 8/aufgabe 1b.md",
     "MA2/uebungen/uebung 8/aufgabe 1c.md",
-    "MA2/uebungen/uebung 8/aufgabe 1d.md",
     "MA2/uebungen/uebung 7/f.svg",
     "MA2/uebungen/uebung 7/aufgabe 1a f.png",
     "DB/uebungen/uebung 10/aufgabe 1b bild.png",
     "MA2/uebungen/uebung 6/aufgabe_2_diagram.svg",
     "Untitled.canvas",
-    "KS/uebungen/uebung 2/aufgabe_2_img.png",
     "somecanvas.canvas"
   ]
 }

@@ -73,7 +73,7 @@ $$
 
 # Logarithmus und Exponentialfunktionen
 
-![[formelsammlung log.svg|300]]
+![[log.svg|300]]
 
 # Todo
 - https://de.wikipedia.org/wiki/Trigonometrischer_Pythagoras

@@ -8,3 +8,7 @@ $$
 | $f$ | $\int f\, dx$ |
 | --- | --- |
 | $\lambda \cdot x^\alpha$ | $\lambda \cdot \frac{1}{\alpha+1}x^{\alpha+1}+c$ |
+
+# 2.21 Eigenschaften trig. Funktionen (s20)
+
+![[sin cos.svg|300]]
