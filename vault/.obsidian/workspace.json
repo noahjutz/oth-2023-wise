@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "30b46a33c577883f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/uebungen/uebung 9/loesungen.pdf"
+              }
+            }
+          },
+          {
             "id": "8d95e7e985f1acaf",
             "type": "leaf",
             "state": {
@@ -182,11 +192,11 @@
   },
   "active": "f10fa469b89980fc",
   "lastOpenFiles": [
-    "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
+    "MA2/uebungen/uebung 9/loesungen.pdf",
     "MA2/uebungen/uebung 9/aufgabe 2d.md",
+    "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 9/aufgaben.pdf",
-    "MA2/uebungen/uebung 9/loesungen.pdf",
     "MA2/uebungen/uebung 9/aufgabe 2c.md",
     "Pasted image 20231226153521.png",
     "MA2/klausurvorbereitung/sin cos.svg",

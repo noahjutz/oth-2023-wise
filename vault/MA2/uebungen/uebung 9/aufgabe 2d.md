@@ -81,11 +81,11 @@ $$
 			\ln^2 \left(
 				\frac{x^3}{\ln x}
 			\right)
-		$} \cdot 3x^2 - x^3 \cdot \ln x
+		$} \cdot 3x^2 - x^3 \cdot \ln x \cdot \colorbox{aqua}{$x^{-3}$}
 	}{
 		x^3 \cdot \ln^2 \left(
 			\frac{x^3}{\ln x}
-		\right) \cdot \colorbox{aqua}{$x^3$}
+		\right)
 	} \cdot \colorbox{pink}{$
 		\frac{
 			3x^2 \cdot \ln x - x^3 \cdot \frac{1}{x}
@@ -97,23 +97,20 @@ $$
 	&= \frac{
 		\ln^2 \left(
 			\frac{x^3}{\ln x}
-		\right) \cdot 3x^2 - x^3 \cdot \ln x
+		\right) \cdot 3x^2 - \ln x
 	}{
-		x^6 \cdot \ln^2 \left(
+		x^3 \cdot \ln^2 \left(
 			\frac{x^3}{\ln x}
 		\right)
-	} \cdot \frac{
-		2x^2
-	}{
-		\ln x
-	} \\
+	} \cdot \frac{2x^2}{\ln x} \\
 
 	&= \frac{
 		\ln^2 \left(
 			\frac{x^3}{\ln x}
-		\right) \cdot 3x^2 - \ln x \cdot 2x^5
+		\right) \cdot 3\colorbox{lightblue}{$x^2$} -
+		\ln x \cdot 2\colorbox{lightblue}{$x^2$}
 	}{
-		x^6 \cdot \ln^2 \left(
+		\colorbox{lightblue}{$x^3$} \cdot \ln^2 \left(
 			\frac{x^3}{\ln x}
 		\right) \cdot \ln x
 	}  \\
@@ -121,26 +118,16 @@ $$
 	&= \frac{
 		\ln^2 \left(
 			\frac{x^3}{\ln x}
-		\right) \cdot 3x^2
+		\right) \cdot 3 - \ln x \cdot 2
 	}{
-		x^6 \cdot \ln^2 \left(
-			\frac{x^3}{\ln x}
-		\right) \cdot \ln x
-	} - \frac{
-		\ln x \cdot 2x^5
-	}{
-		x^6 \cdot \ln^2 \left(
+		\colorbox{lightblue}{$x$} \cdot \ln^2 \left(
 			\frac{x^3}{\ln x}
 		\right) \cdot \ln x
 	}  \\
 
-	&= \frac{3}{x^4 \cdot \ln x} - \frac{
-		2
-	}{
-		x \cdot \ln^2 \left(
-			\frac{x^3}{\ln x}
-		\right)
-	}  \\
+	&= \frac{3}{x} - \frac{2}{x \ln^2\left(
+		\frac{x^3}{\ln x}
+	\right)}
 
 \end{align*}
 $$
