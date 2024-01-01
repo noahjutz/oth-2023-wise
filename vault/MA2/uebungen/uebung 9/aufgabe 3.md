@@ -24,7 +24,7 @@ $$
 
 ![[aufgabe 3 graph.svg|300]]
 
-# k = 0
+# n = 0
 
 Das 0-te Taylorpolynom der Exponentialfunktion $\exp(x)$ ist:
 
@@ -39,27 +39,15 @@ d_n(x) = \exp(x)-T_n(\exp(x), 0, x)
 $$
 
 Maximiere $d_0(x)$ in $x \in [0; 1]$:
+- $d_n(x)$ ist monoton steigend $\implies$ Maximum ist $d_n(1)$.
 
 $$
-\begin{align*}
-	\frac{d}{dx} d_0(x) &= 0 \\
-
-	\exp(x) &= 0 \\
-
-	x &= \ln 0 \text{ (nicht definiert)}
-\end{align*}
+d_0(1) = \underline{e - 1}
 $$
 
-$\implies$ Keine Nullstelle, Extremwert in Randpunkten.
+# n = 1
 
-$$
-\begin{gather*}
-	d_0(0) = \exp(0) - 1 = 0 & d_0(1) = \exp(1) - 1 = \underline{e - 1}
-\end{gather*}
-$$
-Maximale Abweichung $e - 1 > 5 \cdot 10^{-5}$. k=0 reicht also nicht aus.
-
-# k = 1
+Berechne $T_1$:
 
 $$
 T_1 = 1 + x
@@ -68,39 +56,50 @@ $$
 Maximiere $d_1(x)$:
 
 $$
-\begin{align*}
-	\exp(x) - 1 &= 0 \\
-	x &= \ln 1 \\
-	x &= 0
-\end{align*}
+d_1(1) = \underline{e - 2}
 $$
 
-$$
-\begin{gather*}
-	d_1(0) = 0 & d_1(1) = \underline{e - 1}
-\end{gather*}
-$$
+# n = 2
 
-# k = 2
+Berechne $T_2$:
 
 $$
 T_2 = 1 + x + \frac{x^2}{2}
 $$
 
 Maximiere $d_2(x)$:
+$$
+d_2(1) = \underline{e - \frac{3}{2}}
+$$
+
+# n = 5
+
+Berechne $T_5$:
+
+$$
+T_5 = 1 + x + \frac{x^2}{2} + \frac{x^3}{6} + \frac{x^4}{24} + \frac{x^5}{120}
+$$
+
+Maximiere $d_5(x)$:
+
+$$
+d_5(1) = \underline{e - \frac{163}{60}}
+$$
+
+# n = 10
+
+$$
+d_{10}(1) = \underline{e - \frac{9\ 864\ 101}{3\ 628\ 800}}
+$$
+
+# n rechnerisch ermitteln
 
 $$
 \begin{align*}
-	\exp(x) - 1 - x &= 0 \\
-
-	\exp(x) &= x + 1
+	e - \sum_{k=0}^n \frac{1}{k!} &\le 5 \cdot 10^{-5} \\
+	
+	\sum_{k=0}^n \frac{1}{k!} &\ge e - 5 \cdot 10^{-5} \\
 \end{align*}
 $$
 
-$\implies$ Keine Nullstelle, Extremwert in Randpunkten.
-
-$$
-\begin{gather*}
-	d_2(0) = 1 & d_2(1) = \underline{e - \frac{1}{2}}
-\end{gather*}
-$$
+ todo solve for n
