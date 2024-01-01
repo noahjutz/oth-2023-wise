@@ -4,62 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "551bbdaecf86828c",
+        "id": "5ac13893fdd2f030",
         "type": "tabs",
         "children": [
           {
-            "id": "f10fa469b89980fc",
+            "id": "55b75aee6e11c51f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/uebungen/uebung 9/aufgabe 2d.md",
+                "file": "MA2/uebungen/uebung 9/aufgabe 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "30b46a33c577883f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MA2/uebungen/uebung 9/loesungen.pdf"
-              }
-            }
-          },
-          {
-            "id": "8d95e7e985f1acaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a859be8a635eec8c",
+            "id": "c00d3d7507310fe7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "MA2/uebungen/uebung 9/aufgaben.pdf"
-              }
-            }
-          },
-          {
-            "id": "39a44c3d4e688ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -129,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 9/aufgabe 2d.md",
+                "file": "MA2/uebungen/uebung 9/aufgabe 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 9/aufgabe 2d.md",
+                "file": "MA2/uebungen/uebung 9/aufgabe 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 9/aufgabe 2d.md"
+                "file": "MA2/uebungen/uebung 9/aufgabe 3.md"
               }
             }
           }
@@ -190,18 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f10fa469b89980fc",
+  "active": "55b75aee6e11c51f",
   "lastOpenFiles": [
-    "MA2/uebungen/uebung 9/loesungen.pdf",
-    "MA2/uebungen/uebung 9/aufgabe 2d.md",
     "MA2/uebungen/uebung 9/aufgaben.pdf",
+    "MA2/uebungen/uebung 9/aufgabe 3.md",
+    "MA2/uebungen/uebung 9/aufgabe 2d.md",
     "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
+    "MA2/uebungen/uebung 9/loesungen.pdf",
+    "MA2/uebungen/uebung 9/aufgabe 2b.md",
+    "MA2/uebungen/uebung 9/aufgabe 2a.md",
     "MA2/uebungen/uebung 9/aufgabe 2c.md",
     "Pasted image 20231226153521.png",
     "MA2/klausurvorbereitung/sin cos.svg",
-    "MA2/uebungen/uebung 9/aufgabe 2b.md",
-    "MA2/uebungen/uebung 9/aufgabe 2a.md",
     "MA2/uebungen/uebung 9/aufgabe 1c.md",
     "MA2/uebungen/uebung 9/aufgabe 1b.md",
     "MA2/uebungen/uebung 9/aufgabe 1a.md",
@@ -232,7 +199,6 @@
     "MA2/uebungen/uebung 8/aufgabe 1f.md",
     "MA2/uebungen/uebung 8/aufgabe 1a.md",
     "MA2/uebungen/uebung 8/aufgabe 1b.md",
-    "MA2/uebungen/uebung 8/aufgabe 1c.md",
     "MA2/uebungen/uebung 7/f.svg",
     "MA2/uebungen/uebung 7/aufgabe 1a f.png",
     "DB/uebungen/uebung 10/aufgabe 1b bild.png",
