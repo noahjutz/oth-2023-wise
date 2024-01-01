@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fcefa303a4093f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c00d3d7507310fe7",
             "type": "leaf",
             "state": {
@@ -158,11 +170,12 @@
   },
   "active": "55b75aee6e11c51f",
   "lastOpenFiles": [
-    "MA2/uebungen/uebung 9/aufgaben.pdf",
+    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 9/aufgabe 3.md",
+    "MA2/uebungen/uebung 9/aufgaben.pdf",
+    "MA2/uebungen/uebung 9/aufgabe 3 graph.svg",
     "MA2/uebungen/uebung 9/aufgabe 2d.md",
     "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
-    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 9/loesungen.pdf",
     "MA2/uebungen/uebung 9/aufgabe 2b.md",
     "MA2/uebungen/uebung 9/aufgabe 2a.md",
@@ -202,7 +215,6 @@
     "MA2/uebungen/uebung 7/f.svg",
     "MA2/uebungen/uebung 7/aufgabe 1a f.png",
     "DB/uebungen/uebung 10/aufgabe 1b bild.png",
-    "MA2/uebungen/uebung 6/aufgabe_2_diagram.svg",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]
