@@ -1,14 +1,23 @@
-# Taylorpolynom
 
-$$
-T(f, x_0, x) = \sum_{k=0}^n \frac{f^{(k)}(x_0)}{k!} (x - x_0)^k
-$$
+> [!info] 4.5 Taylor-Entwicklung
+> $$
+> T_n(f, x_0, x) = \sum_{k=0}^n \frac{f^{(k)}(x_0)}{k!} (x - x_0)^k
+> $$
+> 
+> $$
+> R_{n+1}(x) = \frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1}
+> $$
+> 
+> $$
+> f(x) = T_n(f, x_0, x) + R_{n+1}(x)
+> $$
 
-# exp(x)
+# Ableitung von exp(x)
 
 $$
 \begin{gather*}
-	f(x) = e^x & f^{(k)}(x) = e^x
+	f(x) = e^x \\
+	f^{(k)}(x) = e^x
 \end{gather*}
 $$
 
