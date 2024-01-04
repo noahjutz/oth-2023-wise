@@ -45,6 +45,16 @@ $$
 
 ## Abweichung prüfen
 
+> [!NOTE] 4.6 Vorgehen beim lösen von Extremwertproblemen
+> 1. Hauptfunktion aufstellen ($d(x)$)
+> 2. Hauptfunktion darf nur von einer Variable abhängen
+> 3. Definitionsbereich angeben
+> 4. Hauptfunktion ableiten ($\frac{dd}{dx}$)
+> 5. Nullstellen der Ableitung bestimmen
+> 6. Nur Nullstellen im Definitionsbereich berücksichtigen
+> 7. Randpunkte beachten
+> 8. Antwortsatz
+
 Die Abweichung des Taylorpolynoms zur Exponentialfunktion sei definiert als:
 
 $$
@@ -95,6 +105,23 @@ $$
 	\frac{x^{n+1}}{(n+1)!} \cdot \exp(\xi) &\le 5 \cdot 10^{-5} \\
 	\frac{1}{(n+1)!} \cdot e &\le 5 \cdot 10^{-5} \\
 	\frac{1}{(n+1)!} &\le \frac{5 \cdot 10^{-5}}{e} \\
-	(n+1)! &\ge \frac{e}{5 \cdot 10^{-5}} \\
+	(n+1)! &\ge \frac{e}{5 \cdot 10^{-5}} \approx 54\ 365.6
 \end{align*}
+$$
+
+| x | x! |
+| ---- | ---- |
+| 8 | 40 320 |
+| 9 | 362 880 |
+$$
+\begin{gather*}
+	(7+1)! < \frac{e}{5 \cdot 10^{-5}} < (8+1)! \\
+	\implies n = 8
+\end{gather*}
+$$
+
+Das 8te Taylorpolynom hat also ein Restglied, das kleiner als $5 \cdot 10^{-5}$ ist.
+
+$$
+T_8(e^x, 0, x) = \sum_{k=0}^8 \frac{x^k}{k!}
 $$
