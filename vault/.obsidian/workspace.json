@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8e022a71e2bedec4",
+        "id": "092418b93fe90438",
         "type": "tabs",
-        "dimension": 42.40331491712707,
         "children": [
           {
-            "id": "a2e42e6052a22c3e",
+            "id": "bc7c1eabc382ff94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MA2/uebungen/uebung 10/aufgabe 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc8d900cf3befa16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "4633fcee4e184eae",
-        "type": "tabs",
-        "dimension": 57.59668508287292,
-        "children": [
-          {
-            "id": "46a0b1d2a33f381e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MA2/uebungen/uebung 10/aufgaben.pdf"
-              }
-            }
-          },
-          {
-            "id": "c1f289baa6832669",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MA2/uebungen/uebung 10/loesungen.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 10/aufgabe 2.md",
+                "file": "MA2/uebungen/uebung 11/aufgaben.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 10/aufgabe 2.md",
+                "file": "MA2/uebungen/uebung 11/aufgaben.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 10/aufgabe 2.md"
+                "file": "MA2/uebungen/uebung 11/aufgaben.pdf"
               }
             }
           }
@@ -188,11 +143,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2e42e6052a22c3e",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "MA2/uebungen/uebung 10/loesungen.pdf",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 10/aufgabe 2.md",
-    "MA2/uebungen/uebung 10/loesungen.pdf",
     "MA2/uebungen/uebung 10/aufgaben.pdf",
     "MA2/uebungen/uebung 10/aufgabe 1d.md",
     "MA2/uebungen/uebung 10/aufgabe 1c.md",

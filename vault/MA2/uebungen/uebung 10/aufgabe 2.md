@@ -84,14 +84,24 @@ $$
 
 $-\frac{2}{3} \notin D \implies$ nur $\frac{2}{3}$ kommt in Frage.
 
-## Hinreichende Bedingung für Extremum
+## Extremum oder Terassenpunkt?
 
 - $n = 2$
 - $x_0 = \frac{2}{3}$
 
-Es gilt
+Es gilt $A'(x_0) = 0$ (siehe oben) und 
 
-$A'(x_0) = 0$
+$$
+\begin{align*}
+	A''(x_0) &= -4x_0^{-3} \\
+	&= -4 \cdot \left(\frac{2}{3}\right)^{-3} \\
+	&= -4 \cdot \left(\frac{3}{2}\right)^3 \\
+	&= -4 \cdot \frac{9}{4} \\
+	&= -9
+\end{align*}
+$$
+
+$n$ ist gerade und $A^{(n)}(x_0) < 0$, somit hat $A$ in $x_0$ ein lokales Maximum (4.25 i).
 
 ## Antwort
 
