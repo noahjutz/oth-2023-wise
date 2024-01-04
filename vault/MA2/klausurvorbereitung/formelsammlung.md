@@ -90,9 +90,15 @@ $$
 \to 0
 $$
 
-# Logarithmus und Exponentialfunktionen
+# Logarithmus
 
 ![[log.svg|300]]
+
+# Geradengleichung
+
+$$
+y = m \cdot (x-\Delta x) + \Delta y
+$$
 
 # Todo
 - https://de.wikipedia.org/wiki/Trigonometrischer_Pythagoras

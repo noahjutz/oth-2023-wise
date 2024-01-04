@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/uebungen/uebung 10/aufgabe 1d.md",
+                "file": "MA2/uebungen/uebung 10/aufgabe 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc8d900cf3befa16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 10/aufgabe 1d.md",
+                "file": "MA2/uebungen/uebung 10/aufgabe 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 10/aufgabe 1d.md",
+                "file": "MA2/uebungen/uebung 10/aufgabe 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 10/aufgabe 1d.md"
+                "file": "MA2/uebungen/uebung 10/aufgabe 2.md"
               }
             }
           }
@@ -177,6 +189,8 @@
   },
   "active": "a2e42e6052a22c3e",
   "lastOpenFiles": [
+    "MA2/klausurvorbereitung/formelsammlung.md",
+    "MA2/uebungen/uebung 10/aufgabe 2.md",
     "MA2/uebungen/uebung 10/aufgaben.pdf",
     "MA2/uebungen/uebung 10/loesungen.pdf",
     "MA2/uebungen/uebung 10/aufgabe 1d.md",
@@ -190,7 +204,6 @@
     "MA2/uebungen/Untitled.md",
     "MA2/uebungen/uebung 10",
     "MA2/uebungen/uebung 9/aufgaben.pdf",
-    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 9/loesungen.pdf",
     "MA2/uebungen/uebung 9/aufgabe 3.md",
     "MA2/uebungen/uebung 9/aufgabe 3 graph.svg",
@@ -216,7 +229,6 @@
     "KS/uebungen/uebung 3/aufgabe 1.md",
     "DB/uebungen/uebung 11/aufgabe 1.md",
     "DB/uebungen/uebung 11/aufgabe 0.md",
-    "DB/uebungen/uebung 10/aufgabe 1.md",
     "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
     "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
     "MA2/uebungen/uebung 7/f.svg",
