@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +192,8 @@
   "lastOpenFiles": [
     "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 10/aufgabe 2.md",
-    "MA2/uebungen/uebung 10/aufgaben.pdf",
     "MA2/uebungen/uebung 10/loesungen.pdf",
+    "MA2/uebungen/uebung 10/aufgaben.pdf",
     "MA2/uebungen/uebung 10/aufgabe 1d.md",
     "MA2/uebungen/uebung 10/aufgabe 1c.md",
     "MA2/uebungen/uebung 10/aufgabe 1b.md",
