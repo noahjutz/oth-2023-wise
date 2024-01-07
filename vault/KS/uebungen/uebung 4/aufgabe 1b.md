@@ -10,17 +10,22 @@
 
 $$
 \begin{align*}
-	N &= 6\ 270\ 652\ 252\ 000 \text{B} + 58 \text{B} \\
-	&= 6\ 270\ 652\ 252\ 058 \text{B} \\
-	&= 50\ 165\ 218\ 020\ 000 \text{b} \\
-	&= 50\ 165\ 218.02 \text{Mb}
+	N &= 2^{32} \cdot (1460 + 58) \text{ B} \\
+	&= 6.519760355 \cdot 10^{12} \text{ B} \\
+	&= 5.215808284 \cdot 10^{13} \text{ b} \\
+	&= 5.215808284 \cdot 10^{7} \text{ Mb} \\
 \end{align*}
 $$
+
+##  Übertragungsdauer t
 
 $$
 \begin{align*}
 	\text{s} &= \text{Mb} \div \frac{\text{Mb}}{\text{s}} \\
 	t &= N \div R \\
-	t &= 
+	&= 5.215808284 \cdot 10^7 \text{Mb} \div 100 \text{Mbps} \\
+	&= 5.215808284 \cdot 10^7 \text{Mb} \cdot 10^{-2} \text{Mbps} \\
+	&= 5.215808284 \cdot 10^5 \text{s} \\
+	&\approx 6 \text{d}
 \end{align*}
 $$
