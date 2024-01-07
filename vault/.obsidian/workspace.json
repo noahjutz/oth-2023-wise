@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 1.md",
+                "file": "KS/uebungen/uebung 4/aufgabe 1b.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 1.md",
+                "file": "KS/uebungen/uebung 4/aufgabe 1b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 1.md",
+                "file": "KS/uebungen/uebung 4/aufgabe 1b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 1.md"
+                "file": "KS/uebungen/uebung 4/aufgabe 1b.md"
               }
             }
           }
@@ -165,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc7c1eabc382ff94",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "KS/uebungen/uebung 4/aufgabe 1a.md",
+    "KS/uebungen/uebung 4/aufgabe 1b.md",
+    "KS/uebungen/uebung 4/Pasted image 20240107201511.png",
     "KS/uebungen/uebung 4/aufgaben.pdf",
-    "KS/uebungen/uebung 4/aufgabe 1.md",
     "KS/uebungen/uebung 4/tcp header.png",
     "MA2/uebungen/uebung 10/loesungen.pdf",
     "MA2/klausurvorbereitung/formelsammlung.md",
@@ -211,7 +213,6 @@
     "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
     "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
     "MA2/uebungen/uebung 7/f.svg",
-    "MA2/uebungen/uebung 7/aufgabe 1a f.png",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]
