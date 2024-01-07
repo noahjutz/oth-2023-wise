@@ -6,13 +6,35 @@
       {
         "id": "092418b93fe90438",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "bc7c1eabc382ff94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KS/uebungen/uebung 4/aufgabe 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "792f8a1ea76d26ca",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "ed344123cb16c893",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "KS/uebungen/uebung 4/aufgaben.pdf"
+              }
             }
           }
         ]
@@ -81,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgaben.pdf",
+                "file": "KS/uebungen/uebung 4/aufgabe 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgaben.pdf",
+                "file": "KS/uebungen/uebung 4/aufgabe 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgaben.pdf"
+                "file": "KS/uebungen/uebung 4/aufgabe 1.md"
               }
             }
           }
@@ -143,8 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "bc7c1eabc382ff94",
   "lastOpenFiles": [
+    "KS/uebungen/uebung 4/aufgaben.pdf",
+    "KS/uebungen/uebung 4/aufgabe 1.md",
+    "KS/uebungen/uebung 4/tcp header.png",
     "MA2/uebungen/uebung 10/loesungen.pdf",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 10/aufgabe 2.md",
@@ -177,19 +202,16 @@
     "desmos-graph.svg",
     "MA2/uebungen/uebung 8/aufgabe 2.md",
     "MA2/uebungen/uebung 9",
-    "KS/uebungen/uebung 3/loesungen.pdf",
     "KS/uebungen/uebung 3/aufgabe 5.md",
     "KS/uebungen/uebung 3/aufgabe 4.md",
     "KS/uebungen/uebung 3/aufgabe 3.md",
     "KS/uebungen/uebung 3/aufgabe 2.md",
     "KS/uebungen/uebung 3/aufgabe 1.md",
     "DB/uebungen/uebung 11/aufgabe 1.md",
-    "DB/uebungen/uebung 11/aufgabe 0.md",
     "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
     "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
     "MA2/uebungen/uebung 7/f.svg",
     "MA2/uebungen/uebung 7/aufgabe 1a f.png",
-    "DB/uebungen/uebung 10/aufgabe 1b bild.png",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]
