@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 2a.md",
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 2a.md",
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 2a.md",
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 2a.md"
+                "file": "MA2/klausurvorbereitung/formelsammlung.md"
               }
             }
           }
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc7c1eabc382ff94",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
-    "KS/uebungen/uebung 4/aufgaben.pdf",
     "KS/uebungen/uebung 4/aufgabe 2a.md",
+    "KS/uebungen/uebung 4/aufgaben.pdf",
     "KS/uebungen/uebung 4/aufgabe 1b.md",
     "KS/uebungen/uebung 4/aufgabe 1a.md",
     "KS/uebungen/uebung 4/Pasted image 20240107201511.png",
