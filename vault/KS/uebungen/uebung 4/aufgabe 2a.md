@@ -29,5 +29,3 @@
 - Ursprungsport: 1028
 - Zielport: 80
 - Sequenznummer $n$
-
-n = startseqnr + 50
