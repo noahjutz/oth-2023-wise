@@ -4,48 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "092418b93fe90438",
+        "id": "e99835c17e4a8470",
         "type": "tabs",
-        "dimension": 42.95580110497237,
         "children": [
           {
-            "id": "bc7c1eabc382ff94",
+            "id": "d5d620f49e8c56cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "KS/tutorium/tutorium 10/tutorium 10 (TCPIP4).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "37d4533b0d2646da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 1a.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "792f8a1ea76d26ca",
-        "type": "tabs",
-        "dimension": 57.04419889502762,
-        "children": [
-          {
-            "id": "ed344123cb16c893",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "KS/uebungen/uebung 4/aufgaben.pdf"
               }
             }
           }
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "KS/tutorium/tutorium 10/tutorium 10 (TCPIP4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "KS/tutorium/tutorium 10/tutorium 10 (TCPIP4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md"
+                "file": "KS/tutorium/tutorium 10/tutorium 10 (TCPIP4).md"
               }
             }
           }
@@ -164,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "d5d620f49e8c56cc",
   "lastOpenFiles": [
+    "KS/tutorium/tutorium 10/tcp-flow-graphs-tcpip4.pdf",
+    "KS/tutorium/tutorium 10/tutorium 10 (TCPIP4).md",
+    "KS/tutorium/tutorium 8",
+    "KS/tutorium/tutorium 10",
+    "KS/tcp-flow-graphs-tcpip4",
+    "tcp-flow-graphs-tcpip4",
+    "MA2/klausurvorbereitung/formelsammlung.md",
     "KS/uebungen/uebung 4/aufgabe 2a.md",
     "KS/uebungen/uebung 4/aufgaben.pdf",
     "KS/uebungen/uebung 4/aufgabe 1b.md",
@@ -186,7 +162,6 @@
     "KS/uebungen/uebung 4/Pasted image 20240107201511.png",
     "KS/uebungen/uebung 4/tcp header.png",
     "MA2/uebungen/uebung 10/loesungen.pdf",
-    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 10/aufgabe 2.md",
     "MA2/uebungen/uebung 10/aufgaben.pdf",
     "MA2/uebungen/uebung 10/aufgabe 1d.md",
@@ -195,12 +170,8 @@
     "MA2/uebungen/uebung 10/aufgabe 1a.md",
     "MA2/uebungen/uebung 11/aufgaben.pdf",
     "MA2/uebungen/uebung 11/loesungen.pdf",
-    "MA2/uebungen/uebung 11",
     "MA2/uebungen/uebung 10/aufgabe 1.md",
     "MA2/uebungen/Untitled.md",
-    "MA2/uebungen/uebung 10",
-    "MA2/uebungen/uebung 9/aufgaben.pdf",
-    "MA2/uebungen/uebung 9/loesungen.pdf",
     "MA2/uebungen/uebung 9/aufgabe 3.md",
     "MA2/uebungen/uebung 9/aufgabe 3 graph.svg",
     "MA2/uebungen/uebung 9/aufgabe 2d.md",
@@ -216,11 +187,9 @@
     "MA2/klausurvorbereitung/log.svg",
     "desmos-graph.svg",
     "MA2/uebungen/uebung 8/aufgabe 2.md",
-    "MA2/uebungen/uebung 9",
     "KS/uebungen/uebung 3/aufgabe 5.md",
     "KS/uebungen/uebung 3/aufgabe 4.md",
     "KS/uebungen/uebung 3/aufgabe 3.md",
-    "KS/uebungen/uebung 3/aufgabe 2.md",
     "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
     "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
     "MA2/uebungen/uebung 7/f.svg",
