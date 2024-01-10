@@ -5,14 +5,13 @@ $$
 # Taylorpolynom 2. Ordnung
 
 > [!note] Ableitungen von f(x)
-
-$$
-\begin{gather*}
-	f(x) = \frac{x}{x+3} \\
-	f'(x) = \frac{3}{(x+3)^2} \\
-	f''(x) = -\frac{-3 \cdot 2(x+3) \cdot (1+0)}{}
-\end{gather*}
-$$
+> $$
+> \begin{gather*}
+> 	f(x) = \frac{x}{x+3} \\
+> 	f'(x) = \frac{3}{(x+3)^2} \\
+> 	f''(x) = -\frac{6}{(x+3)^3}
+> \end{gather*}
+> $$
 
 $$
 \begin{alignat*}{3}
@@ -64,5 +63,25 @@ $$
 
 
 > [!fail] Falsch
-> $f''(x) \ne \frac{6x+18}{(x+3)^4}$
+> $f''(x) \ne \frac{6x+18}{(x+3)^4}$. $f''(x)$ ist negativ.
 
+$$
+\begin{align*}
+	T_2(f, 1, x) &= \frac{1}{4} + \frac{3}{16}x - \frac{3}{16}
+	\textcolor{red}{
+			- \frac{1}{2} \cdot \frac{6}{4^3} \cdot (x-1)^2
+	} \\
+	&= \frac{3}{16}x + \frac{1}{16} - \frac{3}{64} \cdot \left(
+		x^2-2x+1
+	\right) \\
+	&= -\frac{3}{64}x^2 + \frac{3}{16}x + \frac{3}{32}x +
+	\frac{1}{16} - \frac{3}{64} \\
+	&= \underline{
+		-\frac{3}{64}x^2 + \frac{9}{32}x + \frac{1}{64}
+	}
+\end{align*}
+$$
+
+> [!check] Richtig
+> - Richtige Zahlen einsetzen
+> - Minus nicht vergessen
