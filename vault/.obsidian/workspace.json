@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgabe 1b.md",
+                "file": "MA2/uebungen/uebung 11/aufgabe 2a.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgabe 1b.md",
+                "file": "MA2/uebungen/uebung 11/loesungen.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgabe 1b.md",
+                "file": "MA2/uebungen/uebung 11/loesungen.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgabe 1b.md"
+                "file": "MA2/uebungen/uebung 11/loesungen.pdf"
               }
             }
           }
@@ -174,10 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cb6e04ba91bb9ca",
+  "active": "53a0be7b92abc70d",
   "lastOpenFiles": [
-    "MA2/uebungen/uebung 11/loesungen.pdf",
+    "MA2/uebungen/uebung 11/aufgabe 2a.md",
     "MA2/uebungen/uebung 11/aufgaben.pdf",
+    "MA2/uebungen/uebung 11/loesungen.pdf",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",
     "MA2/uebungen/uebung 11/aufgabe 1a.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
@@ -215,7 +216,6 @@
     "MA2/klausurvorbereitung/sin cos.svg",
     "MA2/uebungen/uebung 9/aufgabe 1c.md",
     "MA2/uebungen/uebung 9/aufgabe 1b.md",
-    "MA2/uebungen/uebung 9/aufgabe 1a.md",
     "MA2/klausurvorbereitung/log.svg",
     "desmos-graph.svg",
     "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",

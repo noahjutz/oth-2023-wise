@@ -54,5 +54,4 @@ $$
 \end{align*}
 $$
 
-
 > [!question] Sind der erste und letzte Schritt erlaubt?
