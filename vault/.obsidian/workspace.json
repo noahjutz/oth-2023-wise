@@ -34,8 +34,19 @@
                 "file": "MA2/uebungen/uebung 11/aufgaben.pdf"
               }
             }
+          },
+          {
+            "id": "53a0be7b92abc70d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/uebungen/uebung 11/loesungen.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,13 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "2cb6e04ba91bb9ca",
   "lastOpenFiles": [
-    "MA2/uebungen/uebung 11/aufgabe 1a.md",
-    "MA2/klausurvorbereitung/formelsammlung.md",
-    "MA2/uebungen/uebung 11/aufgabe 1b.md",
     "MA2/uebungen/uebung 11/loesungen.pdf",
     "MA2/uebungen/uebung 11/aufgaben.pdf",
+    "MA2/uebungen/uebung 11/aufgabe 1b.md",
+    "MA2/uebungen/uebung 11/aufgabe 1a.md",
+    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 10/aufgabe 2.md",
     "MA2/tutorium/tutorium 10/aufgabe 24a.md",
     "KS/klausurvorbereitung/formelsammlung.md",
