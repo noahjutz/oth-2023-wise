@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgabe 1b.md",
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgabe 1b.md",
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgabe 1b.md",
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgabe 1b.md"
+                "file": "MA2/klausurvorbereitung/formelsammlung.md"
               }
             }
           }
@@ -163,10 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cb6e04ba91bb9ca",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
-    "MA2/uebungen/uebung 11/loesungen.pdf",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",
+    "MA2/uebungen/uebung 11/loesungen.pdf",
     "MA2/uebungen/uebung 11/aufgabe 1a.md",
     "MA2/uebungen/uebung 11/aufgaben.pdf",
     "MA2/uebungen/uebung 10/aufgabe 2.md",
