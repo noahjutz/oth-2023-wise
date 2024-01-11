@@ -81,10 +81,10 @@ SELECT fun(n);
 ```postgresql
 CREATE OR REPLACE FUNCTION fac(n INT) RETURNS INT AS
 $$ DECLARE
-	result INT := 1
+	result INT := 1;
 BEGIN
 	IF n < 0 THEN
-		RAISE "n must be a non-negative integer.";
+		RAISE 'n must be a non-negative integer.';
 	END IF;
 	FOR i in 1..n LOOP
 		result = result * i;
@@ -92,5 +92,37 @@ BEGIN
 	RETURN result;
 END $$ LANGUAGE plpgsql;
 ```
+# Größtmögliche Zahl
 
-n must be a non-negative integer
+```postgresql
+DO $$ BEGIN
+	FOR i in 1..100 LOOP
+	  RAISE NOTICE '%', i;
+	  PERFORM fac(i);
+	END LOOP;
+END $$
+```
+
+Die größtmögliche Zahl n ist 13. 
+
+## Warum?
+
+Der INT-Typ hat 4 byte = 32 bit.  Die Grenzen sind also wie folgt:
+
+$$
+-2^{31} = -2\ 147\ 483\ 648
+\tag*{untere Grenze}
+$$
+
+$$
+\begin{align*}
+	\sum_{k=0}^{30} 2^k &= \frac{1-2^{31}}{1-2} \\
+	&= 2^{31} - 1 \\
+	&= 2\ 147\ 483\ 647
+\end{align*}
+\tag*{obere Grenze}
+$$
+
+> [!NOTE] Wie kommt man auf die Grenzen?
+> Die einzelnen bits haben einen Wert von $2^0$ bis $2^{31}$. Wegen 2er-Komplement ist der größte Wert negativ ($-2^{31}$). Der größte positive Wert ist also $2^{30}$.
+
