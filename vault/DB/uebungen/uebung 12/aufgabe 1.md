@@ -126,3 +126,24 @@ $$
 > [!NOTE] Wie kommt man auf die Grenzen?
 > Die einzelnen bits haben einen Wert von $2^0$ bis $2^{31}$. Wegen 2er-Komplement ist der größte Wert negativ ($-2^{31}$). Der größte positive Wert ist also $2^{30}$.
 
+
+Die Fakultäten von 0 bis 13 sind:
+
+| n | n! |
+| ---- | ---- |
+| 0 | 1 |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 6 |
+| 4 | 24 |
+| 5 | 120 |
+| 6 | 720 |
+| 7 | 5 040 |
+| 8 | 40 320 |
+| 9 | 362 880 |
+| 10 | 3 628 800 |
+| 11 | 39 916 800 |
+| 12 | 479 001 600 |
+| 13 | 6 227 020 800 |
+
+Da $12! < (2^{31}-1) < 13!$ ist 12 die größte Zahl, die keinen Überlauf erzeugt.

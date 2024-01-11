@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c4bd9828f2b2b63",
+        "id": "7368e36eeda3409d",
         "type": "tabs",
-        "dimension": 47.27021423635107,
         "children": [
           {
-            "id": "a5d864f6e8f48fb7",
+            "id": "28308049d3aa2066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 1.md",
+                "file": "DB/uebungen/uebung 12/aufgabe 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +22,11 @@
         ]
       },
       {
-        "id": "7368e36eeda3409d",
+        "id": "f75d268bf0f9a6bb",
         "type": "tabs",
-        "dimension": 52.72978576364893,
         "children": [
           {
-            "id": "28308049d3aa2066",
+            "id": "5e5a310468f9d1e3",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 1.md",
+                "file": "DB/uebungen/uebung 12/aufgabe 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 1.md",
+                "file": "DB/uebungen/uebung 12/aufgabe 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 1.md"
+                "file": "DB/uebungen/uebung 12/aufgabe 2.md"
               }
             }
           }
@@ -165,15 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5d864f6e8f48fb7",
+  "active": "28308049d3aa2066",
   "lastOpenFiles": [
     "DB/uebungen/uebung 12/aufgaben.pdf",
+    "DB/uebungen/uebung 12/aufgabe 2.md",
     "DB/uebungen/uebung 12/aufgabe 1.md",
+    "MA2/klausurvorbereitung/formelsammlung.md",
     "DB/uebungen/uebung 12",
     "MA2/uebungen/uebung 11/aufgaben.pdf",
     "MA2/uebungen/uebung 11/loesungen.pdf",
     "MA2/uebungen/uebung 11/aufgabe 3.md",
-    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 11/aufgabe 2b.md",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",
     "MA2/uebungen/uebung 11/aufgabe 2a.md",
@@ -204,7 +203,6 @@
     "MA2/uebungen/uebung 9/aufgabe 2d.md",
     "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
     "MA2/uebungen/uebung 9/aufgabe 2b.md",
-    "MA2/uebungen/uebung 9/aufgabe 2a.md",
     "Pasted image 20231226153521.png",
     "MA2/klausurvorbereitung/sin cos.svg",
     "MA2/klausurvorbereitung/log.svg",
