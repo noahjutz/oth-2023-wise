@@ -1,11 +1,11 @@
 # Gegeben
 
-- Rechteck $h \cdot b$
-- Dreieck $\frac{1}{2} \cdot 5 \cdot 10$
+- Rechteck: $h \cdot b$
+- Dreieck: $\frac{1}{2} \cdot 5 \cdot 10$
 
 # Bearbeitung
 
-## Aufstellen der Hauptfunktion
+Wir stellen die Fläche des Rechtecks als Funktion in abhängigkeit der Breite des Rechtecks auf:
 
 $$
 \begin{gather*}
@@ -20,7 +20,7 @@ $$
 f(x) = -\frac{5}{10}x + 5
 $$
 
-Die Funktion, die die Fläche des Quadrats in Abhängigkeit der Breite $x \in \left]0, 10\right]$ beschreibt, lautet also:
+Die Funktion, die die Fläche des Rechtecks in Abhängigkeit der Breite $x \in \left]0, 10\right[$ beschreibt, lautet also:
 
 $$
 A_\square(x) = -\frac{1}{2}x^2+5x
@@ -31,26 +31,28 @@ Die Extremwerte dieser Funktion sind die Nullstellen der Ableitung.
 $$
 \begin{align*}
 	A_\square'(x) &= 0 \\
-	-2x + 5 &= 0 \\
-	-2x &= -5 \\
-	x &= \frac{5}{2}
+	-x + 5 &= 0 \\
+	-x &= -5 \\
+	x &= 5
 \end{align*}
 $$
 
-Die maximale Fläche ist im Extremwert $x = \frac{5}{2}$ oder im Randpunkt $x = 10$.
-
-$$
-\begin{align*}
-	A_\square\left(\frac{5}{2}\right) &= -\frac{1}{2} \cdot \left(
-		\frac{5}{2}
-	\right)^2 + 5 \cdot \frac{5}{2} \\
-	&= -\frac{25}{8} + \frac{25}{2} \\
-	&= \frac{75}{8} = 9\frac{3}{8}
-\end{align*}
-$$
+Die maximale Fläche ist im Extremwert $x = 5$.
 
 $$
 \begin{align*}
-	A_\square(10) = 
+	A_\square(5) &= -\frac{1}{2} \cdot 5^2 + 5 \cdot 5 \\
+	&= 25-\frac{25}{2} \\
+	&= 12.5
 \end{align*}
+$$
+
+Aus den obigen Definitionen $b = x$ und $h = f(x)$ ergibt sich:
+
+$$
+b = x = \boxed{5}
+$$
+
+$$
+h = f(x) = f(5) = -\frac{1}{2} \cdot 5 + 5 = \boxed{2.5}
 $$
