@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 2.md",
+                "file": "DB/uebungen/uebung 12/aufgabe 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 2.md",
+                "file": "DB/uebungen/uebung 12/aufgabe 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 2.md",
+                "file": "DB/uebungen/uebung 12/aufgabe 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 2.md"
+                "file": "DB/uebungen/uebung 12/aufgabe 3.md"
               }
             }
           }
@@ -165,9 +165,10 @@
   },
   "active": "28308049d3aa2066",
   "lastOpenFiles": [
-    "DB/uebungen/uebung 12/aufgaben.pdf",
+    "DB/uebungen/uebung 12/aufgabe 3.md",
     "DB/uebungen/uebung 12/aufgabe 2.md",
     "DB/uebungen/uebung 12/aufgabe 1.md",
+    "DB/uebungen/uebung 12/aufgaben.pdf",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "DB/uebungen/uebung 12",
     "MA2/uebungen/uebung 11/aufgaben.pdf",
