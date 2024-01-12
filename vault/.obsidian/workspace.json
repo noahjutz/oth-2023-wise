@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "ab0c4943afc8f95f",
+        "id": "f0288dd953a3c5bf",
         "type": "tabs",
         "children": [
           {
-            "id": "c2e2b97ec12eb428",
+            "id": "ef8e5d96865c5229",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -165,9 +165,9 @@
   },
   "active": "5e5a310468f9d1e3",
   "lastOpenFiles": [
-    "DB/uebungen/uebung 12/tmp.md",
-    "DB/uebungen/uebung 12/aufgabe 3.md",
     "DB/uebungen/uebung 12/aufgaben.pdf",
+    "DB/uebungen/uebung 12/aufgabe 3.md",
+    "DB/uebungen/uebung 12/tmp.md",
     "DB/uebungen/uebung 12/aufgabe 1.md",
     "DB/uebungen/uebung 12/aufgabe 2.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
@@ -203,7 +203,6 @@
     "MA2/uebungen/uebung 9/aufgabe 3.md",
     "MA2/uebungen/uebung 9/aufgabe 3 graph.svg",
     "MA2/uebungen/uebung 9/aufgabe 2d.md",
-    "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
     "Pasted image 20231226153521.png",
     "MA2/klausurvorbereitung/sin cos.svg",
     "MA2/klausurvorbereitung/log.svg",
