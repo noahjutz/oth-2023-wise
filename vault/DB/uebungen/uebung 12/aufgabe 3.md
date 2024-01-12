@@ -1,61 +1,124 @@
-# B-Baum
+# Gegeben
 
-- Daten stecken im ganzen Baum
-- Sortierte Ausgabe: Links-Links-hoch-Rechts-Links-...
-	- B+-Baum einfach Blätter nach rechts
-- Jeder Knoten Max Grad 2k+1
-	- Max 2k+1 Kindknoten
-- Jeder Knoten hat zwischen k und 2k Einträge
-	- (Wurzel nur mindestens 1 Eintrag)
+- $k=k^*=1$
 
 ```mermaid
 graph TD
-	subgraph a[Wurzelknoten]
-		aX1( )
-		a1[1]
-		aX2( )
-		a2[...]
-		aX3( )
-		a3[2k]
-		aX4( )
-	end
-aX1-->b[1]
-aX2-->c[2]
-aX3-->d[...]
-aX4-->e[2k+1]
+
+subgraph root[ ]
+    rootL(( ))
+    rootKim[Kim]
+    rootM(( ))
+    rootTom[Tom]
+    rootR(( ))
+end
+
+rootL-->leaf1
+
+subgraph leaf1[ ]
+    Bob
+    Kai
+end
+
+rootM-->leaf2
+
+subgraph leaf2[ ]
+    Kim
+end
+
+rootR-->leaf3
+
+subgraph leaf3[ ]
+    Tom
+    Uwe
+end
 ```
 
+# Einfügen von Leo
 
-- Kanten links kleiner, rechts größer und wie gut das betrieb
-- Suche:
+Wo soll Leo hin?
 
 ```
-n = Gesuchter Schlüssel
-k = Wurzelknoten
-
-n < k: k = k.left_child
-n > k: k = k.right_child
-n = k: return k
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+           ^
 ```
 
-- k wird folgendermaßen gewählt:
-	- Pointer zum Kindknoten belegt l byte
-	- Pointer zu Datensätzen belegen m byte
-	- Wegweiser belegt n byte
-	- Es gibt 2k knoten
-	- $\text{Bytes} = (l+m+n) \cdot (2k)$
-	- z.B. $l=4, m=4, n=20, k=50$
-		- $100 \cdot (4+20+4)+4=2404\text{B}$
-		- k richtet sich danach, ob die Bytes in eine Page passt
-		- keine Ahnung woher +4 kommt
-- Insert und Delete bei B-Bäumen behandeln wir nicht
+K < L < T --> Leo muss in das mittlere Blatt, rechts von Kim. Weil es hier noch platz gibt, einfach einfügen.
 
-# B+-Baum
+```mermaid
+graph TD
 
-- Innere Knoten: Nicht-Blatt-Knoten
-- Blatt-Knoten: Ganz unten
-- In Praxis: $k > k^*$
-- $k \le N \le 2k$ (N: Anzahl Einträge in einem inneren Knoten)
-- $0 \le M \le 2k+1$ (M: Anzahl Kinderknoten eines inneren Knotens)
-- $k^* \le N_B \le 2k^*$ ($N_B$: Anzahl Einträge in einem Blattknoten)
-- 
+subgraph root[ ]
+    rootL(( ))
+    rootKim[Kim]
+    rootM(( ))
+    rootTom[Tom]
+    rootR(( ))
+end
+
+rootL-->leaf1
+
+subgraph leaf1[ ]
+    Bob
+    Kai
+end
+
+rootM-->leaf2
+
+subgraph leaf2[ ]
+    Kim
+    Leo
+end
+
+rootR-->leaf3
+
+subgraph leaf3[ ]
+    Tom
+    Uwe
+end
+
+style Leo stroke:red
+```
+
+# Einfügen von Zoe
+
+Wo soll Zoe hin? T < U < Z --> Zoe muss in das rechte Blatt, rechts von Uwe.
+
+```mermaid
+graph TD
+%%{init: {"width": "10%"} }%%
+
+subgraph root[ ]
+    rootL(( ))
+    rootKim[Kim]
+    rootM(( ))
+    rootTom[Tom]
+    rootR(( ))
+end
+
+rootL-->leaf1
+
+subgraph leaf1[ ]
+    Bob
+    Kai
+end
+
+rootM-->leaf2
+
+subgraph leaf2[ ]
+    Kim
+    Leo
+end
+
+rootR-->leaf3
+
+subgraph leaf3[ ]
+    Tom
+    Uwe
+    Zoe
+end
+
+style Zoe stroke:red
+```
+
+Jetzt ist die Anzahl der Einträge im rechten Blatt 3. Die maximale Anzahl an Einträgen in einem Blatt eines B+-Baums ist $2k^*$.
