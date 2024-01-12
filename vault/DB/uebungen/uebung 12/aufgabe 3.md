@@ -86,7 +86,7 @@ Wo soll Zoe hin? T < U < Z --> Zoe muss in das rechte Blatt, rechts von Uwe.
 
 ```mermaid
 graph TD
-%%{init: {"width": "10%"} }%%
+%%\{init: \{"width": "10%"\} \}%%
 
 subgraph root[ ]
     rootL(( ))
@@ -125,7 +125,7 @@ Jetzt ist die Anzahl der Einträge im rechten Blatt 3. Die maximale Anzahl an Ei
 
 ```mermaid
 graph TD
-%%{init: {"width": "10%"} }%%
+%%\{init: \{"width": "10%"\} \}%%
 
 subgraph root[ ]
     root1(( ))
@@ -171,7 +171,7 @@ Das Blatt wird dann in ein linkes und ein rechtes Blatt gespalten.
 
 ```mermaid
 graph TD
-%%{init: {"width": "10%"} }%%
+%%\{init: \{"width": "10%"\} \}%%
 
 subgraph root[ ]
     root1(( ))
@@ -218,7 +218,7 @@ Jetzt ist die Anzahl der Einträge in der Wurzel 3. Die maximale Anzahl an Eintr
 
 ```mermaid
 graph TD
-%%{init: {"width": "10%"} }%%
+%%\{init: \{"width": "10%"\} \}%%
 
 subgraph newroot[ ]
     newrootL(( ))
@@ -276,7 +276,7 @@ Die alte Wurzel wird in einen linken und einen rechten inneren Knoten gespalten.
 
 ```mermaid
 graph TD
-%%{init: {"width": "10%"} }%%
+%%\{init: \{"width": "10%"\} \}%%
 
 subgraph root[ ]
     rootL(( ))
@@ -331,7 +331,7 @@ Das Blatt, das ursprünglich zwischen Kim und Tom war, ist jetzt das rechte Kind
 
 ```mermaid
 graph TD
-%%{init: {"width": "10%"} }%%
+%%\{init: \{"width": "10%"\} \}%%
 
 subgraph root[ ]
     rootL(( ))
@@ -387,10 +387,70 @@ https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
 
 Alles richtig.
 
-# 20 Zahlen, k=k*=2, h=2
+# Einfügen mit geringer Höhe
 
-- $k = 2 \implies N=2k=4$ (N: Maximale Anzahl Einträge pro Knoten/Blatt)
-- $\frac{20}{N+1} = 4 \implies$ Vielfache von 4
-- 4 gleichmäßig verteilte Werte: 4, 8, 12, 16
-- Wir wollen in der Wurzel diese Werte
-- Füge für jeden dieser Werte zuerst 2 kleinere, dann 2 größere ein.
+Gegeben ist
+
+- k=k*=2
+
+Daraus folgt
+
+- Max. Grad: 2k+1 = 5
+- Max. Blätter (Kindknoten): 2k+1 = 5
+- Knoten insgesamt: 5 + 1 = 6
+- Max. Einträge pro Knoten/Blatt: 2k = 4
+- Max. Einträge insgesamt: 6 *  4 = 28
+
+Der Zielbaum
+
+- Hat 20 verschiedene beliebige Zahlen
+- Hat genau 5 Blätter à 4 Einträge
+- Hat 1 Wurzel mit 4 Einträgen, die in den Blättern auch existieren
+
+Das Einfügen verläuft generell folgendermaßen
+
+- Nach 5x einfügen wird gespalten, und der mittlere Eintrag wird in die Wurzel kopiert.
+
+Die Lösung ist
+
+- Mit 5000 anfangen und Zahlen in 100er-Schritten nach oben und nach unten einfügen, um so oft zu splitten, dass 5 Blätter erzeugt werden.
+- Die nicht-leeren Blätter mit beliebigen Zahlen auffüllen
+
+![[b plus tree.png]]
+
+Alternativ
+
+- Die Zahlen sind 1, 2, ..., 20
+- Teilt man diese in 5 Mengen à 4 Elemente auf, so sind diese
+	- $B_1 = \{1, 2, 3, 4\}$
+	- $B_2 = \{5, 6, 7, 8\}$
+	- $B_3 = \{9, 10, 11, 12\}$
+	- $B_4 = \{13, 14, 15, 16\}$
+	- $B_5 = \{17, 18, 19, 20\}$
+- Es gilt für die Elemente dieser Mengen:
+
+$$
+B_1 < 5 \le B_2 < 9 \le B_3 < 13 \le B_4 < 17 \le B_5
+$$
+
+- Die Wurzeleinträge müssen also $W = \{5, 9, 13, 17\}$ sein.
+- Die Reihenfolge ist
+
+| Teilreihenfolge | Erklärung |
+| ---- | ---- |
+| 1, 2, 5, 6, 9 | - 5 wird erstes Element in der Wurzel<br>- 1. Blatt startet mit 1, 2<br>- 2. Blatt startet mit 5, 6<br>- Mittlerer Eintrag 2. Blatt wird 9 |
+| 3, 4, 10, 13, 7 | - 1. Blatt auffüllen mit 3, 4<br>- 3. Blatt startet mit 9, 10<br>- Mittlerer Eintrag 3. Blatt wird 13<br>- <br> |
+|  |  |
+
+| Teilreihenfolge | Erklärung |
+| ---- | ---- |
+| 1, 2 | $B_1$ starten |
+| 5, 6 | - 5 in $W$<br>- $B_2$ starten |
+| 9 | - 9 in $W$<br>- $B_3$ starten |
+| 3, 4 | - $B_1$ füllen |
+| 10 | - $B_3$ weiter füllen |
+| 13 | - 13 in $W$<br>- $B_4$ starten |
+| 7, 8 | - $B_2$ füllen |
+| 14 | - $B_4$ weiter füllen |
+| 17 | - 17 in $W$<br>- $B_5$ starten |
+|  |  |
