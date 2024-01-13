@@ -24,4 +24,4 @@ L kann maximal ca. 6.3TB groß sein.
 > ![[tcp header.png]]
 
 > [!info] Metrische Präfixe
-> ![[Pasted image 20240107201511.png]]
+> ![[metric prefixes.png]]

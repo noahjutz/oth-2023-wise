@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f75d268bf0f9a6bb",
+        "id": "21d6cebe1e4fd282",
         "type": "tabs",
         "children": [
           {
-            "id": "5e5a310468f9d1e3",
+            "id": "f9902f7569dffcb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 3.md",
+                "file": "KS/uebungen/uebung 4/aufgabe 1a.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,26 @@
         ]
       },
       {
-        "id": "f0288dd953a3c5bf",
+        "id": "977a65fb47206501",
         "type": "tabs",
         "children": [
           {
-            "id": "ef8e5d96865c5229",
+            "id": "083fb15d022e3621",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgaben.pdf"
+                "file": "KS/uebungen/uebung 4/aufgaben.pdf"
+              }
+            }
+          },
+          {
+            "id": "4c41714cdfa48333",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "KS/uebungen/uebung 4/loesungen.pdf"
               }
             }
           }
@@ -101,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 3.md",
+                "file": "KS/uebungen/uebung 4/aufgabe 1a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 3.md",
+                "file": "KS/uebungen/uebung 4/aufgabe 1a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 3.md"
+                "file": "KS/uebungen/uebung 4/aufgabe 1a.md"
               }
             }
           }
@@ -165,9 +175,22 @@
   },
   "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
-    "DB/uebungen/uebung 12/b plus tree.png",
-    "DB/uebungen/uebung 12/aufgaben.pdf",
+    "KS/uebungen/uebung 4/aufgabe 1b.md",
+    "KS/uebungen/uebung 4/aufgaben.pdf",
+    "KS/uebungen/uebung 4/aufgabe 1a.md",
+    "KS/uebungen/uebung 4/loesungen.pdf",
+    "KS/uebungen/uebung 4/aufgabe 2a.md",
+    "KS/uebungen/uebung 4/tcp header.png",
+    "KS/uebungen/uebung 4/metric prefixes.png",
+    "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
+    "MA2/wiederholungen/blatt 1/loesungen.pdf",
+    "MA2/wiederholungen/blatt 1/aufgaben.pdf",
+    "MA2/wiederholungen/blatt 1",
     "DB/uebungen/uebung 12/aufgabe 3.md",
+    "MA2/wiederholungen",
+    "DB/uebungen/uebung 12/b plus tree 2.png",
+    "DB/uebungen/uebung 12/b plus tree 1.png",
+    "DB/uebungen/uebung 12/aufgaben.pdf",
     "DB/uebungen/uebung 12/tmp.md",
     "DB/uebungen/uebung 12/aufgabe 1.md",
     "DB/uebungen/uebung 12/aufgabe 2.md",
@@ -184,17 +207,6 @@
     "MA2/tutorium/tutorium 10/aufgabe 24a.md",
     "KS/klausurvorbereitung/formelsammlung.md",
     "KS/tutorium/tutorium 10/tutorium 10 (TCPIP4).md",
-    "KS/tutorium/tutorium 10/tcp-flow-graphs-tcpip4.pdf",
-    "KS/tutorium/tutorium 8",
-    "KS/tutorium/tutorium 10",
-    "KS/tcp-flow-graphs-tcpip4",
-    "tcp-flow-graphs-tcpip4",
-    "KS/uebungen/uebung 4/aufgabe 2a.md",
-    "KS/uebungen/uebung 4/aufgaben.pdf",
-    "KS/uebungen/uebung 4/aufgabe 1b.md",
-    "KS/uebungen/uebung 4/aufgabe 1a.md",
-    "KS/uebungen/uebung 4/Pasted image 20240107201511.png",
-    "KS/uebungen/uebung 4/tcp header.png",
     "MA2/uebungen/uebung 10/aufgabe 1d.md",
     "MA2/uebungen/uebung 10/aufgabe 1c.md",
     "MA2/uebungen/uebung 10/aufgabe 1b.md",
@@ -203,14 +215,11 @@
     "MA2/uebungen/Untitled.md",
     "MA2/uebungen/uebung 9/aufgabe 3.md",
     "MA2/uebungen/uebung 9/aufgabe 3 graph.svg",
-    "MA2/uebungen/uebung 9/aufgabe 2d.md",
     "Pasted image 20231226153521.png",
     "MA2/klausurvorbereitung/sin cos.svg",
     "MA2/klausurvorbereitung/log.svg",
     "desmos-graph.svg",
     "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
-    "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
-    "MA2/uebungen/uebung 7/f.svg",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]

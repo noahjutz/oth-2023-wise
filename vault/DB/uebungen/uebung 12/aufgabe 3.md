@@ -416,7 +416,7 @@ Die Lösung ist
 - Mit 5000 anfangen und Zahlen in 100er-Schritten nach oben und nach unten einfügen, um so oft zu splitten, dass 5 Blätter erzeugt werden.
 - Die nicht-leeren Blätter mit beliebigen Zahlen auffüllen
 
-![[b plus tree.png]]
+![[b plus tree 1.png]]
 
 Alternativ
 
@@ -438,12 +438,6 @@ $$
 
 | Teilreihenfolge | Erklärung |
 | ---- | ---- |
-| 1, 2, 5, 6, 9 | - 5 wird erstes Element in der Wurzel<br>- 1. Blatt startet mit 1, 2<br>- 2. Blatt startet mit 5, 6<br>- Mittlerer Eintrag 2. Blatt wird 9 |
-| 3, 4, 10, 13, 7 | - 1. Blatt auffüllen mit 3, 4<br>- 3. Blatt startet mit 9, 10<br>- Mittlerer Eintrag 3. Blatt wird 13<br>- <br> |
-|  |  |
-
-| Teilreihenfolge | Erklärung |
-| ---- | ---- |
 | 1, 2 | $B_1$ starten |
 | 5, 6 | - 5 in $W$<br>- $B_2$ starten |
 | 9 | - 9 in $W$<br>- $B_3$ starten |
@@ -453,4 +447,9 @@ $$
 | 7, 8 | - $B_2$ füllen |
 | 14 | - $B_4$ weiter füllen |
 | 17 | - 17 in $W$<br>- $B_5$ starten |
-|  |  |
+| 11, 12 | - $B_3$ füllen |
+| 18, 19 | - $B_5$ weiter füllen |
+| 15, 16 | - $B_4$ füllen |
+| 20 | - $B_5$ füllen |
+
+![[b plus tree 2.png]]
