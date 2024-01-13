@@ -3,11 +3,8 @@
 ## Kommunikation
 
 - A$\to$(Bytes 0-358)$\to$B
-
-- A$\to$(Segment 1)$\to$B
-- A$\gets$(Ack)$\gets$B
-- A$\to$(Segment 2)$\to$B
-- A$\gets$(Ack)$\gets$B
+- A$\to$(Segment 1 50B)$\to$B
+- A$\to$(Segment 2 80B)$\to$B
 
 ## Hosts
 

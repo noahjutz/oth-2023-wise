@@ -6,6 +6,7 @@
       {
         "id": "21d6cebe1e4fd282",
         "type": "tabs",
+        "dimension": 42.95580110497237,
         "children": [
           {
             "id": "f9902f7569dffcb4",
@@ -13,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 1a.md",
+                "file": "KS/uebungen/uebung 4/aufgabe 2a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b578ccba810cdb88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KS/klausurvorbereitung/formelsammlung.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +37,7 @@
       {
         "id": "977a65fb47206501",
         "type": "tabs",
+        "dimension": 57.04419889502762,
         "children": [
           {
             "id": "083fb15d022e3621",
@@ -36,7 +50,7 @@
             }
           },
           {
-            "id": "4c41714cdfa48333",
+            "id": "09004ff6925aa93b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -111,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 1a.md",
+                "file": "KS/uebungen/uebung 4/aufgaben.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 1a.md",
+                "file": "KS/uebungen/uebung 4/aufgaben.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 1a.md"
+                "file": "KS/uebungen/uebung 4/aufgaben.pdf"
               }
             }
           }
@@ -173,13 +187,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "083fb15d022e3621",
   "lastOpenFiles": [
-    "KS/uebungen/uebung 4/aufgabe 1b.md",
-    "KS/uebungen/uebung 4/aufgaben.pdf",
-    "KS/uebungen/uebung 4/aufgabe 1a.md",
     "KS/uebungen/uebung 4/loesungen.pdf",
     "KS/uebungen/uebung 4/aufgabe 2a.md",
+    "KS/klausurvorbereitung/formelsammlung.md",
+    "KS/uebungen/uebung 4/aufgaben.pdf",
+    "KS/uebungen/uebung 4/aufgabe 1b.md",
+    "KS/uebungen/uebung 4/aufgabe 1a.md",
+    "KS/klausurvorbereitung/tcp header.png",
+    "KS/klausurvorbereitung/metric prefixes.png",
     "KS/uebungen/uebung 4/tcp header.png",
     "KS/uebungen/uebung 4/metric prefixes.png",
     "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
@@ -205,7 +222,6 @@
     "MA2/uebungen/uebung 11/aufgabe 1a.md",
     "MA2/uebungen/uebung 10/aufgabe 2.md",
     "MA2/tutorium/tutorium 10/aufgabe 24a.md",
-    "KS/klausurvorbereitung/formelsammlung.md",
     "KS/tutorium/tutorium 10/tutorium 10 (TCPIP4).md",
     "MA2/uebungen/uebung 10/aufgabe 1d.md",
     "MA2/uebungen/uebung 10/aufgabe 1c.md",
@@ -218,8 +234,6 @@
     "Pasted image 20231226153521.png",
     "MA2/klausurvorbereitung/sin cos.svg",
     "MA2/klausurvorbereitung/log.svg",
-    "desmos-graph.svg",
-    "MA2/uebungen/uebung 8/aufgabe 2 funktion.svg",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]
