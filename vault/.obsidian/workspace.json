@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 3a.md",
+                "file": "KS/uebungen/uebung 4/aufgabe 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 3a.md",
+                "file": "KS/uebungen/uebung 4/aufgabe 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 3a.md",
+                "file": "KS/uebungen/uebung 4/aufgabe 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 3a.md"
+                "file": "KS/uebungen/uebung 4/aufgabe 5.md"
               }
             }
           }
@@ -187,17 +187,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "083fb15d022e3621",
   "lastOpenFiles": [
-    "KS/uebungen/uebung 4/puffer.png",
     "KS/uebungen/uebung 4/aufgaben.pdf",
+    "KS/uebungen/uebung 4/aufgabe 5.md",
+    "KS/uebungen/uebung 4/aufgabe 4.md",
     "KS/uebungen/uebung 4/loesungen.pdf",
-    "KS/uebungen/uebung 4/aufgabe 3a.md",
+    "KS/uebungen/uebung 4/aufgabe 1b.md",
+    "KS/uebungen/uebung 4/aufgabe 1a.md",
+    "KS/uebungen/uebung 4/aufgabe 3.md",
+    "KS/uebungen/uebung 4/puffer b.png",
+    "KS/uebungen/uebung 4/puffer b.png",
+    "KS/uebungen/uebung 4/puffer a.png",
     "KS/klausurvorbereitung/formelsammlung.md",
     "KS/uebungen/uebung 4/aufgabe 2.md",
     "KS/uebungen/uebung 4/seq diagram.png",
-    "KS/uebungen/uebung 4/aufgabe 1b.md",
-    "KS/uebungen/uebung 4/aufgabe 1a.md",
     "KS/klausurvorbereitung/tcp header.png",
     "KS/klausurvorbereitung/metric prefixes.png",
     "KS/uebungen/uebung 4/tcp header.png",
@@ -230,10 +234,6 @@
     "MA2/uebungen/uebung 10/aufgabe 1c.md",
     "MA2/uebungen/uebung 10/aufgabe 1b.md",
     "MA2/uebungen/uebung 10/aufgabe 1a.md",
-    "MA2/uebungen/uebung 10/aufgabe 1.md",
-    "MA2/uebungen/Untitled.md",
-    "MA2/uebungen/uebung 9/aufgabe 3 graph.svg",
-    "Pasted image 20231226153521.png",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]
