@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 5.md",
+                "file": "KS/uebungen/uebung 4/loesungen.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 5.md",
+                "file": "KS/uebungen/uebung 4/loesungen.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 5.md"
+                "file": "KS/uebungen/uebung 4/loesungen.pdf"
               }
             }
           }
@@ -187,10 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "083fb15d022e3621",
+  "active": "09004ff6925aa93b",
   "lastOpenFiles": [
-    "KS/uebungen/uebung 4/aufgaben.pdf",
     "KS/uebungen/uebung 4/aufgabe 5.md",
+    "KS/uebungen/uebung 4/aufgaben.pdf",
     "KS/uebungen/uebung 4/aufgabe 4.md",
     "KS/uebungen/uebung 4/loesungen.pdf",
     "KS/uebungen/uebung 4/aufgabe 1b.md",
