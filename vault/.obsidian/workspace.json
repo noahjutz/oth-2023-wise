@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "21d6cebe1e4fd282",
+        "id": "588f24d5e15e98c4",
         "type": "tabs",
-        "dimension": 42.95580110497237,
         "children": [
           {
-            "id": "083fb15d022e3621",
+            "id": "fd6b079e48b495c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KS/uebungen/uebung 4/aufgabe 5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "977a65fb47206501",
-        "type": "tabs",
-        "dimension": 57.04419889502762,
-        "children": [
-          {
-            "id": "882a0dcf0ad00947",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "KS/uebungen/uebung 4/aufgaben.pdf"
-              }
-            }
-          },
-          {
-            "id": "09004ff6925aa93b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "KS/uebungen/uebung 4/loesungen.pdf"
-              }
-            }
-          },
-          {
-            "id": "b578ccba810cdb88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KS/klausurvorbereitung/formelsammlung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 4/loesungen.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 4/loesungen.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KS/uebungen/uebung 4/loesungen.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -188,19 +139,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09004ff6925aa93b",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "MA2/uebungen/uebung 12/aufgaben.pdf",
+    "MA2/uebungen/uebung 12/loesungen.pdf",
+    "MA2/uebungen/uebung 12",
+    "KS/klausurvorbereitung/formelsammlung.md",
+    "KS/klausurvorbereitung/tcp slow start.png",
     "KS/uebungen/uebung 4/aufgabe 5.md",
+    "KS/uebungen/uebung 4/slow start.png",
     "KS/uebungen/uebung 4/aufgaben.pdf",
-    "KS/uebungen/uebung 4/aufgabe 4.md",
     "KS/uebungen/uebung 4/loesungen.pdf",
+    "KS/uebungen/uebung 4/aufgabe 4.md",
     "KS/uebungen/uebung 4/aufgabe 1b.md",
     "KS/uebungen/uebung 4/aufgabe 1a.md",
     "KS/uebungen/uebung 4/aufgabe 3.md",
     "KS/uebungen/uebung 4/puffer b.png",
     "KS/uebungen/uebung 4/puffer b.png",
     "KS/uebungen/uebung 4/puffer a.png",
-    "KS/klausurvorbereitung/formelsammlung.md",
     "KS/uebungen/uebung 4/aufgabe 2.md",
     "KS/uebungen/uebung 4/seq diagram.png",
     "KS/klausurvorbereitung/tcp header.png",
@@ -213,16 +169,12 @@
     "MA2/wiederholungen/blatt 1",
     "DB/uebungen/uebung 12/aufgabe 3.md",
     "MA2/wiederholungen",
-    "DB/uebungen/uebung 12/b plus tree 2.png",
-    "DB/uebungen/uebung 12/b plus tree 1.png",
     "DB/uebungen/uebung 12/aufgaben.pdf",
     "DB/uebungen/uebung 12/tmp.md",
     "DB/uebungen/uebung 12/aufgabe 1.md",
     "DB/uebungen/uebung 12/aufgabe 2.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "DB/uebungen/uebung 12",
-    "MA2/uebungen/uebung 11/aufgaben.pdf",
-    "MA2/uebungen/uebung 11/loesungen.pdf",
     "MA2/uebungen/uebung 11/aufgabe 3.md",
     "MA2/uebungen/uebung 11/aufgabe 2b.md",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",

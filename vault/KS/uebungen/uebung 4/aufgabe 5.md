@@ -1,3 +1,7 @@
+
+> [!info] Slow Start
+> ![[slow start.png|400]]
+
 - Rundreisezeit: l = 10ms
 - Empfangsfenster: S = 24KB
 - MSS: s = 2KB
@@ -18,7 +22,10 @@ $$
 	-1+2^{n+1} &\ge \frac{S}{s} \\
 	2^{n+1} &\ge \frac{S}{s} + 1 \\
 	2^n &\ge \frac{1}{2} \cdot \left( \frac{S}{s} + 1 \right) \\
-	n &\ge \log_26.5 \\
+	n &\ge \log_2 \left(
+		\frac{1}{2} \cdot \frac{S}{s} + \frac{1}{2} 
+	\right) \\
+	n &\ge \log_2 6.5 \\
 	n &\ge 2.7
 \end{align*}
 $$

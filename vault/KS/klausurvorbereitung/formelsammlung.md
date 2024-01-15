@@ -15,4 +15,10 @@
 
 # TCP
 
+## Header
+
 ![[KS/klausurvorbereitung/tcp header.png]]
+
+## Slow Start
+
+![[tcp slow start.png]]
