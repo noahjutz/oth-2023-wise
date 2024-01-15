@@ -11,8 +11,28 @@
             "id": "fd6b079e48b495c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MA2/uebungen/uebung 12/aufgabe 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d90697b8ce5a90f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e7546f35ad0f667",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/uebungen/uebung 12/aufgaben.pdf"
+              }
             }
           }
         ]
@@ -81,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MA2/uebungen/uebung 12/aufgabe 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MA2/uebungen/uebung 12/aufgabe 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MA2/uebungen/uebung 12/aufgabe 1.md"
+              }
             }
           }
         ],
@@ -139,9 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "fd6b079e48b495c2",
   "lastOpenFiles": [
     "MA2/uebungen/uebung 12/aufgaben.pdf",
+    "MA2/uebungen/uebung 12/aufgabe 1.md",
     "MA2/uebungen/uebung 12/loesungen.pdf",
     "MA2/uebungen/uebung 12",
     "KS/klausurvorbereitung/formelsammlung.md",
@@ -174,7 +199,6 @@
     "DB/uebungen/uebung 12/aufgabe 1.md",
     "DB/uebungen/uebung 12/aufgabe 2.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
-    "DB/uebungen/uebung 12",
     "MA2/uebungen/uebung 11/aufgabe 3.md",
     "MA2/uebungen/uebung 11/aufgabe 2b.md",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",
@@ -186,7 +210,6 @@
     "MA2/uebungen/uebung 10/aufgabe 1d.md",
     "MA2/uebungen/uebung 10/aufgabe 1c.md",
     "MA2/uebungen/uebung 10/aufgabe 1b.md",
-    "MA2/uebungen/uebung 10/aufgabe 1a.md",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]
