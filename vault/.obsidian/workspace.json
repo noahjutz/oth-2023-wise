@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "588f24d5e15e98c4",
+        "id": "7fc65965c2bc05da",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6b079e48b495c2",
+            "id": "d77b9c009505349b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/uebungen/uebung 12/aufgabe 1.md",
+                "file": "MA2/uebungen/uebung 12/aufgabe 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,26 @@
         ]
       },
       {
-        "id": "d90697b8ce5a90f8",
+        "id": "4e1df6f1bd983ce4",
         "type": "tabs",
         "children": [
           {
-            "id": "2e7546f35ad0f667",
+            "id": "d6ce9ffd34efae02",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "MA2/uebungen/uebung 12/aufgaben.pdf"
+              }
+            }
+          },
+          {
+            "id": "dd82ea87b24ca59f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/uebungen/uebung 12/loesungen.pdf"
               }
             }
           }
@@ -101,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 12/aufgabe 1.md",
+                "file": "MA2/uebungen/uebung 12/aufgabe 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 12/aufgabe 1.md",
+                "file": "MA2/uebungen/uebung 12/aufgabe 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 12/aufgabe 1.md"
+                "file": "MA2/uebungen/uebung 12/aufgabe 3.md"
               }
             }
           }
@@ -163,11 +173,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd6b079e48b495c2",
+  "active": "d77b9c009505349b",
   "lastOpenFiles": [
+    "MA2/uebungen/uebung 12/aufgabe 2c.md",
+    "MA2/uebungen/uebung 12/aufgabe 3.md",
     "MA2/uebungen/uebung 12/aufgaben.pdf",
-    "MA2/uebungen/uebung 12/aufgabe 1.md",
     "MA2/uebungen/uebung 12/loesungen.pdf",
+    "MA2/uebungen/uebung 12/aufgabe 2b.md",
+    "MA2/klausurvorbereitung/formelsammlung.md",
+    "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
+    "MA2/uebungen/uebung 11/aufgabe 1b.md",
+    "MA2/uebungen/uebung 11/aufgabe 1a.md",
+    "MA2/uebungen/uebung 11/aufgaben.pdf",
+    "MA2/uebungen/uebung 12/aufgabe 2a.md",
+    "MA2/uebungen/uebung 12/aufgabe 1.md",
+    "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
     "MA2/uebungen/uebung 12",
     "KS/klausurvorbereitung/formelsammlung.md",
     "KS/klausurvorbereitung/tcp slow start.png",
@@ -187,29 +207,20 @@
     "KS/klausurvorbereitung/tcp header.png",
     "KS/klausurvorbereitung/metric prefixes.png",
     "KS/uebungen/uebung 4/tcp header.png",
-    "KS/uebungen/uebung 4/metric prefixes.png",
     "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
     "MA2/wiederholungen/blatt 1/loesungen.pdf",
     "MA2/wiederholungen/blatt 1/aufgaben.pdf",
     "MA2/wiederholungen/blatt 1",
     "DB/uebungen/uebung 12/aufgabe 3.md",
     "MA2/wiederholungen",
-    "DB/uebungen/uebung 12/aufgaben.pdf",
     "DB/uebungen/uebung 12/tmp.md",
     "DB/uebungen/uebung 12/aufgabe 1.md",
     "DB/uebungen/uebung 12/aufgabe 2.md",
-    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 11/aufgabe 3.md",
     "MA2/uebungen/uebung 11/aufgabe 2b.md",
-    "MA2/uebungen/uebung 11/aufgabe 1b.md",
     "MA2/uebungen/uebung 11/aufgabe 2a.md",
-    "MA2/uebungen/uebung 11/aufgabe 1a.md",
     "MA2/uebungen/uebung 10/aufgabe 2.md",
     "MA2/tutorium/tutorium 10/aufgabe 24a.md",
-    "KS/tutorium/tutorium 10/tutorium 10 (TCPIP4).md",
-    "MA2/uebungen/uebung 10/aufgabe 1d.md",
-    "MA2/uebungen/uebung 10/aufgabe 1c.md",
-    "MA2/uebungen/uebung 10/aufgabe 1b.md",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]

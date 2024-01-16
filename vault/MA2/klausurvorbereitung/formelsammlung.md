@@ -90,6 +90,10 @@ $$
 \to 0
 $$
 
+$$
+\textcolor{blue}{e^{-x}} \to -e^{-x} \to e^{-x} \to \ldots
+$$
+
 # Logarithmus
 
 ![[log.svg|300]]
