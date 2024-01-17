@@ -4,45 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7fc65965c2bc05da",
+        "id": "4439f7c5a4b4586e",
         "type": "tabs",
         "children": [
           {
-            "id": "d77b9c009505349b",
+            "id": "39dca3787c6072ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MA2/uebungen/uebung 12/aufgabe 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4e1df6f1bd983ce4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d6ce9ffd34efae02",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MA2/uebungen/uebung 12/aufgaben.pdf"
-              }
-            }
-          },
-          {
-            "id": "dd82ea87b24ca59f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MA2/uebungen/uebung 12/loesungen.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 12/aufgabe 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 12/aufgabe 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MA2/uebungen/uebung 12/aufgabe 3.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -173,20 +139,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d77b9c009505349b",
+  "active": "39dca3787c6072ea",
   "lastOpenFiles": [
-    "MA2/uebungen/uebung 12/aufgabe 2c.md",
-    "MA2/uebungen/uebung 12/aufgabe 3.md",
-    "MA2/uebungen/uebung 12/aufgaben.pdf",
-    "MA2/uebungen/uebung 12/loesungen.pdf",
-    "MA2/uebungen/uebung 12/aufgabe 2b.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
+    "MA2/uebungen/uebung 12/aufgabe 3.md",
+    "MA2/uebungen/uebung 12/loesungen.pdf",
+    "MA2/uebungen/uebung 12/aufgabe 1.md",
+    "MA2/uebungen/uebung 12/aufgabe 2a.md",
+    "MA2/uebungen/uebung 12/aufgabe 2b.md",
+    "MA2/uebungen/uebung 12/aufgabe 2c.md",
+    "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
+    "MA2/uebungen/uebung 12/aufgaben.pdf",
     "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",
     "MA2/uebungen/uebung 11/aufgabe 1a.md",
     "MA2/uebungen/uebung 11/aufgaben.pdf",
-    "MA2/uebungen/uebung 12/aufgabe 2a.md",
-    "MA2/uebungen/uebung 12/aufgabe 1.md",
     "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
     "MA2/uebungen/uebung 12",
     "KS/klausurvorbereitung/formelsammlung.md",
@@ -206,7 +173,6 @@
     "KS/uebungen/uebung 4/seq diagram.png",
     "KS/klausurvorbereitung/tcp header.png",
     "KS/klausurvorbereitung/metric prefixes.png",
-    "KS/uebungen/uebung 4/tcp header.png",
     "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
     "MA2/wiederholungen/blatt 1/loesungen.pdf",
     "MA2/wiederholungen/blatt 1/aufgaben.pdf",
@@ -220,7 +186,6 @@
     "MA2/uebungen/uebung 11/aufgabe 2b.md",
     "MA2/uebungen/uebung 11/aufgabe 2a.md",
     "MA2/uebungen/uebung 10/aufgabe 2.md",
-    "MA2/tutorium/tutorium 10/aufgabe 24a.md",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]
