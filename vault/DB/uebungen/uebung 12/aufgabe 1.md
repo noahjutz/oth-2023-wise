@@ -103,7 +103,7 @@ DO $$ BEGIN
 END $$
 ```
 
-Die größtmögliche Zahl n ist 13. 
+Die größtmögliche Zahl n ist 12. 
 
 ## Warum?
 
