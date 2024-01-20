@@ -104,7 +104,19 @@ $$
 y = m \cdot (x-\Delta x) + \Delta y
 $$
 
-# Todo
+# Geometrie
+
+| Figur | Fläche A | Umfang U |
+| ---- | ---- | ---- |
+| Kreis | $\pi r^2$ | $2 \pi r$ |
+| Kreisring | $\pi (R^2-r^2)$ | $2 \pi (R+r)$ |
+
+| Körper | Volumen V | Oberfläche O |
+| ---- | ---- | ---- |
+| Kugel | $\frac{4}{3} \pi r^3$ | $4 \pi r^2$ |
+| Zylinder | $\pi r^2 h$ | $2 \pi r \cdot (r+h)$ |
+| Hohlzylinder | $\pi R^2 h - \pi r^2 h$ | $2 \pi ((R+r)h+R^2-r^2)$ |
+
 - https://de.wikipedia.org/wiki/Trigonometrischer_Pythagoras
 - https://de.wikipedia.org/wiki/Kategorie:Formelsammlung
 
