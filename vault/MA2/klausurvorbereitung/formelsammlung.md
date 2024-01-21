@@ -81,7 +81,8 @@ $$
 $$
 
 $$
-\frac{1}{120} x^5
+\frac{1}{720} x^6
+\to \frac{1}{120} x^5
 \to \frac{1}{24} x^4
 \to \frac{1}{6} x^3
 \to \frac{1}{2} x^2
@@ -92,6 +93,16 @@ $$
 
 $$
 \textcolor{blue}{e^{-x}} \to -e^{-x} \to e^{-x} \to \ldots
+$$
+
+$$
+\frac{1}{k^3} e^{kx}
+\to \frac{1}{k^2} e^{kx} 
+\to \frac{1}{k} e^{kx} 
+\to e^{kx}
+\to ke^{kx}
+\to k^2e^{kx}
+\to k^3e^{kx}
 $$
 
 # Logarithmus
