@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4439f7c5a4b4586e",
+        "id": "ec347e0b0ac95ec7",
         "type": "tabs",
         "children": [
           {
-            "id": "39dca3787c6072ea",
+            "id": "ea824ab762a75a98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgabe 1b.md",
+                "file": "_general/Auslandsstudium/Research/Todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "e4229f0533283ed0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4004ead86e318e01",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MA2/uebungen/uebung 11/aufgaben.pdf"
-              }
-            }
-          },
-          {
-            "id": "5b8955b2904229f2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MA2/uebungen/uebung 11/loesungen.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgaben.pdf",
+                "file": "_general/Auslandsstudium/Research/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgaben.pdf",
+                "file": "_general/Auslandsstudium/Research/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/uebungen/uebung 11/aufgaben.pdf"
+                "file": "_general/Auslandsstudium/Research/Todo.md"
               }
             }
           }
@@ -174,9 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4004ead86e318e01",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung.md",
+    "_general/Auslandsstudium/Research/Todo.md",
+    "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Auswahl Zielhochschule.md",
+    "_general/Auslandsstudium/README.md",
+    "_general/Auslandsstudium/Modulhandbuch OTH.pdf",
+    "_general/Auslandsstudium/Research/International Office ELO/Auslandspraktikum.md",
+    "MA2/klausurvorbereitung/formelsammlung.md",
+    "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
+    "MA2/wiederholungen/blatt 1/aufgaben.pdf",
+    "MA2/wiederholungen/blatt 1/loesungen.pdf",
     "MA2/uebungen/uebung 11/loesungen.pdf",
+    "MA2/uebungen/uebung 11/aufgaben.pdf",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",
     "MA2/uebungen/uebung 11/aufgabe 3.md",
     "MA2/uebungen/uebung 11/aufgabe 2b.md",
@@ -187,7 +171,6 @@
     "MA2/uebungen/uebung 12/aufgabe 2b.md",
     "MA2/uebungen/uebung 12/aufgabe 2a.md",
     "MA2/uebungen/uebung 12/aufgabe 1.md",
-    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 3/aufgabe 3/b.md",
     "MA2/uebungen/uebung 3/aufgabe 3/a.md",
     "MA2/uebungen/uebung 3/aufgabe 2/f.md",
@@ -201,27 +184,17 @@
     "MA2/uebungen/uebung 12/loesungen.pdf",
     "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
     "MA2/uebungen/uebung 12/aufgaben.pdf",
-    "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
-    "MA2/uebungen/uebung 11/aufgaben.pdf",
     "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
     "MA2/uebungen/uebung 12",
-    "KS/klausurvorbereitung/formelsammlung.md",
     "KS/klausurvorbereitung/tcp slow start.png",
-    "KS/uebungen/uebung 4/aufgabe 5.md",
     "KS/uebungen/uebung 4/slow start.png",
     "KS/uebungen/uebung 4/aufgaben.pdf",
-    "KS/uebungen/uebung 4/loesungen.pdf",
-    "KS/uebungen/uebung 4/aufgabe 4.md",
-    "KS/uebungen/uebung 4/aufgabe 1b.md",
     "KS/uebungen/uebung 4/puffer b.png",
     "KS/uebungen/uebung 4/puffer b.png",
     "KS/uebungen/uebung 4/puffer a.png",
     "KS/uebungen/uebung 4/seq diagram.png",
     "KS/klausurvorbereitung/tcp header.png",
     "KS/klausurvorbereitung/metric prefixes.png",
-    "MA2/wiederholungen/blatt 1/loesungen.pdf",
-    "MA2/wiederholungen/blatt 1/aufgaben.pdf",
-    "MA2/wiederholungen/blatt 1",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]
