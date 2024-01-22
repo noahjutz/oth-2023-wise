@@ -13,13 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "MA2/uebungen/uebung 11/aufgabe 1b.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "e4229f0533283ed0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4004ead86e318e01",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/uebungen/uebung 11/aufgaben.pdf"
+              }
+            }
+          },
+          {
+            "id": "5b8955b2904229f2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/uebungen/uebung 11/loesungen.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "MA2/uebungen/uebung 11/aufgaben.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "MA2/uebungen/uebung 11/aufgaben.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md"
+                "file": "MA2/uebungen/uebung 11/aufgaben.pdf"
               }
             }
           }
@@ -147,8 +174,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "4004ead86e318e01",
   "lastOpenFiles": [
+    "MA2/uebungen/uebung 11/loesungen.pdf",
+    "MA2/uebungen/uebung 11/aufgabe 1b.md",
+    "MA2/uebungen/uebung 11/aufgabe 3.md",
+    "MA2/uebungen/uebung 11/aufgabe 2b.md",
+    "MA2/uebungen/uebung 11/aufgabe 2a.md",
+    "MA2/uebungen/uebung 11/aufgabe 1a.md",
+    "MA2/uebungen/uebung 12/aufgabe 3.md",
+    "MA2/uebungen/uebung 12/aufgabe 2c.md",
+    "MA2/uebungen/uebung 12/aufgabe 2b.md",
+    "MA2/uebungen/uebung 12/aufgabe 2a.md",
+    "MA2/uebungen/uebung 12/aufgabe 1.md",
+    "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 3/aufgabe 3/b.md",
     "MA2/uebungen/uebung 3/aufgabe 3/a.md",
     "MA2/uebungen/uebung 3/aufgabe 2/f.md",
@@ -158,19 +197,11 @@
     "MA2/uebungen/uebung 3/aufgabe 2/b.md",
     "MA2/uebungen/uebung 3/aufgabe 2/a.md",
     "MA2/uebungen/uebung 3/aufgaben.pdf",
-    "MA2/klausurvorbereitung/formelsammlung.md",
     "DB/uebungen/uebung 12/aufgabe 1.md",
-    "MA2/uebungen/uebung 12/aufgabe 3.md",
     "MA2/uebungen/uebung 12/loesungen.pdf",
-    "MA2/uebungen/uebung 12/aufgabe 1.md",
-    "MA2/uebungen/uebung 12/aufgabe 2a.md",
-    "MA2/uebungen/uebung 12/aufgabe 2b.md",
-    "MA2/uebungen/uebung 12/aufgabe 2c.md",
     "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
     "MA2/uebungen/uebung 12/aufgaben.pdf",
     "MA2/klausurvorbereitung/kurzskript anmerkungen.md",
-    "MA2/uebungen/uebung 11/aufgabe 1b.md",
-    "MA2/uebungen/uebung 11/aufgabe 1a.md",
     "MA2/uebungen/uebung 11/aufgaben.pdf",
     "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
     "MA2/uebungen/uebung 12",
@@ -182,16 +213,12 @@
     "KS/uebungen/uebung 4/loesungen.pdf",
     "KS/uebungen/uebung 4/aufgabe 4.md",
     "KS/uebungen/uebung 4/aufgabe 1b.md",
-    "KS/uebungen/uebung 4/aufgabe 1a.md",
-    "KS/uebungen/uebung 4/aufgabe 3.md",
     "KS/uebungen/uebung 4/puffer b.png",
     "KS/uebungen/uebung 4/puffer b.png",
     "KS/uebungen/uebung 4/puffer a.png",
-    "KS/uebungen/uebung 4/aufgabe 2.md",
     "KS/uebungen/uebung 4/seq diagram.png",
     "KS/klausurvorbereitung/tcp header.png",
     "KS/klausurvorbereitung/metric prefixes.png",
-    "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
     "MA2/wiederholungen/blatt 1/loesungen.pdf",
     "MA2/wiederholungen/blatt 1/aufgaben.pdf",
     "MA2/wiederholungen/blatt 1",
