@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ec347e0b0ac95ec7",
+        "id": "57af8970aa6f0178",
         "type": "tabs",
         "children": [
           {
-            "id": "ea824ab762a75a98",
+            "id": "1efce6a67116c9a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_general/Auslandsstudium/Research/Todo.md",
+                "file": "_general/Auslandsstudium/Auswahl Hochschule/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7084d3afc99d0632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6020c94a25392d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_general/Auslandsstudium/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_general/Auslandsstudium/Research/Todo.md",
+                "file": "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_general/Auslandsstudium/Research/Todo.md",
+                "file": "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_general/Auslandsstudium/Research/Todo.md"
+                "file": "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md"
               }
             }
           }
@@ -147,12 +172,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "7084d3afc99d0632",
   "lastOpenFiles": [
-    "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung.md",
-    "_general/Auslandsstudium/Research/Todo.md",
-    "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Auswahl Zielhochschule.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/README.md",
     "_general/Auslandsstudium/README.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
+    "_general/Auslandsstudium/Research/Todo.md",
+    "_general/Auslandsstudium/Auswahl Hochschule",
+    "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung DAAD.md",
+    "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung Länderspezifische Programme.md",
+    "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung PROMOS.md",
+    "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung ERASMUS.md",
+    "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Auswahl Zielhochschule.md",
     "_general/Auslandsstudium/Modulhandbuch OTH.pdf",
     "_general/Auslandsstudium/Research/International Office ELO/Auslandspraktikum.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
@@ -174,13 +206,7 @@
     "MA2/uebungen/uebung 3/aufgabe 3/b.md",
     "MA2/uebungen/uebung 3/aufgabe 3/a.md",
     "MA2/uebungen/uebung 3/aufgabe 2/f.md",
-    "MA2/uebungen/uebung 3/aufgabe 2/e.md",
-    "MA2/uebungen/uebung 3/aufgabe 2/d.md",
-    "MA2/uebungen/uebung 3/aufgabe 2/c.md",
-    "MA2/uebungen/uebung 3/aufgabe 2/b.md",
-    "MA2/uebungen/uebung 3/aufgabe 2/a.md",
     "MA2/uebungen/uebung 3/aufgaben.pdf",
-    "DB/uebungen/uebung 12/aufgabe 1.md",
     "MA2/uebungen/uebung 12/loesungen.pdf",
     "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
     "MA2/uebungen/uebung 12/aufgaben.pdf",
@@ -188,7 +214,6 @@
     "MA2/uebungen/uebung 12",
     "KS/klausurvorbereitung/tcp slow start.png",
     "KS/uebungen/uebung 4/slow start.png",
-    "KS/uebungen/uebung 4/aufgaben.pdf",
     "KS/uebungen/uebung 4/puffer b.png",
     "KS/uebungen/uebung 4/puffer b.png",
     "KS/uebungen/uebung 4/puffer a.png",
