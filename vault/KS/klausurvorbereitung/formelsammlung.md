@@ -22,3 +22,7 @@
 ## Slow Start
 
 ![[tcp slow start.png]]
+# IEEE 802.3
+
+
+![[IEEE802.3.png]]

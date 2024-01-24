@@ -4,18 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "57af8970aa6f0178",
+        "id": "93e54a0007c4cab9",
         "type": "tabs",
+        "dimension": 35.773480662983424,
         "children": [
           {
-            "id": "1efce6a67116c9a0",
+            "id": "ca2dca803c179dd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
+                "file": "KS/uebungen/uebung 5/aufgabe 1a.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8215cf23918ddf7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KS/klausurvorbereitung/formelsammlung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4e95c00715254df",
+        "type": "tabs",
+        "dimension": 64.22651933701657,
+        "children": [
+          {
+            "id": "1e7d67986e7edba5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "KS/uebungen/uebung 5/aufgaben.pdf"
               }
             }
           }
@@ -85,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
+                "file": "KS/uebungen/uebung 5/aufgabe 1a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
+                "file": "KS/uebungen/uebung 5/aufgabe 1a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md"
+                "file": "KS/uebungen/uebung 5/aufgabe 1a.md"
               }
             }
           }
@@ -147,11 +177,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "ca2dca803c179dd2",
   "lastOpenFiles": [
+    "KS/klausurvorbereitung/formelsammlung.md",
+    "KS/klausurvorbereitung/IEEE802.3.png",
+    "KS/uebungen/uebung 5/aufgaben.pdf",
+    "KS/uebungen/uebung 5/aufgabe 1a.md",
+    "KS/uebungen/uebung 4/aufgabe 1a.md",
+    "KS/uebungen/uebung 5/loesungen.pdf",
+    "KS/uebungen/uebung 5",
+    "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
     "_general/Auslandsstudium/README.md",
     "_general/Auslandsstudium/Auswahl Hochschule/README.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
     "_general/Auslandsstudium/Auswahl Hochschule/3 QUST.md",
     "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
     "_general/Auslandsstudium/Research/Todo.md",
@@ -178,15 +215,9 @@
     "MA2/uebungen/uebung 12/aufgabe 2c.md",
     "MA2/uebungen/uebung 12/aufgabe 2b.md",
     "MA2/uebungen/uebung 12/aufgabe 2a.md",
-    "MA2/uebungen/uebung 12/aufgabe 1.md",
-    "MA2/uebungen/uebung 3/aufgabe 3/b.md",
-    "MA2/uebungen/uebung 3/aufgabe 3/a.md",
     "MA2/uebungen/uebung 3/aufgaben.pdf",
-    "MA2/uebungen/uebung 12/loesungen.pdf",
     "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
-    "MA2/uebungen/uebung 12/aufgaben.pdf",
     "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
-    "MA2/uebungen/uebung 12",
     "KS/klausurvorbereitung/tcp slow start.png",
     "KS/uebungen/uebung 4/slow start.png",
     "KS/uebungen/uebung 4/puffer b.png",
@@ -194,7 +225,6 @@
     "KS/uebungen/uebung 4/puffer a.png",
     "KS/uebungen/uebung 4/seq diagram.png",
     "KS/klausurvorbereitung/tcp header.png",
-    "KS/klausurvorbereitung/metric prefixes.png",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]
