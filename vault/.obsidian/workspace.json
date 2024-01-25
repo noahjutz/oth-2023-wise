@@ -48,6 +48,16 @@
                 "file": "KS/uebungen/uebung 5/aufgaben.pdf"
               }
             }
+          },
+          {
+            "id": "6d3dc4ef5bd1e183",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "KS/uebungen/uebung 5/loesungen.pdf"
+              }
+            }
           }
         ]
       }
@@ -179,12 +189,12 @@
   },
   "active": "ca2dca803c179dd2",
   "lastOpenFiles": [
-    "KS/klausurvorbereitung/formelsammlung.md",
-    "KS/uebungen/uebung 5/aufgabe 1.md",
-    "KS/klausurvorbereitung/IEEE802.3.png",
     "KS/uebungen/uebung 5/aufgaben.pdf",
-    "KS/uebungen/uebung 4/aufgabe 1a.md",
+    "KS/uebungen/uebung 5/aufgabe 1.md",
     "KS/uebungen/uebung 5/loesungen.pdf",
+    "KS/klausurvorbereitung/formelsammlung.md",
+    "KS/klausurvorbereitung/IEEE802.3.png",
+    "KS/uebungen/uebung 4/aufgabe 1a.md",
     "KS/uebungen/uebung 5",
     "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
     "_general/Auslandsstudium/README.md",
@@ -214,7 +224,6 @@
     "MA2/uebungen/uebung 12/aufgabe 3.md",
     "MA2/uebungen/uebung 12/aufgabe 2c.md",
     "MA2/uebungen/uebung 12/aufgabe 2b.md",
-    "MA2/uebungen/uebung 12/aufgabe 2a.md",
     "MA2/uebungen/uebung 3/aufgaben.pdf",
     "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
     "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
