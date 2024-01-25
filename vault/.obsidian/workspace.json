@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md",
+                "file": "KS/uebungen/uebung 5/aufgaben.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md",
+                "file": "KS/uebungen/uebung 5/aufgaben.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md"
+                "file": "KS/uebungen/uebung 5/aufgaben.pdf"
               }
             }
           }
@@ -188,12 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca2dca803c179dd2",
+  "active": "1e7d67986e7edba5",
   "lastOpenFiles": [
-    "KS/uebungen/uebung 5/loesungen.pdf",
     "KS/uebungen/uebung 5/aufgabe 1.md",
     "KS/uebungen/uebung 5/aufgaben.pdf",
     "KS/klausurvorbereitung/formelsammlung.md",
+    "KS/uebungen/uebung 5/loesungen.pdf",
     "KS/klausurvorbereitung/IEEE802.3.png",
     "KS/uebungen/uebung 4/aufgabe 1a.md",
     "KS/uebungen/uebung 5",

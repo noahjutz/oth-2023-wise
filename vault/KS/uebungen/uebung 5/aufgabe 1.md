@@ -36,16 +36,43 @@ Rechnung:
 | Symbol | Einheit | Beschreibung |
 | ---- | ---- | ---- |
 | $N$ | B | Slot Time (gesucht) |
-| $R$ | B/s | Datenrate (bis zu 100Mb/s) |
+| $R$ | B/s | Datenrate (=10MB/s) |
 | $t_T$ | s | Transfer-Dauer (größer als RTT) |
 | $t_R$ | s | Round-Trip-Time |
 | $x$ | m | Maximale Trunk-Strecke (=2.5km) |
 | $v$ | m/s | Ausbreitungsgeschwindigkeit (=0.77c) |
 
+Zu zeigen ist, dass die mindest-Frame-Größe $N = 64 \ \text{B}$ beträgt. Sie hängt von der Datenrate $R = 10 \ \text{MB/s}$ und der Transferdauer $t_T$ ab.
+
 $$
 N = R \cdot t_T
 $$
 
+Die Transferdauer muss mindestens so lange sein wie die maximale Round-Trip-Time $t_R$.
+
 $$
-t_R = 2 \cdot \frac{x}{v} = 
+\begin{align*}
+	t_R &= \frac{2x}{v} \\
+	&= \frac{
+		2 \cdot 2.5 \ \text{km}
+	}{
+		0.77 \cdot 300.000 \ \text{km/s}
+	} \\
+	&\approx 2.1645 \cdot 10^{-5} \ \text{s} \\
+	&= 2.1645 \cdot 10^{-5} \cdot 10^{9} \ \text{ns} \\
+	&= 21645 \ \text{ns}
+\end{align*}
+$$
+
+$$
+t_T \ge t_R
+$$
+
+$$
+\begin{align*}
+	N &\ge 10 \ \text{MB/s} \cdot 2.1645 \cdot 10^{-5} \ \text{s} \\
+	N &\ge 2.1645 \cdot 10^{-4} \ \text{MB} \\
+	N &\ge 2.1645 \cdot 10^{-4} \cdot 10^6 \ \text{B} \\
+	N &\ge 216.45 \ \text{B}
+\end{align*}
 $$
