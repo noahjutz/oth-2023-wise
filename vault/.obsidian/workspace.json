@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,9 +190,9 @@
   },
   "active": "ca2dca803c179dd2",
   "lastOpenFiles": [
-    "KS/uebungen/uebung 5/aufgaben.pdf",
-    "KS/uebungen/uebung 5/aufgabe 1.md",
     "KS/uebungen/uebung 5/loesungen.pdf",
+    "KS/uebungen/uebung 5/aufgabe 1.md",
+    "KS/uebungen/uebung 5/aufgaben.pdf",
     "KS/klausurvorbereitung/formelsammlung.md",
     "KS/klausurvorbereitung/IEEE802.3.png",
     "KS/uebungen/uebung 4/aufgabe 1a.md",
