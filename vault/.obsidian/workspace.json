@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93e54a0007c4cab9",
+        "id": "951ffb366c85afae",
         "type": "tabs",
-        "dimension": 45.37292817679558,
         "children": [
           {
-            "id": "ca2dca803c179dd2",
+            "id": "1f1489e86fa1b4bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,45 +16,6 @@
                 "file": "KS/uebungen/uebung 5/aufgabe 1.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8215cf23918ddf7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KS/klausurvorbereitung/formelsammlung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b4e95c00715254df",
-        "type": "tabs",
-        "dimension": 54.62707182320442,
-        "children": [
-          {
-            "id": "1e7d67986e7edba5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "KS/uebungen/uebung 5/aufgaben.pdf"
-              }
-            }
-          },
-          {
-            "id": "6d3dc4ef5bd1e183",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "KS/uebungen/uebung 5/loesungen.pdf"
               }
             }
           }
@@ -125,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgaben.pdf",
+                "file": "KS/uebungen/uebung 5/aufgabe 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgaben.pdf",
+                "file": "KS/uebungen/uebung 5/aufgabe 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgaben.pdf"
+                "file": "KS/uebungen/uebung 5/aufgabe 1.md"
               }
             }
           }
@@ -187,12 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e7d67986e7edba5",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
-    "KS/uebungen/uebung 5/aufgabe 1.md",
     "KS/uebungen/uebung 5/aufgaben.pdf",
-    "KS/klausurvorbereitung/formelsammlung.md",
+    "DB/uebungen/uebung 13/aufgaben.pdf",
+    "DB/uebungen/Untitled.md",
+    "DB/uebungen/uebung 13",
     "KS/uebungen/uebung 5/loesungen.pdf",
+    "KS/klausurvorbereitung/formelsammlung.md",
+    "KS/uebungen/uebung 5/aufgabe 1.md",
     "KS/klausurvorbereitung/IEEE802.3.png",
     "KS/uebungen/uebung 4/aufgabe 1a.md",
     "KS/uebungen/uebung 5",
@@ -215,7 +178,6 @@
     "MA2/wiederholungen/blatt 1/aufgaben.pdf",
     "MA2/wiederholungen/blatt 1/loesungen.pdf",
     "MA2/uebungen/uebung 11/loesungen.pdf",
-    "MA2/uebungen/uebung 11/aufgaben.pdf",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",
     "MA2/uebungen/uebung 11/aufgabe 3.md",
     "MA2/uebungen/uebung 11/aufgabe 2b.md",
@@ -223,8 +185,6 @@
     "MA2/uebungen/uebung 11/aufgabe 1a.md",
     "MA2/uebungen/uebung 12/aufgabe 3.md",
     "MA2/uebungen/uebung 12/aufgabe 2c.md",
-    "MA2/uebungen/uebung 12/aufgabe 2b.md",
-    "MA2/uebungen/uebung 3/aufgaben.pdf",
     "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
     "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
     "KS/klausurvorbereitung/tcp slow start.png",
