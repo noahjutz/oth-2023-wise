@@ -38,9 +38,11 @@ Dauert die Übertragung kürzer, so werden Late Collisions nicht erkannt. Eine K
 | $N$ | B | Mindestframegröße (=64B) |
 | $R$ | B/s | Datenrate (=10MB/s) |
 | $t_T$ | s | Transfer-Dauer (größer als RTT) |
-| $t_R$ | s | Round-Trip-Time |
+| $t_R$ | s | Round-Trip-Time (=$t_S+t_L$) |
+| $t_S$ | s | Signallaufzeit |
+| $t_L$ | s | Verzögerungen |
 | $x$ | m | Maximale Trunk-Strecke (=2.5km) |
-| $v$ | m/s | Ausbreitungsgeschwindigkeit (=0.77c) |
+| $v$ | m/s | Ausbreitungsgeschwindigkeit (=0.67c) |
 
 Zu zeigen ist, dass die Mindestframegröße $N = 64 \ \text{B}$ beträgt. Sie hängt von der Datenrate $R = 10 \ \text{MB/s}$ und der Transferdauer $t_T$ ab.
 
@@ -48,28 +50,33 @@ $$
 N = R \cdot t_T
 $$
 
-Die Transferdauer muss mindestens so lange sein wie die maximale Round-Trip-Time $t_R$.
+Die Round-Trip-Time $t_R$ besteht aus der Signallaufzeit $t_S$ und weiteren Verzögerungen $t_L$.
 
 $$
 \begin{align*}
-	t_R &= \frac{2x}{v} \\
+	t_R &= t_S + t_L \\
+	&= \frac{x}{v} + t_L \\
 	&= \frac{
-		2 \cdot 2.5 \ \text{km}
+		2.5 \ \text{km}
 	}{
-		0.77 \cdot 300.000 \ \text{km/s}
-	} \\
-	&\approx 2.1645 \cdot 10^{-5} \ \text{s} \\
+		0.67 \cdot 300.000 \ \text{km/s}
+	} + t_L\\
+	&\approx 1.244 \cdot 10^{-5} + t_L \ \text{s} \\
 \end{align*}
 $$
 
-Die Mindestframegröße $N$ ist also mindestens:
+Da $t_T \ge t_R$ ist die Mindestframegröße $N$ also:
 
 $$
 \begin{align*}
-	N &\ge 10 \ \text{MB/s} \cdot 2.1645 \cdot 10^{-5} \ \text{s} \\
-	N &\ge 2.1645 \cdot 10^{-4} \ \text{MB} \\
-	N &\ge 2.1645 \cdot 10^{-4} \cdot 10^6 \ \text{B} \\
-	N &\ge 216.45 \ \text{B}
+	N &= R \cdot t_T \\
+	\iff N &\ge R \cdot t_R \\
+	\iff N &= R \cdot (t_S + t_L) \\
+	\iff N &\ge R \cdot t_S \\
+	&= 10 \ \text{MB/s} \cdot 1.244 \cdot 10^{-5} \ \text{s} \\
+	&= 1.244 \cdot 10^{-4} \ \text{MB} \\
+	&= 1.244 \cdot 10^{-4} \cdot 10^6 \ \text{B} \\
+	&= 124.4 \ \text{B}
 \end{align*}
 $$
 
