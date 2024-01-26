@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "951ffb366c85afae",
+        "id": "7e8705a2c83a98cf",
         "type": "tabs",
         "children": [
           {
-            "id": "1f1489e86fa1b4bb",
+            "id": "0f5b3bb9405c2393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23725f2377c5b271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KS/klausurvorbereitung/formelsammlung.md",
+                "file": "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,31 +22,30 @@
         ]
       },
       {
-        "id": "d6b3d9fffe3137f7",
+        "id": "9b8f750eff9f516f",
         "type": "tabs",
         "children": [
           {
-            "id": "a7b6a51d50a3d724",
+            "id": "c08ba44e76679d93",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgaben.pdf"
+                "file": "MA2/wiederholungen/blatt 1/aufgaben.pdf"
               }
             }
           },
           {
-            "id": "6cf0f0ae40cb2b03",
+            "id": "2f92332c39d0560b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "KS/uebungen/uebung 5/loesungen.pdf"
+                "file": "MA2/wiederholungen/blatt 1/loesungen.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md",
+                "file": "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md",
+                "file": "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md"
+                "file": "MA2/wiederholungen/blatt 1/aufgabe 1a.md"
               }
             }
           }
@@ -186,16 +173,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "0f5b3bb9405c2393",
   "lastOpenFiles": [
-    "KS/uebungen/uebung 5/aufgabe 3.md",
-    "KS/uebungen/uebung 5/loesungen.pdf",
-    "KS/klausurvorbereitung/formelsammlung.md",
+    "MA2/wiederholungen/blatt 1/aufgaben.pdf",
+    "MA2/wiederholungen/blatt 1/loesungen.pdf",
+    "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
     "KS/uebungen/uebung 5/aufgaben.pdf",
+    "KS/uebungen/uebung 5/loesungen.pdf",
+    "KS/uebungen/uebung 5/aufgabe 3.md",
+    "KS/uebungen/uebung 5/aufgabe 1.md",
+    "KS/klausurvorbereitung/formelsammlung.md",
     "KS/klausurvorbereitung/layers.png",
     "KS/uebungen/uebung 5/aufgabe 2.md",
     "KS/uebungen/uebung 5/Untitled",
-    "KS/uebungen/uebung 5/aufgabe 1.md",
     "KS/uebungen/uebung 5/Zusatzübung Aufgabe 1e.md",
     "DB/uebungen/uebung 13/aufgaben.pdf",
     "DB/uebungen/Untitled.md",
@@ -218,9 +208,6 @@
     "_general/Auslandsstudium/Modulhandbuch OTH.pdf",
     "_general/Auslandsstudium/Research/International Office ELO/Auslandspraktikum.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
-    "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
-    "MA2/wiederholungen/blatt 1/aufgaben.pdf",
-    "MA2/wiederholungen/blatt 1/loesungen.pdf",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",
     "MA2/uebungen/uebung 11/aufgabe 3.md",
     "MA2/uebungen/uebung 11/aufgabe 2b.md",

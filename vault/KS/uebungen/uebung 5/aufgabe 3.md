@@ -17,3 +17,28 @@ Es führt auch IP-Addressen ein, welche durch die IANA (IANA $\to$ RIRs $\to$ IS
 | 3 | Internet | Network Layer<br>Vermittlungsschicht | IP |
 | 2 | Network Access<br>Netzzugriff | Data Link Layer<br>Sicherungsschicht | IEEE 802.3 |
 | 1 | Network Access<br>Netzzugriff | Physical Layer<br>Bitübertragungsschicht |  |
+
+# c
+
+Segment 1 (PC $\to$ Switch)
+
+| Device | Ethernet-Frame | IP-Header | Device |
+| ---- | ---- | ---- | ---- |
+| Src (PC) | 00:50:56:8A:76:0D | 192.168.1.3 | Src (PC) |
+| Dst (Router) | 00:40:5F:8A:76:1E | 10.1.1.3 | Dst (Server) |
+
+Segment 2 (Switch $\to$ Router)
+
+| Device | Ethernet-Frame | IP-Header | Device |
+| ---- | ---- | ---- | ---- |
+| Src (PC) | 00:50:56:8A:76:0D | 192.168.1.3 | Src (PC) |
+| Dst (Router) | 00:40:5F:8A:76:1E | 10.1.1.3 | Dst (Server) |
+
+Segment 3 (Router $\to$ Server)
+
+| Device | Ethernet-Frame | IP-Header | Device |
+| ---- | ---- | ---- | ---- |
+| Src (Router) | 02:43:AF:89:56:2D | 192.168.1.3 | Src (PC) |
+| Dst (Server) | 1E:2A:11:A0:43:A1 | 10.1.1.3 | Dst (Server) |
+
+Die IP-Addressen bleiben immer gleich. Die MAC-Addressen bleiben in einem Subnetz gleich.
