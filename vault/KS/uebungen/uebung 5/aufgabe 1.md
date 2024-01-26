@@ -36,7 +36,7 @@ Dauert die Übertragung kürzer, so werden Late Collisions nicht erkannt. Eine K
 | Symbol | Einheit | Beschreibung |
 | ---- | ---- | ---- |
 | $N$ | B | Mindestframegröße (=64B) |
-| $R$ | B/s | Datenrate (=10MB/s) |
+| $R$ | B/s | Datenrate (=10Mb/s) |
 | $t_T$ | s | Transfer-Dauer (größer als RTT) |
 | $t_R$ | s | Round-Trip-Time (=$t_S+t_L$) |
 | $t_S$ | s | Signallaufzeit |
@@ -65,19 +65,24 @@ $$
 \end{align*}
 $$
 
-Da $t_T \ge t_R$ ist die Mindestframegröße $N$ also:
+Da $t_T \ge t_R$ ist die Mindestframegröße $N$ also mindestens:
 
 $$
 \begin{align*}
 	N &= R \cdot t_T \\
-	\iff N &\ge R \cdot t_R \\
-	\iff N &= R \cdot (t_S + t_L) \\
-	\iff N &\ge R \cdot t_S \\
-	&= 10 \ \text{MB/s} \cdot 1.244 \cdot 10^{-5} \ \text{s} \\
-	&= 1.244 \cdot 10^{-4} \ \text{MB} \\
-	&= 1.244 \cdot 10^{-4} \cdot 10^6 \ \text{B} \\
-	&= 124.4 \ \text{B}
+	\implies N &\ge R \cdot t_R \\
+	\implies N &\ge R \cdot (t_S + t_L) \\
+	\implies N &\ge R \cdot t_S \\
+	&= 10 \ \text{Mb/s} \cdot 1.244 \cdot 10^{-5} \ \text{s} \\
+	&= 1.244 \cdot 10^{-4} \ \text{Mb} \\
+	&= 1.244 \cdot 10^{-4} \cdot 10^6 \ \text{b} \\
+	&= 124.4 \ \text{b} \\
+	&\approx 16 \ \text{B}
 \end{align*}
 $$
 
-!! Widerspruch
+Die maximale zulässige Verzögerungszeit $t_L$ lässt sich folgendermaßen berechnen:
+
+$$
+N = R \cdot 
+$$
