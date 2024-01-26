@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 2.md",
+                "file": "KS/uebungen/uebung 5/aufgabe 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23725f2377c5b271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KS/klausurvorbereitung/formelsammlung.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,6 +44,16 @@
               "type": "pdf",
               "state": {
                 "file": "KS/uebungen/uebung 5/aufgaben.pdf"
+              }
+            }
+          },
+          {
+            "id": "6cf0f0ae40cb2b03",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "KS/uebungen/uebung 5/loesungen.pdf"
               }
             }
           }
@@ -101,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 2.md",
+                "file": "KS/uebungen/uebung 5/aufgabe 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 2.md",
+                "file": "KS/uebungen/uebung 5/aufgabe 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 2.md"
+                "file": "KS/uebungen/uebung 5/aufgabe 3.md"
               }
             }
           }
@@ -165,15 +187,18 @@
   },
   "active": "1f1489e86fa1b4bb",
   "lastOpenFiles": [
-    "KS/uebungen/uebung 5/aufgabe 1.md",
-    "KS/uebungen/uebung 5/aufgabe 2.md",
+    "KS/klausurvorbereitung/formelsammlung.md",
+    "KS/uebungen/uebung 5/aufgabe 3.md",
     "KS/uebungen/uebung 5/aufgaben.pdf",
+    "KS/klausurvorbereitung/layers.png",
+    "KS/uebungen/uebung 5/aufgabe 2.md",
+    "KS/uebungen/uebung 5/Untitled",
+    "KS/uebungen/uebung 5/loesungen.pdf",
+    "KS/uebungen/uebung 5/aufgabe 1.md",
     "KS/uebungen/uebung 5/Zusatzübung Aufgabe 1e.md",
     "DB/uebungen/uebung 13/aufgaben.pdf",
     "DB/uebungen/Untitled.md",
     "DB/uebungen/uebung 13",
-    "KS/uebungen/uebung 5/loesungen.pdf",
-    "KS/klausurvorbereitung/formelsammlung.md",
     "KS/klausurvorbereitung/IEEE802.3.png",
     "KS/uebungen/uebung 4/aufgabe 1a.md",
     "KS/uebungen/uebung 5",
@@ -195,13 +220,10 @@
     "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
     "MA2/wiederholungen/blatt 1/aufgaben.pdf",
     "MA2/wiederholungen/blatt 1/loesungen.pdf",
-    "MA2/uebungen/uebung 11/loesungen.pdf",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",
     "MA2/uebungen/uebung 11/aufgabe 3.md",
     "MA2/uebungen/uebung 11/aufgabe 2b.md",
     "MA2/uebungen/uebung 11/aufgabe 2a.md",
-    "MA2/uebungen/uebung 11/aufgabe 1a.md",
-    "MA2/uebungen/uebung 12/aufgabe 3.md",
     "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
     "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
     "KS/klausurvorbereitung/tcp slow start.png",
@@ -210,7 +232,6 @@
     "KS/uebungen/uebung 4/puffer b.png",
     "KS/uebungen/uebung 4/puffer a.png",
     "KS/uebungen/uebung 4/seq diagram.png",
-    "KS/klausurvorbereitung/tcp header.png",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]

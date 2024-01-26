@@ -26,3 +26,7 @@
 
 
 ![[IEEE802.3.png]]
+
+# Layers
+
+![[layers.png]]
