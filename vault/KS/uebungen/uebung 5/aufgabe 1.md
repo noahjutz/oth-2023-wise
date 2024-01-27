@@ -37,17 +37,16 @@ Dauert die Übertragung kürzer, so werden Late Collisions nicht erkannt. Eine K
 | ---- | ---- | ---- |
 | $N$ | B | Mindestframegröße (=64B) |
 | $R$ | B/s | Datenrate (=10Mb/s) |
-| $t_T$ | s | Transfer-Dauer (größer als RTT) |
 | $t_R$ | s | Round-Trip-Time (=$t_S+t_L$) |
 | $t_S$ | s | Signallaufzeit |
 | $t_L$ | s | Verzögerungen |
 | $x$ | m | Maximale Trunk-Strecke (=2.5km) |
-| $v$ | m/s | Ausbreitungsgeschwindigkeit (=0.67c) |
+| $v$ | m/s | Ausbreitungsgeschwindigkeit (=2/3 c) |
 
-Zu zeigen ist, dass die Mindestframegröße $N = 64 \ \text{B}$ beträgt. Sie hängt von der Datenrate $R = 10 \ \text{MB/s}$ und der Transferdauer $t_T$ ab.
+Zu zeigen ist, dass die Mindestframegröße $N = 64 \ \text{B}$ beträgt. Sie hängt von der Datenrate $R = 10 \ \text{MB/s}$ und der Round-Trip-Time $t_R$ ab.
 
 $$
-N = R \cdot t_T
+N = R \cdot t_R
 $$
 
 Die Round-Trip-Time $t_R$ besteht aus der Signallaufzeit $t_S$ und weiteren Verzögerungen $t_L$.
@@ -59,9 +58,9 @@ $$
 	&= \frac{
 		2.5 \ \text{km}
 	}{
-		0.67 \cdot 300.000 \ \text{km/s}
+		\frac{2}{3} \cdot 300.000 \ \text{km/s}
 	} + t_L\\
-	&\approx 1.244 \cdot 10^{-5} + t_L \ \text{s} \\
+	&= 1.25 \cdot 10^{-5} + t_L \ \text{s} \\
 \end{align*}
 $$
 
@@ -69,14 +68,13 @@ Da $t_T \ge t_R$ ist die Mindestframegröße $N$ also mindestens:
 
 $$
 \begin{align*}
-	N &= R \cdot t_T \\
-	\implies N &\ge R \cdot t_R \\
-	\implies N &\ge R \cdot (t_S + t_L) \\
-	\implies N &\ge R \cdot t_S \\
-	&= 10 \ \text{Mb/s} \cdot 1.244 \cdot 10^{-5} \ \text{s} \\
-	&= 1.244 \cdot 10^{-4} \ \text{Mb} \\
-	&= 1.244 \cdot 10^{-4} \cdot 10^6 \ \text{b} \\
-	&= 124.4 \ \text{b} \\
+	N &= R \cdot t_R \\
+	&= R \cdot (t_S + t_L) \\
+	&\ge R \cdot t_S \\
+	&= 10 \ \text{Mb/s} \cdot 1.25 \cdot 10^{-5} \ \text{s} \\
+	&= 1.25 \cdot 10^{-4} \ \text{Mb} \\
+	&= 1.25 \cdot 10^{-4} \cdot 10^6 \ \text{b} \\
+	&= 125 \ \text{b} \\
 	&\approx 16 \ \text{B}
 \end{align*}
 $$
@@ -84,5 +82,16 @@ $$
 Die maximale zulässige Verzögerungszeit $t_L$ lässt sich folgendermaßen berechnen:
 
 $$
-N = R \cdot 
+\begin{align*}
+	N &= R \cdot (t_S + t_L) \\
+	\iff t_L &= \frac{N}{R} - t_S \\
+	&= \frac{64\ \text{B}}{10\ \text{Mb/s}} - 1.25 \cdot 10^{-5} \ \text{s} \\
+	&= \frac{512\ \text{b}}{10^7\ \text{b/s}} - 1.25 \cdot 10^{-5} \ \text{s} \\
+	&= 512 \cdot 10^{-7} \ \text{s} - 1.25 \cdot 10^{-5} \ \text{s} \\
+	&= (512 \cdot 10^{-2} - 1.25) \cdot 10^{-5} \ \text{s} \\
+	&= (5.12 - 1.25) \cdot 10^{-5} \ \text{s} \\
+	&= 3.87 \cdot 10^{-5} \ \text{s} \\
+	&= 3.87 \cdot 10^{-5} \cdot 10^6 \ \micro\text{s} \\
+	&= 38.7 \ \micro\text{s}
+\end{align*}
 $$

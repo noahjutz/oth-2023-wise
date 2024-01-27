@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md",
+                "file": "KS/tutorium/tutorium 1 IoT/notizen.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md",
+                "file": "KS/tutorium/tutorium 1 IoT/notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md",
+                "file": "KS/tutorium/tutorium 1 IoT/notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/uebungen/uebung 5/aufgabe 1.md"
+                "file": "KS/tutorium/tutorium 1 IoT/notizen.md"
               }
             }
           }
@@ -167,11 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccfc59071dcadeac",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "KS/tutorium/tutorium 1 IoT/blatt.pdf",
+    "KS/tutorium/tutorium 1 IoT",
+    "KS/tutorium_archive/tutorium 10/tutorium 10 (TCPIP4).md",
+    "KS/tutorium/tutorium 1 IoT/notizen.md",
+    "KS/tutorium",
+    "KS/uebungen/uebung 5/aufgabe 1.md",
     "KS/uebungen/uebung 5/loesungen.pdf",
     "KS/uebungen/uebung 5/aufgaben.pdf",
-    "KS/uebungen/uebung 5/aufgabe 1.md",
     "MA2/wiederholungen/blatt 1/loesungen.pdf",
     "MA2/wiederholungen/blatt 1/aufgaben.pdf",
     "MA2/wiederholungen/blatt 1/aufgabe 1b.md",
@@ -194,18 +199,14 @@
     "_general/Auslandsstudium/Auswahl Hochschule/3 QUST.md",
     "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
     "_general/Auslandsstudium/Research/Todo.md",
-    "_general/Auslandsstudium/Auswahl Hochschule",
     "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung DAAD.md",
     "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung Länderspezifische Programme.md",
     "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung PROMOS.md",
     "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung ERASMUS.md",
     "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Auswahl Zielhochschule.md",
-    "_general/Auslandsstudium/Modulhandbuch OTH.pdf",
     "_general/Auslandsstudium/Research/International Office ELO/Auslandspraktikum.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/uebungen/uebung 11/aufgabe 1b.md",
-    "MA2/uebungen/uebung 11/aufgabe 3.md",
-    "MA2/uebungen/uebung 11/aufgabe 2b.md",
     "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
     "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
     "KS/klausurvorbereitung/tcp slow start.png",
