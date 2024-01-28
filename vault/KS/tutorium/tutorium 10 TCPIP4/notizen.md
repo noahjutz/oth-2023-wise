@@ -3,7 +3,7 @@
 - Server: 131.188.3.71
 - Client: 194.95.109.136
 
-![[tcp-flow-graphs-tcpip4.pdf]]
+![[flow graph.pdf]]
 
 - https://gitlab.com/wireshark/wireshark/-/issues/13504
 
