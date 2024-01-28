@@ -34,4 +34,4 @@
 # Leitungskapazität
 
 - $v = \frac{x}{t} \iff t = \frac{x}{v}$
-- 
+- $N = R \cdot t \iff N = R \cdot \frac{x}{v}$
