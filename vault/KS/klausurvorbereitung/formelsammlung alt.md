@@ -30,3 +30,8 @@
 # Layers
 
 ![[layers.png]]
+
+# Leitungskapazität
+
+- $v = \frac{x}{t} \iff t = \frac{x}{v}$
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KS/klausurvorbereitung/formelsammlung.md",
+                "file": "KS/klausurvorbereitung/formelsammlung alt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KS/klausurvorbereitung/formelsammlung.md",
+                "file": "KS/klausurvorbereitung/formelsammlung alt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KS/klausurvorbereitung/formelsammlung.md",
+                "file": "KS/klausurvorbereitung/formelsammlung alt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KS/klausurvorbereitung/formelsammlung.md"
+                "file": "KS/klausurvorbereitung/formelsammlung alt.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "KS/klausurvorbereitung/formelsammlung.md",
     "KS/tutorium/tutorium 10 TCPIP4/flow graph.pdf",
     "KS/tutorium/tutorium 11 NMAP/loesungen.pdf",
     "KS/tutorium/tutorium 11 NMAP/blatt.pdf",
@@ -161,12 +162,10 @@
     "KS/tutorium/tutorium 9 DHCP/loesungen.pdf",
     "KS/tutorium/tutorium 9 DHCP/blatt.pdf",
     "KS/tutorium/tutorium 9 DHCP",
-    "KS/tutorium/tutorium 8 NAT/loesungen.pdf",
     "KS/tutorium/tutorium 4 TCPIP2/notizen.md",
     "KS/tutorium/tutorium 3 L2/notizen.md",
     "KS/tutorium/tutorium 3 L2/scapy.png",
     "KS/klausurvorbereitung/formelsammlung alt.md",
-    "KS/klausurvorbereitung/formelsammlung.md",
     "KS/tutorium/tutorium 2 TCPIP1/notizen.md",
     "KS/tutorium/tutorium 1 IoT/notizen.md",
     "KS/tutorium/tutorium 2 TCPIP1/wireshark.png",
