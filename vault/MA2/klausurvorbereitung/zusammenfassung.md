@@ -7,4 +7,9 @@
 | 2.3 | - Geometrische Reihe<br>- Konvergenzkriterien Reihen<br>- Cauchy-Produkt |
 | 2.4 | - Potenzreihe<br>- Konvergenzradius<br>- Exponentialfunktion<br>- Trigonometrische Funktionen<br>- Euler'sche Beziehung |
 | 3.1 | - Grenzwerte von Funktionen<br>- Definition Stetigkeit |
-| 3.2  | - Zwischenwertsatz<br>-  |
+| 3.2 | - Zwischenwertsatz |
+| 4.1 | - Definition Differenzierbarkeit<br>- Geometrische Interpretation<br>- Rechenregeln für Ableitungen<br>- Kettenregel |
+| 4.2 | - Satz von Rolle<br>- Mittelwertsatz<br>- Höhere Ableitungen<br>- Umkehrfunktion |
+| 4.3 | - Ableitung einer Potenzreihe<br>- Ableitung der e-Funktion<br>- Natürlicher Logarithmus<br>- Ableitungen der trig. Funktionen<br>- Umkehrfunktionen von trig. Fkt.<br>- Ableitungen der Umkehrfkt. von trig. Fkt.<br>- Tabelle mit Ableitungen von elementaren Fkt. |
+| 4.4 | - Regel von de L'Hospital |
+| 4.5 | - Taylorpolynom<br>- Satz von Taylor<br>- Taylorreihe |
