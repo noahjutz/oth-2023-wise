@@ -142,3 +142,17 @@ $$
 | Kugel | $\frac{4}{3} \pi r^3$ | $4 \pi r^2$ |
 | Zylinder | $\pi r^2 h$ | $2 \pi r \cdot (r+h)$ |
 | Hohlzylinder | $\pi R^2 h - \pi r^2 h$ | $2 \pi ((R+r)h+R^2-r^2)$ |
+
+# Arithm. und Geom. Mittel
+
+Allgemeines arithmetisches Mittel:
+
+$$
+\overline X = \frac{1}{n} \cdot \sum_{k=0}^n a_k
+$$
+
+Allgemeines geometrisches Mittel:
+
+$$
+\overline X = \sqrt[n]{\prod_{k=0}^n a_k}
+$$
