@@ -12,4 +12,5 @@
 | 4.2 | - Satz von Rolle<br>- Mittelwertsatz<br>- Höhere Ableitungen<br>- Umkehrfunktion |
 | 4.3 | - Ableitung einer Potenzreihe<br>- Ableitung der e-Funktion<br>- Natürlicher Logarithmus<br>- Ableitungen der trig. Funktionen<br>- Umkehrfunktionen von trig. Fkt.<br>- Ableitungen der Umkehrfkt. von trig. Fkt.<br>- Tabelle mit Ableitungen von elementaren Fkt. |
 | 4.4 | - Regel von de L'Hospital |
-| 4.5 | - Taylorpolynom<br>- Satz von Taylor<br>- Taylorreihe |
+| 4.5 | - Taylorpolynom<br>- Satz von Taylor, Lagrange-Form<br>- Taylorreihe |
+| 4.6 | - Lokales/Globales/Strenges Extremum<br>- Notwendige Bedingung für lokales Extremum<br>- Hinreichende Bedingung für lokales Extremum<br>- Lösen von Extremwertproblemen<br>- Newton-Verfahren |
