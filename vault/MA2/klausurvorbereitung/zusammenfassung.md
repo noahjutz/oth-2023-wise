@@ -6,4 +6,5 @@
 | 2.2 | - Landau-Symbole |
 | 2.3 | - Geometrische Reihe<br>- Konvergenzkriterien Reihen<br>- Cauchy-Produkt |
 | 2.4 | - Potenzreihe<br>- Konvergenzradius<br>- Exponentialfunktion<br>- Trigonometrische Funktionen<br>- Euler'sche Beziehung |
-| 3.1 |  |
+| 3.1 | - Grenzwerte von Funktionen<br>- Definition Stetigkeit |
+| 3.2  | - Zwischenwertsatz<br>-  |

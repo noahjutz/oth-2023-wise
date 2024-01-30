@@ -35,8 +35,9 @@ $$
 $$
 \begin{gather*}
 	\frac{x^a}{x^b} = x^{a-b} \\
-	x^a \cdot x^b = x^{a+b}\\
-	x^{-\frac{m}{n}} = \frac{1}{\sqrt[n]{x^m}}
+	x^a \cdot x^b = x^{a+b} \\
+	x^{-\frac{m}{n}} = \frac{1}{\sqrt[n]{x^m}} \\
+	(x^a)^b = x^{a \cdot b}
 \end{gather*}
 $$
 
