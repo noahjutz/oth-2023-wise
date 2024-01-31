@@ -14,6 +14,6 @@
 | 4.4 | - Regel von de L'Hospital |
 | 4.5 | - Taylorpolynom<br>- Satz von Taylor, Lagrange-Form<br>- Taylorreihe |
 | 4.6 | - Lokales/Globales/Strenges Extremum<br>- Notwendige/Hinreichende Bedingung für Extremum<br>- Lösen von Extremwertproblemen<br>- Newton-Verfahren |
-| 5.1 | - Zerlegung, Feinheit<br>- Untersumme, Obersumme<br>- Integral |
+| 5.1 | - Zerlegung, Feinheit<br>- Untersumme, Obersumme<br>- Integral<br>- Hinreichende Bedingungen für die Integrierbarkeit<br>- Mittelwertsatz der Integralrechnung  |
 
 Progress: p148/192
