@@ -157,3 +157,9 @@ Allgemeines geometrisches Mittel:
 $$
 \overline X = \sqrt[n]{\prod_{k=0}^n a_k}
 $$
+
+# Wichtige Reihen
+
+$$
+\sum_{k=1}^n k = \frac{n(n+1)}{2}
+$$
