@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0287ed1746c9ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MA2/wiederholungen/blatt 4/aufgabe 2b.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be780c22c3cd12b8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MA2/wiederholungen/blatt 4/aufgaben.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "MA2/wiederholungen/blatt 4/aufgabe 2b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "MA2/wiederholungen/blatt 4/aufgabe 2b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md"
+                "file": "MA2/wiederholungen/blatt 4/aufgabe 2b.md"
               }
             }
           }
@@ -160,10 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7cb4b978dcbef4d",
+  "active": "e0287ed1746c9ca8",
   "lastOpenFiles": [
-    "MA2/klausurvorbereitung/zusammenfassung.md",
+    "MA2/wiederholungen/blatt 4/aufgaben.pdf",
+    "MA2/wiederholungen/blatt 4/aufgabe 2b.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
+    "MA2/wiederholungen/blatt 4/loesungen.pdf",
+    "MA2/wiederholungen/blatt 4",
+    "_general/Auslandsstudium/Research/IM Study Abroad/Outgoings/FAQ.md",
+    "_general/Auslandsstudium/Research/Todo.md",
+    "MA2/klausurvorbereitung/zusammenfassung.md",
     "MA2/uebungen/uebung 7/aufgaben.pdf",
     "MA2/uebungen/uebung 7/aufgabe 1a.md",
     "KS/klausurvorbereitung/formelsammlung alt.md",
@@ -176,9 +204,6 @@
     "KS/tutorium/tutorium 8 NAT/notizen.md",
     "KS/tutorium/tutorium 10 TCPIP4/loesungen.pdf",
     "KS/tutorium/tutorium 10 TCPIP4/blatt.pdf",
-    "KS/tutorium/tutorium 10 TCPIP4",
-    "KS/tutorium/tutorium 9 DHCP/loesungen.pdf",
-    "KS/tutorium/tutorium 9 DHCP/blatt.pdf",
     "KS/tutorium/tutorium 4 TCPIP2/notizen.md",
     "KS/tutorium/tutorium 3 L2/notizen.md",
     "KS/tutorium/tutorium 3 L2/scapy.png",
@@ -198,10 +223,6 @@
     "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
     "_general/Auslandsstudium/README.md",
     "_general/Auslandsstudium/Auswahl Hochschule/README.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/3 QUST.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
-    "_general/Auslandsstudium/Research/Todo.md",
-    "_general/Auslandsstudium/Research/International Office Web/2 Finanzierung DAAD.md",
     "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
     "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
     "KS/klausurvorbereitung/tcp slow start.png",
