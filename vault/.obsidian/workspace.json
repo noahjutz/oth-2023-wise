@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/klausurvorbereitung/zusammenfassung.md",
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/klausurvorbereitung/zusammenfassung.md",
+                "file": "MA2/klausurvorbereitung/formelsammlung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/klausurvorbereitung/zusammenfassung.md"
+                "file": "MA2/klausurvorbereitung/formelsammlung.md"
               }
             }
           }
@@ -146,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "754aea746c8f5b98",
+  "active": "c7cb4b978dcbef4d",
   "lastOpenFiles": [
+    "MA2/klausurvorbereitung/zusammenfassung.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/wiederholungen/blatt 4/aufgabe 2b.md",
     "MA2/wiederholungen/blatt 4/loesungen.pdf",
@@ -168,7 +169,6 @@
     "MA2/wiederholungen/blatt 4",
     "_general/Auslandsstudium/Research/IM Study Abroad/Outgoings/FAQ.md",
     "_general/Auslandsstudium/Research/Todo.md",
-    "MA2/klausurvorbereitung/zusammenfassung.md",
     "MA2/uebungen/uebung 7/aufgaben.pdf",
     "MA2/uebungen/uebung 7/aufgabe 1a.md",
     "KS/klausurvorbereitung/formelsammlung alt.md",

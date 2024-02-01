@@ -165,3 +165,16 @@ $$
 $$
 \int \frac{f'(x)}{f(x)} \,dx = \ln |f(x)| +C
 $$
+
+# Gauß-Verfahren
+
+1. Die am weitesten links stehende von 0 verschiedene Spalte ist die Pivot-Spalte
+2. Pivot-Element in dieser Spalte wählen und nach oben **vertauschen**
+3. **Ersetze** Zahlen unter Pivot-Element mit Nullen
+4. Decke oberste Zeile zu, führe Schritt 1-3 mit übriger Matrix durch
+5. Pivot-Elemente von rechts nach links durch **skalieren** auf 1 bringen
+6. Erzeuge Nullen über den Pivot-Elementen
+
+- Ersetzen: Die Zeile wird mit einem Vielfachen einer anderen Zeile summiert.
+- Skalieren: Die Zeile wird mit einem Faktor multipliziert
+- Vertauschen: Zwei Zeilen werden vertauscht
