@@ -163,3 +163,9 @@ $$
 $$
 \sum_{k=1}^n k = \frac{n(n+1)}{2}
 $$
+
+# Logarithmische Integration
+
+$$
+\int \frac{f'(x)}{f(x)} \,dx = \ln |f(x)| +C
+$$
