@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "409df7accaeae8dd",
+        "id": "571635ec8d02f291",
         "type": "tabs",
         "children": [
           {
-            "id": "ce19ad9336010977",
+            "id": "5ddc49d05bebfc4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/klausurvorbereitung/Formelsammlung.md",
+                "file": "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Partnerhochschulen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/klausurvorbereitung/Formelsammlung.md",
+                "file": "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Partnerhochschulen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/klausurvorbereitung/Formelsammlung.md",
+                "file": "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Partnerhochschulen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/klausurvorbereitung/Formelsammlung.md"
+                "file": "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Partnerhochschulen.md"
               }
             }
           }
@@ -148,6 +148,15 @@
   },
   "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Auswahl Zielhochschule.md",
+    "_general/Auslandsstudium/README.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/README.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/4 METU.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/3 QUST.md",
+    "_general/Auslandsstudium/Research/Todo.md",
+    "DB/klausurvorbereitung/Formelsammlung.md",
     "MA2/klausurvorbereitung/zusammenfassung.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/wiederholungen/blatt 4/aufgabe 2b.md",
@@ -155,7 +164,6 @@
     "MA2/wiederholungen/blatt 4/aufgaben.pdf",
     "MA2/wiederholungen/blatt 4",
     "_general/Auslandsstudium/Research/IM Study Abroad/Outgoings/FAQ.md",
-    "_general/Auslandsstudium/Research/Todo.md",
     "MA2/uebungen/uebung 7/aufgaben.pdf",
     "MA2/uebungen/uebung 7/aufgabe 1a.md",
     "KS/klausurvorbereitung/formelsammlung alt.md",
@@ -179,14 +187,7 @@
     "MA2/wiederholungen/blatt 1/aufgabe 1a.md",
     "KS/uebungen/uebung 5/aufgabe 3.md",
     "KS/klausurvorbereitung/layers.png",
-    "KS/uebungen/uebung 5/aufgabe 2.md",
-    "KS/uebungen/uebung 5/Zusatzübung Aufgabe 1e.md",
-    "DB/uebungen/Untitled.md",
     "KS/klausurvorbereitung/IEEE802.3.png",
-    "KS/uebungen/uebung 4/aufgabe 1a.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
-    "_general/Auslandsstudium/README.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/README.md",
     "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
     "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
     "KS/klausurvorbereitung/tcp slow start.png",
