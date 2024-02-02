@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ef72abd0a16ff62f",
+        "id": "409df7accaeae8dd",
         "type": "tabs",
         "children": [
           {
-            "id": "754aea746c8f5b98",
+            "id": "ce19ad9336010977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MA2/klausurvorbereitung/zusammenfassung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7cb4b978dcbef4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "DB/klausurvorbereitung/Formelsammlung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "DB/klausurvorbereitung/Formelsammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md",
+                "file": "DB/klausurvorbereitung/Formelsammlung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA2/klausurvorbereitung/formelsammlung.md"
+                "file": "DB/klausurvorbereitung/Formelsammlung.md"
               }
             }
           }
@@ -159,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7cb4b978dcbef4d",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
     "MA2/klausurvorbereitung/zusammenfassung.md",
     "MA2/klausurvorbereitung/formelsammlung.md",

@@ -17,5 +17,3 @@
 | 5.1 | - Zerlegung, Feinheit<br>- Untersumme, Obersumme<br>- Integral<br>- Hinreichende Bedingungen für die Integrierbarkeit<br>- Mittelwertsatz der Integralrechnung<br>- Hauptsatz der Differential- und Integralrechnung<br>- Stammfunktion<br>- Unbestimmtes Integral<br>- Tabelle mit wichtigen Stammfunktionen |
 | 5.2 | - Partielle Integration<br>- Substitutionsregel<br>- Polynomdivision<br>- Faktorisierung<br>- Partialbruchzerlegung |
 |  |  |
-
-Progress: Hauptsatz der Differential- und Integralrechnung
