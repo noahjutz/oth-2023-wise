@@ -42,8 +42,30 @@ $R \times S$ hat alle Spalten aus R und S, und weist jeder Zeile aus R jede Zeil
 
 $\rho_\text{Alias}(R)$ gibt der Tabelle R den Namen 'Alias'.
 
-# Join $\bowtie$
+# Join $\Join$
 
-$R \bowtie_P S$ ist äquivalent zu $\sigma_P(R \times S)$. P ist das join-Kriterium.
+$R \Join_P S$ ist äquivalent zu $\sigma_P(R \times S)$. P ist das join-Kriterium.
 
-# 
+![[3 joins.png]]
+
+| Typ | Erklärung |
+| ---- | ---- |
+| Inner join | (= Join) $\Join$ |
+| Outer Join | ⟕ ⟖ ⟗ |
+| Equi-Join | Nur $=$ |
+| Theta-Join | $<\ \le\ =\ \ne\ \ge\ >$ |
+| Natural Join | Equi-Join mit gleich heißenden Attributen |
+| Self-Join | $R \Join R$ |
+| Semi-Join | R⋉S bzw. R⋊S: $\pi_{R.*}$ bzw. $\pi_{S.*}$ |
+
+# Division $\div$
+
+$$
+R \div S = \pi_{R.*-S.*}(R) - \pi_{R.*-S.*} \Big(
+	\big(
+		\pi_{R.*-S.*}(R) \times S
+	\big) - R
+\Big) \ \text{(Nicht Klausurrelevant)}
+$$
+
+Es gilt $(R \times S) \div S = R$.
