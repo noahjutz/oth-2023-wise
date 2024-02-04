@@ -60,12 +60,66 @@ $R \Join_P S$ ist äquivalent zu $\sigma_P(R \times S)$. P ist das join-Kriteriu
 
 # Division $\div$
 
+$R \div S$ gibt eine Tabelle mit allen Spalten aus R, welche nicht auch in S sind. Die resultierenden Zeilen sind jene aus R, für die gilt: Die Zeile hat alle möglichen Kombinationen mit S.
+
+Man kann $R \div S$ folgendermaßen umschreiben (nicht klausurrelevant):
+
 $$
 R \div S = \pi_{R.*-S.*}(R) - \pi_{R.*-S.*} \Big(
 	\big(
 		\pi_{R.*-S.*}(R) \times S
 	\big) - R
-\Big) \ \text{(Nicht Klausurrelevant)}
+\Big)
 $$
 
-Es gilt $(R \times S) \div S = R$.
+Es gilt:
+
+$$
+(R \times S) \div S = R
+$$
+
+Sind die Spalten in S keine Teilmenge von jenen in R, so ist das Ergebnis der Division immer leer.
+
+https://en.wikipedia.org/wiki/Relational_algebra#Division_(%C3%B7)
+
+# Anfrageoptimierung
+
+**Heuristiken**
+- Frühstmögliche Selektion
+- Join statt Kreuzprodukt
+- Frühstmögliche Projektion (ohne Duplikateliminierung)
+- Join-Reihenfolge so wählen, dass Zwischenergebnisse klein sind
+- Folgen von Selektionen und Projektionen zusammenfassen
+- Selektionen statt Mengenoperationen
+- Nichts doppelt berechnen
+
+**Kardinalitätsschätzung**
+- Selektion
+	- $|\sigma_{R.a=x}(R)| = \frac{|R|}{|R.a|}$
+	- $sf_P = \frac{|\sigma_PR|}{|R|}$
+- Kartesisches Produkt
+	- $|R \times S| = |R| \cdot |S|$
+- Join
+	- $0 \le |R \Join S| \le |R| \cdot |S|$
+	- $|R \Join_{R.a=S.a} S| = |R|$ bzw. $|S|$
+
+# Normalformen
+
+## Abhängigkeiten
+
+**Funktionale Abhängigkeit**
+- $A \to B$ (A bestimmt B)
+- A und B sind Attributmengen aus R
+
+**Volle Funktionale Abhängigkeit
+- $A \Rightarrow B$ (A bestimmt B voll-funktional)
+- Voraussetzung: $A \to B$ und es gibt keine Teilmenge aus A, für die gilt $A' \to B$.
+
+## Schlüssel
+
+**Superschlüssel**
+- $A \to R$ (A bestimmt alle Attribute, A ist also Superschlüssel)
+
+**Schlüsselkandidat**
+- Voraussetzung: A ist superschlüssel und bestimmt R voll-funktional
+- minimaler Superschlüssel
