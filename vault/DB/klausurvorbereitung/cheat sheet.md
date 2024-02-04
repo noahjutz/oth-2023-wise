@@ -8,10 +8,14 @@
 1. ER-Modelle
 - ...
 2. Relationenmodell
+- Generalisierungsmethoden
+- Mengenoperationen
+- Projektion, Selektion, Umbenennung, 
+- Joins
+- Division
+1. SQL
 - ...
-3. SQL
+2. Mehrnutzerbetrieb
 - ...
-4. Mehrnutzerbetrieb
-- ...
-5. Anwendungsentwicklung
+3. Anwendungsentwicklung
 - ...

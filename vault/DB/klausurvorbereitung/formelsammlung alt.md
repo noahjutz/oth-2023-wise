@@ -4,6 +4,11 @@
 # Relationale Algebra
 
 
+| Relationale Algebra | SQL |
+| ---- | ---- |
+| Tupel | Zeilen |
+| Attribute | Spalten |
+
 # SQL
 ## CREATE TABLE
 ```postgresql
