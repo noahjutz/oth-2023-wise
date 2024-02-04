@@ -1,14 +1,17 @@
 # Inhaltsverzeichnis
 
 1. Grundlagen
-- Datenmodell
-2. ER-Modelle
+- OLTP/OLAP
+- ACID
+- DB/DBMS/DBS
+- DDL/DML/DCL
+1. ER-Modelle
 - ...
-3. Relationenmodell
+2. Relationenmodell
 - ...
-4. SQL
+3. SQL
 - ...
-5. Mehrnutzerbetrieb
+4. Mehrnutzerbetrieb
 - ...
-6. Anwendungsentwicklung
+5. Anwendungsentwicklung
 - ...
