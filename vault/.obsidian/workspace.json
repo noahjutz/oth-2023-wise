@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 3.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 3.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 3.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 3.md"
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 4.md"
               }
             }
           }
@@ -158,15 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "5aa0e8e5380fb913",
   "lastOpenFiles": [
-    "DB/klausurvorbereitung/wiederholung/3 joins.png",
-    "DB/klausurvorbereitung/wiederholung/3 joins.png",
     "DB/klausurvorbereitung/formelsammlung alt.md",
-    "DB/klausurvorbereitung/cheat sheet.md",
-    "DB/klausurvorbereitung/wiederholung/kapitel 3.md",
-    "DB/klausurvorbereitung/wiederholung/kapitel 2.md",
+    "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
+    "DB/klausurvorbereitung/wiederholung/kapitel 2.md",
+    "DB/klausurvorbereitung/wiederholung/kapitel 3.md",
+    "DB/klausurvorbereitung/wiederholung/3 joins.png",
+    "DB/klausurvorbereitung/wiederholung/3 joins.png",
+    "DB/klausurvorbereitung/wiederholung/3 joins.png",
+    "DB/klausurvorbereitung/cheat sheet.md",
     "DB/klausurvorbereitung/wiederholung/2 ternary rel.png",
     "image.png",
     "DB/uebungen/uebung 5/aufgaben.pdf",
@@ -204,8 +206,6 @@
     "KS/tutorium/tutorium 2 TCPIP1/wireshark.png",
     "KS/klausurvorbereitung/layers.png",
     "KS/klausurvorbereitung/IEEE802.3.png",
-    "MA2/uebungen/uebung 12/aufgabe 3 skizze.svg",
-    "MA2/uebungen/uebung 12/aufgabe 1 skizze.svg",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]

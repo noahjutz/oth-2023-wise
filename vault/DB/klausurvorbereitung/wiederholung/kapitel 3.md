@@ -103,7 +103,7 @@ https://en.wikipedia.org/wiki/Relational_algebra#Division_(%C3%B7)
 	- $0 \le |R \Join S| \le |R| \cdot |S|$
 	- $|R \Join_{R.a=S.a} S| = |R|$ bzw. $|S|$
 
-# Normalformen
+# Normalformenlehre
 
 ## Abhängigkeiten
 
@@ -123,3 +123,20 @@ https://en.wikipedia.org/wiki/Relational_algebra#Division_(%C3%B7)
 **Schlüsselkandidat**
 - Voraussetzung: A ist superschlüssel und bestimmt R voll-funktional
 - minimaler Superschlüssel
+
+## Normalformen
+
+**NFNF**
+- Non-First Normal Form
+- Nicht in Normalform
+
+**1NF**
+- Attribute sind nicht zusammengesetzt oder Tabellen
+
+**2NF**
+- in 1NF
+- jedes nicht-Schlüsselattribut hängt voll vom ganzen Schlüssel ab
+
+**3NF**
+- in 2NF
+- keine transitiven Abhängigkeiten $A \to B \to C$
