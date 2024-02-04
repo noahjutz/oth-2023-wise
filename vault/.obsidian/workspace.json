@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "99b61fe46f5ab618",
+        "id": "3568ee0922b89b27",
         "type": "tabs",
         "children": [
           {
-            "id": "b8cfe190f8117f33",
+            "id": "5aa0e8e5380fb913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_general/Auslandsstudium/Auswahl Hochschule/10 HCMUT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf656db30b69a01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_general/Auslandsstudium/Auswahl Hochschule/14 HUST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20c0252071655e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md"
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 1.md"
               }
             }
           }
@@ -171,21 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61958a80c6bdd6aa",
+  "active": "5aa0e8e5380fb913",
   "lastOpenFiles": [
+    "DB/klausurvorbereitung/cheat sheet.md",
+    "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
+    "DB/klausurvorbereitung/wiederholung/kapitel 1",
+    "DB/klausurvorbereitung/wiederholung",
+    "DB/klausurvorbereitung/Untitled.md",
+    "DB/klausurvorbereitung/formelsammlung alt.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/10 HCMUT.md",
     "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
     "_general/Auslandsstudium/Auswahl Hochschule/6 SIT.md",
     "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
     "_general/Auslandsstudium/README.md",
     "_general/Auslandsstudium/Auswahl Hochschule/14 HUST.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/10 HCMUT.md",
     "_general/Auslandsstudium/Auswahl Hochschule/4 METU.md",
     "_general/Auslandsstudium/Auswahl Hochschule/README.md",
     "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Partnerhochschulen.md",
     "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Auswahl Zielhochschule.md",
     "_general/Auslandsstudium/Auswahl Hochschule/3 QUST.md",
     "_general/Auslandsstudium/Research/Todo.md",
-    "DB/klausurvorbereitung/Formelsammlung.md",
     "MA2/klausurvorbereitung/zusammenfassung.md",
     "MA2/klausurvorbereitung/formelsammlung.md",
     "MA2/wiederholungen/blatt 4/aufgabe 2b.md",
@@ -203,13 +183,8 @@
     "KS/tutorium/tutorium 11 NMAP",
     "KS/tutorium/tutorium 10 TCPIP4/notizen.md",
     "KS/tutorium/tutorium 8 NAT/notizen.md",
-    "KS/tutorium/tutorium 10 TCPIP4/loesungen.pdf",
-    "KS/tutorium/tutorium 10 TCPIP4/blatt.pdf",
     "KS/tutorium/tutorium 4 TCPIP2/notizen.md",
-    "KS/tutorium/tutorium 3 L2/notizen.md",
     "KS/tutorium/tutorium 3 L2/scapy.png",
-    "KS/tutorium/tutorium 2 TCPIP1/notizen.md",
-    "KS/tutorium/tutorium 1 IoT/notizen.md",
     "KS/tutorium/tutorium 2 TCPIP1/wireshark.png",
     "KS/klausurvorbereitung/layers.png",
     "KS/klausurvorbereitung/IEEE802.3.png",
