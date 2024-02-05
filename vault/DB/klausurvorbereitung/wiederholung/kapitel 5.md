@@ -63,7 +63,25 @@ REVOKE [PERM] [RESTRICT|CASCADE]
 
 | Isolation level | Lost Update | Dirty Read | Nonrepeatable read | Phantom read | Serialization Anomaly |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| Read uncommitted | :cross |  |  |  |  |
-| Read committed |  |  |  |  |  |
-| Repeatable read |  |  |  |  |  |
-| Serializable |  |  |  |  |  |
+| Read uncommitted | ❎ | ✅  | ✅ | ✅ | ✅ |
+| Read committed | ❎ | ❎ | ✅ | ✅ | ✅ |
+| Repeatable read | ❎ | ❎ | ❎ | ✅ (❎PG) | ✅ |
+| Serializable | ❎ | ❎ | ❎ | ❎ | ❎ |
+- ✅ Allowed
+- ❎ Not allowed
+- In PostgreSQL gibt es kein Read uncommitted.
+
+# MVCC
+
+- Alternative zur SX-Sperre
+- Objekte haben mehrere Versionen (z.B. tabellen: $w_1(x) \mapsto x'$)
+- Wird mit diffs realisiert
+
+# Journaling
+
+| LSN | TA | PageID | Undo | Redo | PrevLSN |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Log-Sequenz-Nr | Transaktion | Page auf Festplatte | Verlierer | Gewinner | Gleiche TA, vorherige Aktion |
+
+- Verlierer: TA hat im log noch nicht committed
+- Gewinner: TA hat committed
