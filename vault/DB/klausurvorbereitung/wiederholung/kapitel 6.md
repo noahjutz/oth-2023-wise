@@ -187,7 +187,44 @@ Löschen
 		- Es gibt k*-1 Einträge im Blatt
 		- Es gibt k* Einträge im Nachbarblatt
 		- Nach mischen gibt es k* + k*-1 Einträge im gemischten Blatt
-		- 
+		- Wegweiser im Vaterknoten fällt weg
 
-PostgreSQL
-- `VACUUM [my_table]`
+PostgreSQL B+-Baum
+- `CREATE INDEX my_table_pkey ON my_table(pkey_col)`: Index/Baum erstellen
+- `CREATE INDEX ON meine_tabelle(a, b, c)`: Mehrdimensionaler Index
+- `VACUUM [my_table]`: Baum neu aufstellen
+- Vorteile: Schnellere Suche, ORDER BY, GROUP BY, JOIN
+
+# Join-Algorithmen
+
+**Nested-Loop-Join**
+```
+for each row r in R:
+	for each row s in S:
+		if r.sId == s.id:
+			emit(r, s)
+```
+
+**Sort-Merge-Join**
+- Nach Join-spalte sortieren
+- Von oben nach unten Join-Partner suchen
+
+**Hash-Join**
+```
+hash_table = []
+
+for each row r in R:
+	hash_table.put(hash(r.sId)), r)
+
+for each row s in S:
+	r = hash_table.get(hash(s.id))
+	emit(r, s)
+```
+
+**Index-Join**
+```
+for each row r in R:
+	s = s_id_index.get(r.sId) # e.g. using B+-Tree search
+	emit(r, s)
+```
+

@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bfd35cb484b0cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB/uebungen/uebung 12/aufgabe 3.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 6.md"
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 1.md"
               }
             }
           }
@@ -158,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "600b494412099afc",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "DB/klausurvorbereitung/cheat sheet.md",
+    "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
     "DB/uebungen/uebung 12/aufgabe 3.md",
+    "_general/Auslandsstudium/README.md",
     "DB/uebungen/uebung 12/aufgaben.pdf",
     "DB/uebungen/uebung 12/b plus tree 1.png",
-    "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
     "DB/uebungen/uebung 12/aufgabe 2.md",
     "DB/uebungen/uebung 12/aufgabe 1.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 5.md",
@@ -175,7 +165,6 @@
     "_general/Auslandsstudium/Auswahl Hochschule/6 SIT.md",
     "_general/Auslandsstudium/Auswahl Hochschule/14 HUST.md",
     "_general/Auslandsstudium/Auswahl Hochschule/10 HCMUT.md",
-    "_general/Auslandsstudium/README.md",
     "DB/klausurvorbereitung/formelsammlung alt.md",
     "DB/uebungen/uebung 11/aufgabe 1.md",
     "DB/uebungen/uebung 11/aufgabe 0.md",
