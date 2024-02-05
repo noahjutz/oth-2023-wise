@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3568ee0922b89b27",
+        "id": "d5ab3a3bd7afbfbe",
         "type": "tabs",
         "children": [
           {
-            "id": "5aa0e8e5380fb913",
+            "id": "dc5b1f23e7adbd9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8cf69776f58fac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB/klausurvorbereitung/formelsammlung alt.md",
+                "file": "_general/Auslandsstudium/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
+                "file": "_general/Auslandsstudium/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
+                "file": "_general/Auslandsstudium/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 6.md"
+                "file": "_general/Auslandsstudium/README.md"
               }
             }
           }
@@ -158,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5aa0e8e5380fb913",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "_general/Auslandsstudium/Auswahl Hochschule/README.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/14 HUST.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/10 HCMUT.md",
+    "_general/Auslandsstudium/README.md",
     "DB/klausurvorbereitung/formelsammlung alt.md",
+    "DB/uebungen/uebung 12/aufgabe 1.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
+    "DB/uebungen/uebung 12/aufgabe 2.md",
+    "DB/uebungen/uebung 12/aufgabe 3.md",
+    "DB/uebungen/uebung 11/aufgabe 1.md",
+    "DB/uebungen/uebung 11/aufgabe 0.md",
     "DB/uebungen/uebung 10/aufgabe 1.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 5.md",
     "DB/uebungen/uebung 9/aufgabe 2.md",
@@ -177,24 +174,15 @@
     "DB/uebungen/uebung 5/aufgabe 3.md",
     "DB/uebungen/uebung 5/aufgabe 2.md",
     "DB/uebungen/uebung 5/aufgabe 1.md",
-    "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
-    "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
-    "DB/klausurvorbereitung/wiederholung/kapitel 2.md",
-    "DB/klausurvorbereitung/wiederholung/kapitel 3.md",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
-    "DB/klausurvorbereitung/cheat sheet.md",
     "DB/klausurvorbereitung/wiederholung/2 ternary rel.png",
     "image.png",
     "DB/uebungen/uebung 5/aufgaben.pdf",
     "DB/klausurvorbereitung/wiederholung/2 weak entity.png",
-    "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 1",
     "DB/klausurvorbereitung/wiederholung",
-    "DB/klausurvorbereitung/Untitled.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/10 HCMUT.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
     "MA2/wiederholungen/blatt 4/loesungen.pdf",
     "MA2/wiederholungen/blatt 4/aufgaben.pdf",
     "MA2/wiederholungen/blatt 4",

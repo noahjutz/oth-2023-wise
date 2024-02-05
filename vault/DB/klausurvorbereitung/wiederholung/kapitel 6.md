@@ -57,5 +57,49 @@ data.getColumnName(0);
 data.getColumnTypeName(0);
 ```
 
-# Routinen
+# PL/pgSQL
 
+**Block**
+```postgresql
+DECLARE
+-- variables
+BEGIN
+-- code
+END
+```
+
+**Kontrollstrukturen**
+```postgresql
+IF ... THEN ... ELSE ... END IF;
+WHILE ... LOOP ... END LOOP;
+LOOP ... EXIT WHEN ...; END LOOP;
+FOR ... IN ... LOOP ... END LOOP;
+```
+
+**Stored Procedures**
+```postgresql
+CREATE OR REPLACE FUNCTION my_proc() RETURNS void AS 
+$$ BEGIN
+-- code
+END $$ LANGUAGE plpgsql;
+```
+oder
+```postgresql
+CREATE OR REPLACE PROCEDURE my_proc() AS
+$$ BEGIN
+-- code
+END $$ LANGUAGE plpgsql
+```
+
+**Funktionen**
+```postgresql
+CREATE OR REPLACE FUNCTION my_fun() RETURNS INT AS
+$$ BEGIN
+-- code
+RETURN 128;
+END $$ LANGUAGE plpgsql
+```
+
+| Volatile | Standard | Immutable |
+| ---- | ---- | ---- |
+|  |  |  |
