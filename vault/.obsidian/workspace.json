@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "389fa87db720b5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/uebungen/uebung 10/aufgabe 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 4.md"
+                "file": "DB/klausurvorbereitung/wiederholung/kapitel 5.md"
               }
             }
           }
@@ -160,8 +172,23 @@
   },
   "active": "5aa0e8e5380fb913",
   "lastOpenFiles": [
-    "DB/klausurvorbereitung/formelsammlung alt.md",
+    "DB/uebungen/uebung 10/aufgabe 1.md",
+    "DB/uebungen/uebung 9/aufgabe 2.md",
+    "DB/uebungen/uebung 9/aufgabe 1.md",
+    "DB/uebungen/uebung 8/aufgabe 2.md",
+    "DB/uebungen/uebung 8/aufgabe 1.md",
+    "DB/uebungen/uebung 7/aufgabe 2.md",
+    "DB/uebungen/uebung 7/aufgabe 1.md",
+    "DB/uebungen/uebung 7/aufgabe 0.md",
+    "DB/uebungen/uebung 6/aufgabe 3.md",
+    "DB/uebungen/uebung 6/aufgabe 2.md",
+    "DB/uebungen/uebung 6/aufgabe 1.md",
+    "DB/uebungen/uebung 5/aufgabe 3.md",
+    "DB/uebungen/uebung 5/aufgabe 2.md",
+    "DB/uebungen/uebung 5/aufgabe 1.md",
+    "DB/klausurvorbereitung/wiederholung/kapitel 5.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
+    "DB/klausurvorbereitung/formelsammlung alt.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 2.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 3.md",
@@ -172,9 +199,6 @@
     "DB/klausurvorbereitung/wiederholung/2 ternary rel.png",
     "image.png",
     "DB/uebungen/uebung 5/aufgaben.pdf",
-    "DB/uebungen/uebung 5/aufgabe 3.md",
-    "DB/uebungen/uebung 5/aufgabe 2.md",
-    "DB/uebungen/uebung 5/aufgabe 1.md",
     "DB/klausurvorbereitung/wiederholung/2 weak entity.png",
     "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 1",
@@ -183,21 +207,9 @@
     "_general/Auslandsstudium/Auswahl Hochschule/10 HCMUT.md",
     "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
     "_general/Auslandsstudium/Auswahl Hochschule/6 SIT.md",
-    "_general/Auslandsstudium/README.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/14 HUST.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/4 METU.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/README.md",
-    "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Partnerhochschulen.md",
-    "_general/Auslandsstudium/Research/IM Study Abroad/Partnerhochschulen/Auswahl Zielhochschule.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/3 QUST.md",
-    "_general/Auslandsstudium/Research/Todo.md",
-    "MA2/klausurvorbereitung/zusammenfassung.md",
-    "MA2/klausurvorbereitung/formelsammlung.md",
-    "MA2/wiederholungen/blatt 4/aufgabe 2b.md",
     "MA2/wiederholungen/blatt 4/loesungen.pdf",
     "MA2/wiederholungen/blatt 4/aufgaben.pdf",
     "MA2/wiederholungen/blatt 4",
-    "_general/Auslandsstudium/Research/IM Study Abroad/Outgoings/FAQ.md",
     "MA2/uebungen/uebung 7/aufgaben.pdf",
     "KS/tutorium/tutorium 10 TCPIP4/flow graph.pdf",
     "KS/tutorium/tutorium 11 NMAP/loesungen.pdf",

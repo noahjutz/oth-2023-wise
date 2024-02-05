@@ -74,3 +74,14 @@ WITH ... AS (SELECT ...) SELECT ...
 SELECT ... UNION/INTERSECT/EXCEPT [ALL] SELECT ...
 ```
 
+**CAST**
+```postgresql
+CAST(col_name AS VARCHAR(50))
+```
+
+**CASE WHEN**
+```postgresql
+SELECT bezeichnung, preis,
+CASE preis WHEN 0 THEN 'kostenlos' ELSE preis END
+FROM produkte ORDER BY preis;
+```
