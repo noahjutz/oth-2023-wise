@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_general/Auslandsstudium/README.md",
+                "file": "_general/Auslandsstudium/Auswahl Hochschule/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_general/Auslandsstudium/README.md",
+                "file": "_general/Auslandsstudium/Auswahl Hochschule/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_general/Auslandsstudium/README.md",
+                "file": "_general/Auslandsstudium/Auswahl Hochschule/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_general/Auslandsstudium/README.md"
+                "file": "_general/Auslandsstudium/Auswahl Hochschule/README.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
-    "_general/Auslandsstudium/Auswahl Hochschule/README.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/3 QUST.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/4 METU.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/6 SIT.md",
     "_general/Auslandsstudium/Auswahl Hochschule/14 HUST.md",
     "_general/Auslandsstudium/Auswahl Hochschule/10 HCMUT.md",
     "_general/Auslandsstudium/README.md",
+    "_general/Auslandsstudium/Auswahl Hochschule/README.md",
     "DB/klausurvorbereitung/formelsammlung alt.md",
     "DB/uebungen/uebung 12/aufgabe 1.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
@@ -169,11 +174,6 @@
     "DB/uebungen/uebung 7/aufgabe 1.md",
     "DB/uebungen/uebung 7/aufgabe 0.md",
     "DB/uebungen/uebung 6/aufgabe 3.md",
-    "DB/uebungen/uebung 6/aufgabe 2.md",
-    "DB/uebungen/uebung 6/aufgabe 1.md",
-    "DB/uebungen/uebung 5/aufgabe 3.md",
-    "DB/uebungen/uebung 5/aufgabe 2.md",
-    "DB/uebungen/uebung 5/aufgabe 1.md",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
