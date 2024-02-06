@@ -92,7 +92,7 @@
 
 ![[3 joins.png]]
 
-| Outer Join | ⟕ ⟖ ⟗ |
+| Typ | Erklärung |
 | ---- | ---- |
 | Equi-Join | Nur $=$ |
 | Theta-Join | $<\ \le\ =\ \ne\ \ge\ >$ |
@@ -143,6 +143,10 @@ $A \Rightarrow B$ falls $A \to B$ und $\nexists A' \subsetneq A: A' \to B$
 - `DOUBLE`/`REAL`: Fließkommazahl
 - `DATE`: Jahr-Monat-Tag
 - `DECIMAL(p, s)`: p Stellen, davon s Nachkommastellen
+
+```postgresql
+FOREIGN KEY (a, b) REFERENCES table(c, d) ON {DELETE|UPDATE} {RESTRICT|NO ACTION|SET NULL|SET DEFAULT|CASCADE}
+```
 
 ```postgresql
 CREATE TABLE kunden (
