@@ -93,7 +93,7 @@ END $$ LANGUAGE plpgsql;
 
 **Funktionen**
 ```postgresql
-CREATE OR REPLACE FUNCTION my_fun(INT) RETURNS INT AS
+	CREATE OR REPLACE FUNCTION my_fun(INT) RETURNS INT AS
 $$ BEGIN
 -- code
 RETURN $1;

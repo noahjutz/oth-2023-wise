@@ -67,6 +67,7 @@ REVOKE [PERM] [RESTRICT|CASCADE]
 | Read committed | ❎ | ❎ | ✅ | ✅ | ✅ |
 | Repeatable read | ❎ | ❎ | ❎ | ✅ (❎PG) | ✅ |
 | Serializable | ❎ | ❎ | ❎ | ❎ | ❎ |
+
 - ✅ Allowed
 - ❎ Not allowed
 - In PostgreSQL gibt es kein Read uncommitted.
