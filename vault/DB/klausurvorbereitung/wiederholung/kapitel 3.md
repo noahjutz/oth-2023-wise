@@ -82,6 +82,8 @@ Sind die Spalten in S keine Teilmenge von jenen in R, so ist das Ergebnis der Di
 
 https://en.wikipedia.org/wiki/Relational_algebra#Division_(%C3%B7)
 
+![[3 division.png|400]]
+
 # Anfrageoptimierung
 
 **Heuristiken**

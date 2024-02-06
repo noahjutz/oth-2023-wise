@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2664da6dbe57cf0b",
+        "id": "11ddaf72c1efb688",
         "type": "tabs",
         "children": [
           {
-            "id": "06e6f670d785a072",
+            "id": "54b2afd566db1b59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f41f89d35921293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
+                "file": "_general/Auslandsstudium/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md",
+                "file": "_general/Auslandsstudium/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md",
+                "file": "_general/Auslandsstudium/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md"
+                "file": "_general/Auslandsstudium/README.md"
               }
             }
           }
@@ -158,16 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06e6f670d785a072",
+  "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
-    "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
+    "DB/klausurvorbereitung/wiederholung/kapitel 3.md",
+    "DB/uebungen/uebung 6/aufgabe 3.md",
     "DB/klausurvorbereitung/cheat sheet.md",
+    "DB/uebungen/uebung 6/aufgabe 2.md",
+    "DB/uebungen/uebung 6/aufgabe 1.md",
+    "DB/uebungen/uebung 6/aufgaben.pdf",
+    "Pasted image 20240206151309.png",
+    "DB/klausurvorbereitung/wiederholung/3 division.png",
+    "DB/klausurvorbereitung/joins.png",
+    "DB/klausurvorbereitung/3 joins.png",
+    "DB/klausurvorbereitung/wiederholung/kapitel 2.md",
+    "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
     "DB/klausurvorbereitung/formelsammlung alt.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 5.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
-    "DB/klausurvorbereitung/wiederholung/kapitel 3.md",
-    "DB/klausurvorbereitung/wiederholung/kapitel 2.md",
     "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
     "_general/Auslandsstudium/Auswahl Hochschule/10 HCMUT.md",
     "_general/Auslandsstudium/README.md",
@@ -185,16 +181,12 @@
     "DB/uebungen/uebung 11/aufgabe 1.md",
     "DB/uebungen/uebung 11/aufgabe 0.md",
     "DB/uebungen/uebung 10/aufgabe 1.md",
-    "DB/uebungen/uebung 9/aufgabe 2.md",
-    "DB/uebungen/uebung 9/aufgabe 1.md",
-    "DB/uebungen/uebung 8/aufgabe 2.md",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
     "DB/klausurvorbereitung/wiederholung/2 ternary rel.png",
     "image.png",
     "DB/uebungen/uebung 5/aufgaben.pdf",
-    "DB/klausurvorbereitung/wiederholung/2 weak entity.png",
     "DB/klausurvorbereitung/wiederholung/kapitel 1",
     "DB/klausurvorbereitung/wiederholung",
     "MA2/wiederholungen/blatt 4/loesungen.pdf",
@@ -202,10 +194,6 @@
     "MA2/wiederholungen/blatt 4",
     "MA2/uebungen/uebung 7/aufgaben.pdf",
     "KS/tutorium/tutorium 10 TCPIP4/flow graph.pdf",
-    "KS/tutorium/tutorium 11 NMAP/loesungen.pdf",
-    "KS/tutorium/tutorium 3 L2/scapy.png",
-    "KS/tutorium/tutorium 2 TCPIP1/wireshark.png",
-    "KS/klausurvorbereitung/layers.png",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]

@@ -57,3 +57,83 @@
 | Data Definition Language | Data Manipulation Language | Data Control Language |
 | Metadaten/Datenbankschema | CRUD | Benutzerverwaltung |
 
+# 2 ER-Modelle
+
+- Sind alle Kardinalitäten an Beziehungen?
+- Kardinalitäten richtig herum?
+- Gibt es überflüssige Entitätstypen?
+- Hat jeder Entitätstyp einen Primärschlüssel?
+- Müssen manche Entitätstypen schwach sein?
+- Ist die entsprechende Beziehung doppelt umrahmt?
+- Sind erweiternde Primärschlüssel unterstrichelt?
+- Sind Generalisierungen korrekt modelliert?
+
+# 3 Relationenmodelle
+
+| ERD | Relationenschema |
+| ---- | ---- |
+| Entität | Tabelle |
+| Attribut | Spalte |
+| Subattribut | Einzelne Spalten |
+| Mehrwertiges Attribut | 1:N Beziehung |
+| Beziehungen | Fremdschlüssel |
+| Schwache Entität | Zusammengesetzter PK |
+| Ternäre Beziehung | wie N:M Beziehungen |
+| Generalisierung | siehe unten |
+
+| Generalisierungsmethode | Erklärung |
+| ---- | ---- |
+| Volle Redundanz | Jede Entität wird zu einer Tabelle mit allen Spalten, führt zu Redundanz |
+| Hausklassenmodell | Wie volle Redundanz, aber es wird nur in eine Tabelle eingefügt |
+| Vertikale Partitionierung | Bei Subentitäten nur spezielle Spalten übernehmen |
+| Hierarchierelation | Nur eine Tabelle mit allen Spalten, + type tag |
+
+## Joins
+
+![[3 joins.png]]
+
+| Outer Join | ⟕ ⟖ ⟗ |
+| ---- | ---- |
+| Equi-Join | Nur $=$ |
+| Theta-Join | $<\ \le\ =\ \ne\ \ge\ >$ |
+| Natural Join | Equi-Join mit gleich heißenden Attributen |
+| Semi-Join | R⋉S bzw. R⋊S: $\pi_{R.*}$ bzw. $\pi_{S.*}$ |
+
+## Division
+
+![[3 division.png|400]]
+
+$$
+(R \times S) \div S = R
+$$
+
+## Heuristiken
+
+- Selektion, Projektion früh und zusammengefasst
+- Kleine Zwischenergebnisse
+- Selektion statt Mengenoperation
+
+## Kardinalitätsschätzung
+
+- $|\sigma_{R.a=x}(R)| = \frac{|R|}{|R.a|}$
+- $sf_P = \frac{|\sigma_PR|}{|R|}$
+- $|R \times S| = |R| \cdot |S|$
+- $0 \le |R \Join S| \le |R| \cdot |S|$
+- $|R \Join_{R.a=S.a} S| = |R|$ bzw. $|S|$
+
+## Abhängigkeit
+
+$A \Rightarrow B$ falls $A \to B$ und $\nexists A' \subsetneq A: A' \to B$
+
+## Schlüssel
+
+- Superschlüssel: $A \to R$
+- Schlüsselkandidat: $A \Rightarrow R$
+
+## Normalformen
+
+| NF | Eigenschaften | Überführung |
+| ---- | ---- | ---- |
+| 1NF | Attribute sind atomar | Attribute flachklopfen |
+| 2NF | nicht-Schlüsselattribute hängen voll vom ganzen Schlüssel ab | Zerlegung in Tabellen |
+| 3NF | keine transitive Abhängigkeiten |  |

@@ -2,7 +2,6 @@
 
 ![[2 weak entity.png|600]]
 
-
 # Ternäre Beziehungen
 
 ![[2 ternary rel.png|600]]
