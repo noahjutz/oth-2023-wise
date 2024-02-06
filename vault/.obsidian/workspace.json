@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df751b043288f79f",
+        "id": "d97470625462cf8f",
         "type": "tabs",
         "children": [
           {
-            "id": "e5d54fb0a6888abc",
+            "id": "be867aec18751dde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3886ca01bf8a122d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
+                "file": "DB/klausurvorbereitung/formelsammlung alt.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md",
+                "file": "DB/klausurvorbereitung/formelsammlung alt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md",
+                "file": "DB/klausurvorbereitung/formelsammlung alt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md"
+                "file": "DB/klausurvorbereitung/formelsammlung alt.md"
               }
             }
           }
@@ -159,41 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5d54fb0a6888abc",
+  "active": "be867aec18751dde",
   "lastOpenFiles": [
+    "Pasted image 20240206151309.png",
+    "DB/klausurvorbereitung/formelsammlung alt.md",
+    "DB/uebungen/uebung 12/aufgabe 1.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
     "DB/klausurvorbereitung/cheat sheet.md",
+    "DB/uebungen/uebung 12/aufgabe 2.md",
+    "DB/uebungen/uebung 12/aufgabe 3.md",
+    "DB/uebungen/uebung 11/aufgabe 1.md",
+    "DB/uebungen/uebung 11/aufgabe 0.md",
+    "DB/uebungen/uebung 6/aufgabe 2.md",
+    "DB/uebungen/uebung 6/aufgabe 1.md",
+    "DB/uebungen/uebung 9/aufgabe 1.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 5.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 4.md",
     "_general/Auslandsstudium/README.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 3.md",
     "DB/uebungen/uebung 6/aufgabe 3.md",
-    "DB/uebungen/uebung 6/aufgabe 2.md",
-    "DB/uebungen/uebung 6/aufgabe 1.md",
     "DB/uebungen/uebung 6/aufgaben.pdf",
-    "Pasted image 20240206151309.png",
     "DB/klausurvorbereitung/wiederholung/3 division.png",
     "DB/klausurvorbereitung/joins.png",
     "DB/klausurvorbereitung/3 joins.png",
     "DB/klausurvorbereitung/wiederholung/kapitel 2.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 1.md",
-    "DB/klausurvorbereitung/formelsammlung alt.md",
     "_general/Auslandsstudium/Auswahl Hochschule/1 USST.md",
     "_general/Auslandsstudium/Auswahl Hochschule/10 HCMUT.md",
-    "DB/uebungen/uebung 12/aufgabe 3.md",
     "DB/uebungen/uebung 12/aufgaben.pdf",
     "DB/uebungen/uebung 12/b plus tree 1.png",
-    "DB/uebungen/uebung 12/aufgabe 2.md",
-    "DB/uebungen/uebung 12/aufgabe 1.md",
     "_general/Auslandsstudium/Auswahl Hochschule/README.md",
     "_general/Auslandsstudium/Auswahl Hochschule/2 SZTU.md",
     "_general/Auslandsstudium/Auswahl Hochschule/3 QUST.md",
     "_general/Auslandsstudium/Auswahl Hochschule/4 METU.md",
     "_general/Auslandsstudium/Auswahl Hochschule/6 SIT.md",
-    "_general/Auslandsstudium/Auswahl Hochschule/14 HUST.md",
-    "DB/uebungen/uebung 11/aufgabe 1.md",
-    "DB/uebungen/uebung 11/aufgabe 0.md",
-    "DB/uebungen/uebung 10/aufgabe 1.md",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",
     "DB/klausurvorbereitung/wiederholung/3 joins.png",

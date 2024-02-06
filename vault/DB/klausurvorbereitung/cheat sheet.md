@@ -185,19 +185,19 @@ SELECT CASE preis WHEN 0 THEN 'kostenlos' ELSE preis END FROM ...;
 # 5 Mehrbenutzerbetrieb
 
 ```postgresql
-CREATE [MATERIALIZED] VIEW my_view AS SELECT ... WITH CHECK OPTION;
+CREATE [MATERIALIZED] VIEW my_view AS SELECT ... [WITH CHECK OPTION];
 REFRESH MATERIALIZED VIEW my_mat_view;
 ```
 
 ```postgresql
-CREATE USER noah WITH PASSWORD "abc";
+CREATE USER noah WITH PASSWORD 'abc';
 CREATE ROLE cool;
 GRANT cool TO noah;
 ```
 
 ```postgresql
 GRANT {PERM} ON {ALL TABLES|...} [IN SCHEMA my_schema] TO {USER} [WITH GRANT OPTION];
-REVOKE {PERM} {RESTRICT|CASCADE};
+REVOKE {PERM} FROM {USER} [RESTRICT|CASCADE];
 ```
 
 - **Dirty Read**: Unterschiedliche Werte
@@ -224,6 +224,15 @@ REVOKE {PERM} {RESTRICT|CASCADE};
 # 6 Anwendungsentwicklung
 
 ## JDBC
+
+```java
+// Summary:
+"jdbc://postgresql://host/db?currentSchema=schema";
+DriverManager.getConnection(url, user, pass);
+conn.prepareStatement("...").setString(1, "...");
+st.executeQuery().next().getString(1);
+rs.getMetaData().getColumnCount();
+```
 
 ```java
 String url = "jdbc://postgresql://host/db?currentSchema=schema"

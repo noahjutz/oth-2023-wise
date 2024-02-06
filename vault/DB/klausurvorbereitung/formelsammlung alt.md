@@ -3,7 +3,6 @@
 
 # Relationale Algebra
 
-
 | Relationale Algebra | SQL |
 | ---- | ---- |
 | Tupel | Zeilen |
