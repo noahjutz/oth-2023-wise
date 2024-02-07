@@ -11,9 +11,11 @@
             "id": "be867aec18751dde",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DB/uebungen/uebung 13/aufgaben.pdf"
+                "file": "DB/klausurvorbereitung/cheat sheet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/uebungen/uebung 13/aufgaben.pdf",
+                "file": "DB/klausurvorbereitung/cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/uebungen/uebung 13/aufgaben.pdf",
+                "file": "DB/klausurvorbereitung/cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/uebungen/uebung 13/aufgaben.pdf"
+                "file": "DB/klausurvorbereitung/cheat sheet.md"
               }
             }
           }
@@ -146,6 +148,7 @@
   },
   "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "DB/uebungen/uebung 13/aufgaben.pdf",
     "DB/klausurvorbereitung/formelsammlung alt.md",
     "Pasted image 20240206151309.png",
     "DB/uebungen/uebung 12/aufgabe 1.md",
