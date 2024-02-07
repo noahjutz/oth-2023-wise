@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md",
+                "file": "_general/Auslandsstudium/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md",
+                "file": "_general/Auslandsstudium/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md",
+                "file": "_general/Auslandsstudium/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/klausurvorbereitung/cheat sheet.md"
+                "file": "_general/Auslandsstudium/README.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "61958a80c6bdd6aa",
   "lastOpenFiles": [
+    "DB/klausurvorbereitung/cheat sheet.md",
     "DB/uebungen/uebung 13/aufgaben.pdf",
     "DB/klausurvorbereitung/formelsammlung alt.md",
     "Pasted image 20240206151309.png",
     "DB/uebungen/uebung 12/aufgabe 1.md",
     "DB/klausurvorbereitung/wiederholung/kapitel 6.md",
-    "DB/klausurvorbereitung/cheat sheet.md",
     "DB/uebungen/uebung 12/aufgabe 2.md",
     "DB/uebungen/uebung 12/aufgabe 3.md",
     "DB/uebungen/uebung 11/aufgabe 1.md",
@@ -193,7 +193,6 @@
     "MA2/wiederholungen/blatt 4/aufgaben.pdf",
     "MA2/wiederholungen/blatt 4",
     "MA2/uebungen/uebung 7/aufgaben.pdf",
-    "KS/tutorium/tutorium 10 TCPIP4/flow graph.pdf",
     "Untitled.canvas",
     "somecanvas.canvas"
   ]
